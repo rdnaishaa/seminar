@@ -1,0 +1,9 @@
+resolution,input_steps,input_duration_hours,horizon_steps,horizon_duration_hours,possible_samples
+1-hour,3,3,1,1,9
+1-hour,3,3,3,3,6
+1-hour,6,6,1,1,5
+1-hour,6,6,3,3,3
+2-hour,3,6,1,2,1
+2-hour,3,6,3,6,0
+2-hour,6,12,1,2,0
+2-hour,6,12,3,6,0
