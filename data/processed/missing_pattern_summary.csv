@@ -1,0 +1,15 @@
+corridor,expected_hours,observed_hours,missing_hours,coverage_percentage,num_gap_sequences,one_hour_gaps,two_hour_gaps,long_gaps_3h_plus,largest_missing_gap_hours
+Tol Jakarta-Cikampek,702,392,310,55.84,228,227,0,1,83
+Tol Jagorawi (Bogor),702,392,310,55.84,228,227,0,1,83
+BSD/Serpong,702,392,310,55.84,228,227,0,1,83
+Cawang interchange,702,392,310,55.84,228,227,0,1,83
+Jl. Margonda (Depok),702,392,310,55.84,228,227,0,1,83
+Jl. Gatot Subroto,702,392,310,55.84,228,227,0,1,83
+Grogol,702,392,310,55.84,228,227,0,1,83
+Tol Kebon Jeruk,702,392,310,55.84,228,227,0,1,83
+Kelapa Gading,702,392,310,55.84,228,227,0,1,83
+Jl. HR Rasuna Said,702,392,310,55.84,228,227,0,1,83
+Jl. Sudirman (HI),702,392,310,55.84,228,227,0,1,83
+Tol Jakarta-Merak,702,392,310,55.84,228,227,0,1,83
+TB Simatupang,702,392,310,55.84,228,227,0,1,83
+Jl. MH Thamrin,702,392,310,55.84,228,227,0,1,83

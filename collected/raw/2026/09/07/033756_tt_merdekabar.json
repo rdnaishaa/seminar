@@ -1,0 +1,70 @@
+{
+  "frc": "FRC4",
+  "currentSpeed": 27,
+  "freeFlowSpeed": 27,
+  "currentTravelTime": 68,
+  "freeFlowTravelTime": 68,
+  "confidence": 1,
+  "roadClosure": false,
+  "coordinates": {
+    "coordinate": [
+      {
+        "latitude": -6.17546968358618,
+        "longitude": 106.81574462140344
+      },
+      {
+        "latitude": -6.175511266571494,
+        "longitude": 106.8164822288827
+      },
+      {
+        "latitude": -6.17551801651471,
+        "longitude": 106.81661768043801
+      },
+      {
+        "latitude": -6.175530099746146,
+        "longitude": 106.81681750500968
+      },
+      {
+        "latitude": -6.175542099644683,
+        "longitude": 106.81705890382102
+      },
+      {
+        "latitude": -6.175548849587491,
+        "longitude": 106.81716350997266
+      },
+      {
+        "latitude": -6.175555516197591,
+        "longitude": 106.81729762042346
+      },
+      {
+        "latitude": -6.175591765888515,
+        "longitude": 106.81790648186995
+      },
+      {
+        "latitude": -6.175610515727672,
+        "longitude": 106.81821895922025
+      },
+      {
+        "latitude": -6.175611849049552,
+        "longitude": 106.81824175799687
+      },
+      {
+        "latitude": -6.175658848643403,
+        "longitude": 106.81897534216267
+      },
+      {
+        "latitude": -6.175712431508539,
+        "longitude": 106.81949434960717
+      },
+      {
+        "latitude": -6.175759431093395,
+        "longitude": 106.8199208208406
+      },
+      {
+        "latitude": -6.175813013948406,
+        "longitude": 106.82040227735888
+      }
+    ]
+  },
+  "@version": "4"
+}

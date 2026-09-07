@@ -1,0 +1,7 @@
+feature,method,total_validation_points,mean_mae,mean_rmse
+congestion_ratio,backward_fill,168,0.10650815908008811,0.14779427333063838
+congestion_ratio,forward_fill,168,0.1032618129494363,0.14325298447716445
+congestion_ratio,linear_interpolation,168,0.08579795119432945,0.10753233237358771
+current_speed,backward_fill,168,4.041666666666666,5.716238699293807
+current_speed,forward_fill,168,4.101190476190476,5.674087175591642
+current_speed,linear_interpolation,168,3.2976190476190474,4.134335491301053

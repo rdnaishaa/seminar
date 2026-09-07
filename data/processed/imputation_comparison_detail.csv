@@ -1,0 +1,85 @@
+corridor,feature,method,validation_points,mae,rmse
+Tol Jakarta-Cikampek,current_speed,forward_fill,12,1.6666666666666667,2.886751345948129
+Tol Jakarta-Cikampek,current_speed,backward_fill,12,1.25,2.5
+Tol Jakarta-Cikampek,current_speed,linear_interpolation,12,1.4583333333333333,2.3935677693908453
+Tol Jakarta-Cikampek,congestion_ratio,forward_fill,12,0.07843137254901959,0.13584712216226488
+Tol Jakarta-Cikampek,congestion_ratio,backward_fill,12,0.0588235294117647,0.1176470588235294
+Tol Jakarta-Cikampek,congestion_ratio,linear_interpolation,12,0.06862745098039215,0.11263848326545152
+Tol Jagorawi (Bogor),current_speed,forward_fill,12,3.25,4.769696007084728
+Tol Jagorawi (Bogor),current_speed,backward_fill,12,4.5,5.873670062235365
+Tol Jagorawi (Bogor),current_speed,linear_interpolation,12,3.375,4.529992641642294
+Tol Jagorawi (Bogor),congestion_ratio,forward_fill,12,0.0722222222222222,0.1019553832823638
+Tol Jagorawi (Bogor),congestion_ratio,backward_fill,12,0.09696969696969694,0.1248651621149613
+Tol Jagorawi (Bogor),congestion_ratio,linear_interpolation,12,0.07340067340067337,0.0964379248867385
+BSD/Serpong,current_speed,forward_fill,12,2.75,3.6170890690351176
+BSD/Serpong,current_speed,backward_fill,12,3.1666666666666665,3.8944404818493075
+BSD/Serpong,current_speed,linear_interpolation,12,2.9583333333333335,3.2945662334617993
+BSD/Serpong,congestion_ratio,forward_fill,12,0.08063619387148796,0.10703123583759482
+BSD/Serpong,congestion_ratio,backward_fill,12,0.09086028350734232,0.11229910410474592
+BSD/Serpong,congestion_ratio,linear_interpolation,12,0.08574823868941515,0.09659794399648923
+Cawang interchange,current_speed,forward_fill,12,4.833333333333333,6.48074069840786
+Cawang interchange,current_speed,backward_fill,12,3.6666666666666665,5.477225575051661
+Cawang interchange,current_speed,linear_interpolation,12,3.6666666666666665,4.712571838532897
+Cawang interchange,congestion_ratio,forward_fill,12,0.10889627168696936,0.14585219315690556
+Cawang interchange,congestion_ratio,backward_fill,12,0.08375649371111653,0.12460099820276174
+Cawang interchange,congestion_ratio,linear_interpolation,12,0.08409862337826036,0.10605188133722267
+Jl. Margonda (Depok),current_speed,forward_fill,12,2.1666666666666665,3.24037034920393
+Jl. Margonda (Depok),current_speed,backward_fill,12,2.5,3.5355339059327378
+Jl. Margonda (Depok),current_speed,linear_interpolation,12,2.0833333333333335,2.4238399287081647
+Jl. Margonda (Depok),congestion_ratio,forward_fill,12,0.07375672043010752,0.10788409876162816
+Jl. Margonda (Depok),congestion_ratio,backward_fill,12,0.08450940860215055,0.11713301933384208
+Jl. Margonda (Depok),congestion_ratio,linear_interpolation,12,0.0691364247311828,0.080574513325797
+Jl. Gatot Subroto,current_speed,forward_fill,12,9.75,15.217862311551295
+Jl. Gatot Subroto,current_speed,backward_fill,12,10.25,15.724185193516387
+Jl. Gatot Subroto,current_speed,linear_interpolation,12,8.333333333333334,10.897247358851684
+Jl. Gatot Subroto,congestion_ratio,forward_fill,12,0.2135942760942761,0.3354035551026025
+Jl. Gatot Subroto,congestion_ratio,backward_fill,12,0.2239789196310935,0.34550844651215346
+Jl. Gatot Subroto,congestion_ratio,linear_interpolation,12,0.18449971998379477,0.23968497690662158
+Grogol,current_speed,forward_fill,12,1.8333333333333333,2.48327740429189
+Grogol,current_speed,backward_fill,12,2.5,3.415650255319866
+Grogol,current_speed,linear_interpolation,12,1.25,1.7199806200458578
+Grogol,congestion_ratio,forward_fill,12,0.04423076923076925,0.06103055625540523
+Grogol,congestion_ratio,backward_fill,12,0.06250000000000001,0.08539125638299665
+Grogol,congestion_ratio,linear_interpolation,12,0.030448717948717955,0.042385927081941485
+Tol Kebon Jeruk,current_speed,forward_fill,12,2.3333333333333335,3.13581462037113
+Tol Kebon Jeruk,current_speed,backward_fill,12,1.8333333333333333,2.48327740429189
+Tol Kebon Jeruk,current_speed,linear_interpolation,12,1.3333333333333333,1.7440374613713625
+Tol Kebon Jeruk,congestion_ratio,forward_fill,12,0.06593915343915345,0.0866997654686881
+Tol Kebon Jeruk,congestion_ratio,backward_fill,12,0.056812169312169314,0.07198818116839145
+Tol Kebon Jeruk,congestion_ratio,linear_interpolation,12,0.037764550264550285,0.04709477711392312
+Kelapa Gading,current_speed,forward_fill,12,2.0,2.7688746209726918
+Kelapa Gading,current_speed,backward_fill,12,1.8333333333333333,2.857738033247041
+Kelapa Gading,current_speed,linear_interpolation,12,1.5,1.7911821050170564
+Kelapa Gading,congestion_ratio,forward_fill,12,0.0689655172413793,0.09547843520595488
+Kelapa Gading,congestion_ratio,backward_fill,12,0.06321839080459768,0.09854269080162209
+Kelapa Gading,congestion_ratio,linear_interpolation,12,0.05172413793103447,0.06176490017300193
+Jl. HR Rasuna Said,current_speed,forward_fill,12,2.1666666666666665,3.2145502536643185
+Jl. HR Rasuna Said,current_speed,backward_fill,12,3.5833333333333335,4.406434688800762
+Jl. HR Rasuna Said,current_speed,linear_interpolation,12,2.2916666666666665,2.947456530637899
+Jl. HR Rasuna Said,congestion_ratio,forward_fill,12,0.10376984126984125,0.15001417166614717
+Jl. HR Rasuna Said,congestion_ratio,backward_fill,12,0.16884920634920633,0.20356678728580813
+Jl. HR Rasuna Said,congestion_ratio,linear_interpolation,12,0.10813492063492065,0.14079195074222803
+Jl. Sudirman (HI),current_speed,forward_fill,12,4.333333333333333,5.461989869391313
+Jl. Sudirman (HI),current_speed,backward_fill,12,3.8333333333333335,5.082650227325635
+Jl. Sudirman (HI),current_speed,linear_interpolation,12,2.75,3.129163892586431
+Jl. Sudirman (HI),congestion_ratio,forward_fill,12,0.11847728295096716,0.1459790642087342
+Jl. Sudirman (HI),congestion_ratio,backward_fill,12,0.10335132703553757,0.1365064633347473
+Jl. Sudirman (HI),congestion_ratio,linear_interpolation,12,0.07723234367971209,0.08671388018239762
+Tol Jakarta-Merak,current_speed,forward_fill,12,6.666666666666667,8.195527235429498
+Tol Jakarta-Merak,current_speed,backward_fill,12,4.5,6.757711644237764
+Tol Jakarta-Merak,current_speed,linear_interpolation,12,5.083333333333333,5.993051532121734
+Tol Jakarta-Merak,congestion_ratio,forward_fill,12,0.13888888888888887,0.16878367115534687
+Tol Jakarta-Merak,congestion_ratio,backward_fill,12,0.09227245862884159,0.13741861587579457
+Tol Jakarta-Merak,congestion_ratio,linear_interpolation,12,0.10361258865248224,0.12317804359689374
+TB Simatupang,current_speed,forward_fill,12,10.916666666666666,14.256577429383253
+TB Simatupang,current_speed,backward_fill,12,9.166666666666666,12.90348790056394
+TB Simatupang,current_speed,linear_interpolation,12,7.125,8.795121753942164
+TB Simatupang,congestion_ratio,forward_fill,12,0.15208831630064504,0.20042266416267202
+TB Simatupang,congestion_ratio,backward_fill,12,0.12689767473435232,0.17976871612431725
+TB Simatupang,congestion_ratio,linear_interpolation,12,0.10138005863695616,0.12432644922763245
+Jl. MH Thamrin,current_speed,forward_fill,12,2.75,3.7080992435478315
+Jl. MH Thamrin,current_speed,backward_fill,12,4.0,5.115336417740935
+Jl. MH Thamrin,current_speed,linear_interpolation,12,2.9583333333333335,3.5089172119045497
+Jl. MH Thamrin,congestion_ratio,forward_fill,12,0.1257685551163812,0.16315986625399403
+Jl. MH Thamrin,congestion_ratio,backward_fill,12,0.17831466842336408,0.21388332656326592
+Jl. MH Thamrin,congestion_ratio,linear_interpolation,12,0.12536286780851996,0.14721100139388898
