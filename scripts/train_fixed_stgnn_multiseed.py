@@ -20,12 +20,20 @@ RESULT_DIR.mkdir(parents=True, exist_ok=True)
 
 HORIZONS = [1, 3, 6]
 
-SEED = 42
+parser = argparse.ArgumentParser()
+parser.add_argument("--seed", type=int, default=42)
+args = parser.parse_args()
+
+SEED = args.seed
 EPOCHS = 100
 BATCH_SIZE = 32
 
-np.random.seed(SEED)
-tf.random.set_seed(SEED)
+tf.keras.utils.set_random_seed(SEED)
+
+try:
+    tf.config.experimental.enable_op_determinism()
+except Exception:
+    pass
 
 # =========================================================
 # LOAD DATA
@@ -451,7 +459,7 @@ pd.DataFrame(
     results
 ).to_csv(
     RESULT_DIR /
-    "fixed_stgnn_results.csv",
+    f"fixed_stgnn_seed{SEED}_results.csv",
     index=False
 )
 
@@ -460,7 +468,7 @@ pd.DataFrame(
     prediction_rows
 ).to_csv(
     RESULT_DIR /
-    "fixed_stgnn_predictions.csv",
+    f"fixed_stgnn_seed{SEED}_predictions.csv",
     index=False
 )
 
@@ -469,19 +477,19 @@ pd.DataFrame(
     history.history
 ).to_csv(
     RESULT_DIR /
-    "fixed_stgnn_training_history.csv",
+    f"fixed_stgnn_seed{SEED}_training_history.csv",
     index=False
 )
 
 
 model.save_weights(
     RESULT_DIR /
-    "fixed_stgnn.weights.h5"
+    f"fixed_stgnn_seed{SEED}.weights.h5"
 )
 
 
 print("\n=== SAVED ===")
-print("outputs/results/fixed_stgnn_results.csv")
-print("outputs/results/fixed_stgnn_predictions.csv")
-print("outputs/results/fixed_stgnn_training_history.csv")
-print("outputs/results/fixed_stgnn.weights.h5")
+print(f"outputs/results/fixed_stgnn_seed{SEED}_results.csv")
+print(f"outputs/results/fixed_stgnn_seed{SEED}_predictions.csv")
+print(f"outputs/results/fixed_stgnn_seed{SEED}_training_history.csv")
+print(f"outputs/results/fixed_stgnn_seed{SEED}.weights.h5")

@@ -20,12 +20,20 @@ RESULT_DIR.mkdir(parents=True, exist_ok=True)
 
 HORIZONS = [1, 3, 6]
 
-SEED = 42
+parser = argparse.ArgumentParser()
+parser.add_argument("--seed", type=int, default=42)
+args = parser.parse_args()
+
+SEED = args.seed
 EPOCHS = 100
 BATCH_SIZE = 32
 
-np.random.seed(SEED)
-tf.random.set_seed(SEED)
+tf.keras.utils.set_random_seed(SEED)
+
+try:
+    tf.config.experimental.enable_op_determinism()
+except Exception:
+    pass
 
 # =========================================================
 # LOAD DATA
@@ -64,14 +72,14 @@ NUM_NODES = X_train.shape[2]
 INPUT_LENGTH = X_train.shape[1]
 
 
-print("\n=== FIXED GRAPH ST-GNN ===")
+print("\n=== ADAPTIVE GRAPH ST-GNN ===")
 print(f"Train X : {X_train.shape}")
 print(f"Val X   : {X_val.shape}")
 print(f"Test X  : {X_test.shape}")
 
 
 # =========================================================
-# LOAD FIXED ADJACENCY
+# LOAD Adaptive ADJACENCY
 # =========================================================
 adj_df = pd.read_csv(
     RESULT_DIR / "fixed_graph_adjacency.csv",
@@ -158,34 +166,91 @@ val_target = combine_y_mask(
 )
 
 
-class FixedGraphConv(tf.keras.layers.Layer):
+# =========================================================
+# ADAPTIVE GRAPH CONVOLUTION
+# Same symmetric normalization as Fixed Graph:
+# A_norm = D^(-1/2) A D^(-1/2)
+# =========================================================
+class AdaptiveGraphConv(tf.keras.layers.Layer):
 
     def __init__(
         self,
         units,
-        adjacency,
+        num_nodes,
+        embedding_dim=8,
         **kwargs
     ):
         super().__init__(**kwargs)
 
         self.units = units
-        self.adjacency = adjacency
+        self.num_nodes = num_nodes
+        self.embedding_dim = embedding_dim
 
         self.projection = tf.keras.layers.Dense(
             units,
             activation="relu"
         )
 
+    def build(self, input_shape):
+
+        self.node_embeddings = self.add_weight(
+            name="node_embeddings",
+            shape=(self.num_nodes, self.embedding_dim),
+            initializer="glorot_uniform",
+            trainable=True
+        )
+
+        super().build(input_shape)
+
+    def compute_adjacency(self):
+
+        # Learned symmetric similarity
+        scores = tf.matmul(
+            self.node_embeddings,
+            self.node_embeddings,
+            transpose_b=True
+        )
+
+        scores = tf.nn.relu(scores)
+
+        # Explicit self-loop
+        adjacency = (
+            scores
+            + tf.eye(
+                self.num_nodes,
+                dtype=scores.dtype
+            )
+        )
+
+        # Same symmetric normalization as training
+        degree = tf.reduce_sum(
+            adjacency,
+            axis=1
+        )
+
+        d_inv_sqrt = tf.math.rsqrt(
+            degree + 1e-8
+        )
+
+        adjacency_norm = (
+            adjacency
+            * d_inv_sqrt[:, None]
+            * d_inv_sqrt[None, :]
+        )
+
+        return adjacency_norm
+
     def call(self, inputs):
 
-        # Informasi dari graph / neighbors
+        adjacency = self.compute_adjacency()
+
         graph_x = tf.einsum(
             "ij,btjf->btif",
-            self.adjacency,
+            adjacency,
             inputs
         )
 
-        # Pertahankan informasi asli node + informasi graph
+        # Same raw + graph path as training
         x = tf.concat(
             [inputs, graph_x],
             axis=-1
@@ -195,6 +260,10 @@ class FixedGraphConv(tf.keras.layers.Layer):
 
         return x
 
+    def get_adjacency(self):
+
+        return self.compute_adjacency()
+        
 # =========================================================
 # MODEL
 # =========================================================
@@ -207,10 +276,11 @@ inputs = tf.keras.Input(
 )
 
 # Spatial modeling
-x = FixedGraphConv(
+x = AdaptiveGraphConv(
     units=16,
-    adjacency=A_tf,
-    name="fixed_graph_conv"
+    num_nodes=NUM_NODES,
+    embedding_dim=8,
+    name="adaptive_graph_conv"
 )(inputs)
 
 
@@ -394,14 +464,14 @@ for h_idx, horizon in enumerate(HORIZONS):
     )
 
     print(
-        f"\nFixed ST-GNN t+{horizon}h | "
+        f"\nAdaptive ST-GNN t+{horizon}h | "
         f"MAE = {mae:.3f} km/h | "
         f"RMSE = {rmse:.3f} km/h | "
         f"Points = {len(true)}"
     )
 
     results.append({
-        "model": "Fixed ST-GNN",
+        "model": "Adaptive ST-GNN",
         "horizon": horizon,
         "MAE": mae,
         "RMSE": rmse,
@@ -436,13 +506,12 @@ for h_idx, horizon in enumerate(HORIZONS):
                     h_idx,
                     node_idx
                 ],
-                "fixed_stgnn_pred": y_pred[
+                "adaptive_stgnn_pred": y_pred[
                     sample_idx,
                     h_idx,
                     node_idx
                 ]
             })
-
 
 # =========================================================
 # SAVE
@@ -451,7 +520,7 @@ pd.DataFrame(
     results
 ).to_csv(
     RESULT_DIR /
-    "fixed_stgnn_results.csv",
+    f"adaptive_stgnn_seed{SEED}_results.csv",
     index=False
 )
 
@@ -460,7 +529,7 @@ pd.DataFrame(
     prediction_rows
 ).to_csv(
     RESULT_DIR /
-    "fixed_stgnn_predictions.csv",
+    f"adaptive_stgnn_seed{SEED}_predictions.csv",
     index=False
 )
 
@@ -469,19 +538,19 @@ pd.DataFrame(
     history.history
 ).to_csv(
     RESULT_DIR /
-    "fixed_stgnn_training_history.csv",
+    f"adaptive_stgnn_seed{SEED}_training_history.csv",
     index=False
 )
 
 
 model.save_weights(
     RESULT_DIR /
-    "fixed_stgnn.weights.h5"
+    f"adaptive_stgnn_seed{SEED}.weights.h5"
 )
 
 
 print("\n=== SAVED ===")
-print("outputs/results/fixed_stgnn_results.csv")
-print("outputs/results/fixed_stgnn_predictions.csv")
-print("outputs/results/fixed_stgnn_training_history.csv")
-print("outputs/results/fixed_stgnn.weights.h5")
+print(f"outputs/results/adaptive_stgnn_seed{SEED}_results.csv")
+print(f"outputs/results/adaptive_stgnn_seed{SEED}_predictions.csv")
+print(f"outputs/results/adaptive_stgnn_seed{SEED}_training_history.csv")
+print(f"outputs/results/adaptive_stgnn_seed{SEED}.weights.h5")
