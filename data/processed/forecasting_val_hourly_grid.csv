@@ -1,0 +1,1331 @@
+obs_time_utc,corridor_file,name,city,current_speed,free_flow_speed,current_travel_time,free_flow_travel_time,congestion_ratio,road_closure,confidence,is_observed
+2026-08-13 13:00:00+00:00,tt_bekasi,Tol Jakarta-Cikampek,Jabodetabek,14.0,17.0,1378.0,1135.0,0.1764705882352941,1.0,0.930669,True
+2026-08-13 13:00:00+00:00,tt_bogor,Tol Jagorawi (Bogor),Jabodetabek,45.0,45.0,658.0,658.0,0.0,0.0,1.0,True
+2026-08-13 13:00:00+00:00,tt_bsd,BSD/Serpong,Jabodetabek,34.0,34.0,165.0,165.0,0.0,0.0,1.0,True
+2026-08-13 13:00:00+00:00,tt_cawang,Cawang interchange,Jabodetabek,43.0,43.0,62.0,62.0,0.0,0.0,1.0,True
+2026-08-13 13:00:00+00:00,tt_depok,Jl. Margonda (Depok),Jabodetabek,26.0,31.0,2120.0,1778.0,0.1612903225806451,0.0,0.994533,True
+2026-08-13 13:00:00+00:00,tt_gatsu,Jl. Gatot Subroto,Jabodetabek,14.0,44.0,168.0,53.0,0.6818181818181819,0.0,1.0,True
+2026-08-13 13:00:00+00:00,tt_grogol,Grogol,Jabodetabek,33.0,40.0,369.0,304.0,0.175,0.0,1.0,True
+2026-08-13 13:00:00+00:00,tt_kebonjeruk,Tol Kebon Jeruk,Jabodetabek,25.0,36.0,1622.0,1126.0,0.3055555555555556,0.0,1.0,True
+2026-08-13 13:00:00+00:00,tt_kelapagading,Kelapa Gading,Jabodetabek,22.0,29.0,1396.0,1059.0,0.2413793103448276,0.0,1.0,True
+2026-08-13 13:00:00+00:00,tt_kuningan,Jl. HR Rasuna Said,Jabodetabek,13.0,20.0,336.0,218.0,0.35,0.0,1.0,True
+2026-08-13 13:00:00+00:00,tt_sudirman,Jl. Sudirman (HI),Jabodetabek,24.0,39.0,598.0,368.0,0.3846153846153846,0.0,1.0,True
+2026-08-13 13:00:00+00:00,tt_tangerang,Tol Jakarta-Merak,Jabodetabek,35.0,47.0,264.0,197.0,0.2553191489361702,0.0,1.0,True
+2026-08-13 13:00:00+00:00,tt_tbsimatupang,TB Simatupang,Jabodetabek,56.0,71.0,441.0,348.0,0.2112676056338028,0.0,1.0,True
+2026-08-13 13:00:00+00:00,tt_thamrin,Jl. MH Thamrin,Jabodetabek,10.0,21.0,574.0,273.0,0.5238095238095238,0.0,1.0,True
+2026-08-13 14:00:00+00:00,tt_bekasi,Tol Jakarta-Cikampek,Jabodetabek,15.0,17.0,1286.0,1135.0,0.1176470588235294,1.0,0.891171,True
+2026-08-13 14:00:00+00:00,tt_bogor,Tol Jagorawi (Bogor),Jabodetabek,45.0,45.0,658.0,658.0,0.0,0.0,1.0,True
+2026-08-13 14:00:00+00:00,tt_bsd,BSD/Serpong,Jabodetabek,34.0,34.0,165.0,165.0,0.0,0.0,1.0,True
+2026-08-13 14:00:00+00:00,tt_cawang,Cawang interchange,Jabodetabek,43.0,43.0,62.0,62.0,0.0,0.0,1.0,True
+2026-08-13 14:00:00+00:00,tt_depok,Jl. Margonda (Depok),Jabodetabek,27.0,31.0,2042.0,1778.0,0.1290322580645161,0.0,0.995773,True
+2026-08-13 14:00:00+00:00,tt_gatsu,Jl. Gatot Subroto,Jabodetabek,45.0,45.0,52.0,52.0,0.0,0.0,1.0,True
+2026-08-13 14:00:00+00:00,tt_grogol,Grogol,Jabodetabek,40.0,40.0,304.0,304.0,0.0,0.0,1.0,True
+2026-08-13 14:00:00+00:00,tt_kebonjeruk,Tol Kebon Jeruk,Jabodetabek,29.0,35.0,1398.0,1158.0,0.1714285714285713,0.0,1.0,True
+2026-08-13 14:00:00+00:00,tt_kelapagading,Kelapa Gading,Jabodetabek,29.0,29.0,1059.0,1059.0,0.0,0.0,1.0,True
+2026-08-13 14:00:00+00:00,tt_kuningan,Jl. HR Rasuna Said,Jabodetabek,16.0,20.0,273.0,218.0,0.1999999999999999,0.0,1.0,True
+2026-08-13 14:00:00+00:00,tt_sudirman,Jl. Sudirman (HI),Jabodetabek,28.0,39.0,512.0,368.0,0.282051282051282,0.0,1.0,True
+2026-08-13 14:00:00+00:00,tt_tangerang,Tol Jakarta-Merak,Jabodetabek,38.0,48.0,244.0,193.0,0.2083333333333333,0.0,1.0,True
+2026-08-13 14:00:00+00:00,tt_tbsimatupang,TB Simatupang,Jabodetabek,72.0,72.0,343.0,343.0,0.0,0.0,1.0,True
+2026-08-13 14:00:00+00:00,tt_thamrin,Jl. MH Thamrin,Jabodetabek,18.0,24.0,319.0,239.0,0.25,0.0,1.0,True
+2026-08-13 15:00:00+00:00,tt_bekasi,,,,,,,,,,False
+2026-08-13 15:00:00+00:00,tt_bogor,,,,,,,,,,False
+2026-08-13 15:00:00+00:00,tt_bsd,,,,,,,,,,False
+2026-08-13 15:00:00+00:00,tt_cawang,,,,,,,,,,False
+2026-08-13 15:00:00+00:00,tt_depok,,,,,,,,,,False
+2026-08-13 15:00:00+00:00,tt_gatsu,,,,,,,,,,False
+2026-08-13 15:00:00+00:00,tt_grogol,,,,,,,,,,False
+2026-08-13 15:00:00+00:00,tt_kebonjeruk,,,,,,,,,,False
+2026-08-13 15:00:00+00:00,tt_kelapagading,,,,,,,,,,False
+2026-08-13 15:00:00+00:00,tt_kuningan,,,,,,,,,,False
+2026-08-13 15:00:00+00:00,tt_sudirman,,,,,,,,,,False
+2026-08-13 15:00:00+00:00,tt_tangerang,,,,,,,,,,False
+2026-08-13 15:00:00+00:00,tt_tbsimatupang,,,,,,,,,,False
+2026-08-13 15:00:00+00:00,tt_thamrin,,,,,,,,,,False
+2026-08-13 16:00:00+00:00,tt_bekasi,Tol Jakarta-Cikampek,Jabodetabek,17.0,17.0,1135.0,1135.0,0.0,1.0,0.798815,True
+2026-08-13 16:00:00+00:00,tt_bogor,Tol Jagorawi (Bogor),Jabodetabek,45.0,45.0,658.0,658.0,0.0,0.0,1.0,True
+2026-08-13 16:00:00+00:00,tt_bsd,BSD/Serpong,Jabodetabek,34.0,34.0,165.0,165.0,0.0,0.0,1.0,True
+2026-08-13 16:00:00+00:00,tt_cawang,Cawang interchange,Jabodetabek,43.0,43.0,62.0,62.0,0.0,0.0,1.0,True
+2026-08-13 16:00:00+00:00,tt_depok,Jl. Margonda (Depok),Jabodetabek,31.0,31.0,1778.0,1778.0,0.0,0.0,1.0,True
+2026-08-13 16:00:00+00:00,tt_gatsu,Jl. Gatot Subroto,Jabodetabek,45.0,45.0,52.0,52.0,0.0,0.0,1.0,True
+2026-08-13 16:00:00+00:00,tt_grogol,Grogol,Jabodetabek,40.0,40.0,304.0,304.0,0.0,0.0,1.0,True
+2026-08-13 16:00:00+00:00,tt_kebonjeruk,Tol Kebon Jeruk,Jabodetabek,35.0,35.0,1158.0,1158.0,0.0,0.0,1.0,True
+2026-08-13 16:00:00+00:00,tt_kelapagading,Kelapa Gading,Jabodetabek,29.0,29.0,1059.0,1059.0,0.0,0.0,1.0,True
+2026-08-13 16:00:00+00:00,tt_kuningan,Jl. HR Rasuna Said,Jabodetabek,21.0,21.0,208.0,208.0,0.0,0.0,1.0,True
+2026-08-13 16:00:00+00:00,tt_sudirman,Jl. Sudirman (HI),Jabodetabek,38.0,38.0,377.0,377.0,0.0,0.0,1.0,True
+2026-08-13 16:00:00+00:00,tt_tangerang,Tol Jakarta-Merak,Jabodetabek,48.0,48.0,193.0,193.0,0.0,0.0,1.0,True
+2026-08-13 16:00:00+00:00,tt_tbsimatupang,TB Simatupang,Jabodetabek,72.0,72.0,343.0,343.0,0.0,0.0,1.0,True
+2026-08-13 16:00:00+00:00,tt_thamrin,Jl. MH Thamrin,Jabodetabek,22.0,22.0,261.0,261.0,0.0,0.0,1.0,True
+2026-08-13 17:00:00+00:00,tt_bekasi,Tol Jakarta-Cikampek,Jabodetabek,17.0,17.0,1135.0,1135.0,0.0,1.0,0.751175,True
+2026-08-13 17:00:00+00:00,tt_bogor,Tol Jagorawi (Bogor),Jabodetabek,45.0,45.0,658.0,658.0,0.0,0.0,1.0,True
+2026-08-13 17:00:00+00:00,tt_bsd,BSD/Serpong,Jabodetabek,34.0,34.0,165.0,165.0,0.0,0.0,1.0,True
+2026-08-13 17:00:00+00:00,tt_cawang,Cawang interchange,Jabodetabek,43.0,43.0,62.0,62.0,0.0,0.0,1.0,True
+2026-08-13 17:00:00+00:00,tt_depok,Jl. Margonda (Depok),Jabodetabek,31.0,31.0,1778.0,1778.0,0.0,0.0,1.0,True
+2026-08-13 17:00:00+00:00,tt_gatsu,Jl. Gatot Subroto,Jabodetabek,45.0,45.0,52.0,52.0,0.0,0.0,1.0,True
+2026-08-13 17:00:00+00:00,tt_grogol,Grogol,Jabodetabek,40.0,40.0,304.0,304.0,0.0,0.0,1.0,True
+2026-08-13 17:00:00+00:00,tt_kebonjeruk,Tol Kebon Jeruk,Jabodetabek,35.0,35.0,1158.0,1158.0,0.0,0.0,1.0,True
+2026-08-13 17:00:00+00:00,tt_kelapagading,Kelapa Gading,Jabodetabek,29.0,29.0,1059.0,1059.0,0.0,0.0,1.0,True
+2026-08-13 17:00:00+00:00,tt_kuningan,Jl. HR Rasuna Said,Jabodetabek,21.0,21.0,208.0,208.0,0.0,0.0,1.0,True
+2026-08-13 17:00:00+00:00,tt_sudirman,Jl. Sudirman (HI),Jabodetabek,38.0,38.0,377.0,377.0,0.0,0.0,1.0,True
+2026-08-13 17:00:00+00:00,tt_tangerang,Tol Jakarta-Merak,Jabodetabek,48.0,48.0,193.0,193.0,0.0,0.0,1.0,True
+2026-08-13 17:00:00+00:00,tt_tbsimatupang,TB Simatupang,Jabodetabek,72.0,72.0,343.0,343.0,0.0,0.0,1.0,True
+2026-08-13 17:00:00+00:00,tt_thamrin,Jl. MH Thamrin,Jabodetabek,22.0,22.0,261.0,261.0,0.0,0.0,1.0,True
+2026-08-13 18:00:00+00:00,tt_bekasi,,,,,,,,,,False
+2026-08-13 18:00:00+00:00,tt_bogor,,,,,,,,,,False
+2026-08-13 18:00:00+00:00,tt_bsd,,,,,,,,,,False
+2026-08-13 18:00:00+00:00,tt_cawang,,,,,,,,,,False
+2026-08-13 18:00:00+00:00,tt_depok,,,,,,,,,,False
+2026-08-13 18:00:00+00:00,tt_gatsu,,,,,,,,,,False
+2026-08-13 18:00:00+00:00,tt_grogol,,,,,,,,,,False
+2026-08-13 18:00:00+00:00,tt_kebonjeruk,,,,,,,,,,False
+2026-08-13 18:00:00+00:00,tt_kelapagading,,,,,,,,,,False
+2026-08-13 18:00:00+00:00,tt_kuningan,,,,,,,,,,False
+2026-08-13 18:00:00+00:00,tt_sudirman,,,,,,,,,,False
+2026-08-13 18:00:00+00:00,tt_tangerang,,,,,,,,,,False
+2026-08-13 18:00:00+00:00,tt_tbsimatupang,,,,,,,,,,False
+2026-08-13 18:00:00+00:00,tt_thamrin,,,,,,,,,,False
+2026-08-13 19:00:00+00:00,tt_bekasi,Tol Jakarta-Cikampek,Jabodetabek,18.0,18.0,1072.0,1072.0,0.0,1.0,0.657378,True
+2026-08-13 19:00:00+00:00,tt_bogor,Tol Jagorawi (Bogor),Jabodetabek,45.0,45.0,658.0,658.0,0.0,0.0,1.0,True
+2026-08-13 19:00:00+00:00,tt_bsd,BSD/Serpong,Jabodetabek,34.0,34.0,165.0,165.0,0.0,0.0,1.0,True
+2026-08-13 19:00:00+00:00,tt_cawang,Cawang interchange,Jabodetabek,43.0,43.0,62.0,62.0,0.0,0.0,1.0,True
+2026-08-13 19:00:00+00:00,tt_depok,Jl. Margonda (Depok),Jabodetabek,31.0,31.0,1778.0,1778.0,0.0,0.0,1.0,True
+2026-08-13 19:00:00+00:00,tt_gatsu,Jl. Gatot Subroto,Jabodetabek,45.0,45.0,52.0,52.0,0.0,0.0,1.0,True
+2026-08-13 19:00:00+00:00,tt_grogol,Grogol,Jabodetabek,40.0,40.0,304.0,304.0,0.0,0.0,1.0,True
+2026-08-13 19:00:00+00:00,tt_kebonjeruk,Tol Kebon Jeruk,Jabodetabek,35.0,35.0,1158.0,1158.0,0.0,0.0,1.0,True
+2026-08-13 19:00:00+00:00,tt_kelapagading,Kelapa Gading,Jabodetabek,29.0,29.0,1059.0,1059.0,0.0,0.0,1.0,True
+2026-08-13 19:00:00+00:00,tt_kuningan,Jl. HR Rasuna Said,Jabodetabek,21.0,21.0,208.0,208.0,0.0,0.0,1.0,True
+2026-08-13 19:00:00+00:00,tt_sudirman,Jl. Sudirman (HI),Jabodetabek,38.0,38.0,377.0,377.0,0.0,0.0,1.0,True
+2026-08-13 19:00:00+00:00,tt_tangerang,Tol Jakarta-Merak,Jabodetabek,48.0,48.0,193.0,193.0,0.0,0.0,1.0,True
+2026-08-13 19:00:00+00:00,tt_tbsimatupang,TB Simatupang,Jabodetabek,72.0,72.0,343.0,343.0,0.0,0.0,1.0,True
+2026-08-13 19:00:00+00:00,tt_thamrin,Jl. MH Thamrin,Jabodetabek,22.0,22.0,261.0,261.0,0.0,0.0,1.0,True
+2026-08-13 20:00:00+00:00,tt_bekasi,,,,,,,,,,False
+2026-08-13 20:00:00+00:00,tt_bogor,,,,,,,,,,False
+2026-08-13 20:00:00+00:00,tt_bsd,,,,,,,,,,False
+2026-08-13 20:00:00+00:00,tt_cawang,,,,,,,,,,False
+2026-08-13 20:00:00+00:00,tt_depok,,,,,,,,,,False
+2026-08-13 20:00:00+00:00,tt_gatsu,,,,,,,,,,False
+2026-08-13 20:00:00+00:00,tt_grogol,,,,,,,,,,False
+2026-08-13 20:00:00+00:00,tt_kebonjeruk,,,,,,,,,,False
+2026-08-13 20:00:00+00:00,tt_kelapagading,,,,,,,,,,False
+2026-08-13 20:00:00+00:00,tt_kuningan,,,,,,,,,,False
+2026-08-13 20:00:00+00:00,tt_sudirman,,,,,,,,,,False
+2026-08-13 20:00:00+00:00,tt_tangerang,,,,,,,,,,False
+2026-08-13 20:00:00+00:00,tt_tbsimatupang,,,,,,,,,,False
+2026-08-13 20:00:00+00:00,tt_thamrin,,,,,,,,,,False
+2026-08-13 21:00:00+00:00,tt_bekasi,Tol Jakarta-Cikampek,Jabodetabek,17.0,18.0,1135.0,1072.0,0.0555555555555555,1.0,0.560733,True
+2026-08-13 21:00:00+00:00,tt_bogor,Tol Jagorawi (Bogor),Jabodetabek,45.0,45.0,658.0,658.0,0.0,0.0,1.0,True
+2026-08-13 21:00:00+00:00,tt_bsd,BSD/Serpong,Jabodetabek,34.0,34.0,165.0,165.0,0.0,0.0,1.0,True
+2026-08-13 21:00:00+00:00,tt_cawang,Cawang interchange,Jabodetabek,43.0,43.0,62.0,62.0,0.0,0.0,1.0,True
+2026-08-13 21:00:00+00:00,tt_depok,Jl. Margonda (Depok),Jabodetabek,31.0,31.0,1778.0,1778.0,0.0,0.0,1.0,True
+2026-08-13 21:00:00+00:00,tt_gatsu,Jl. Gatot Subroto,Jabodetabek,45.0,45.0,52.0,52.0,0.0,0.0,1.0,True
+2026-08-13 21:00:00+00:00,tt_grogol,Grogol,Jabodetabek,40.0,40.0,304.0,304.0,0.0,0.0,1.0,True
+2026-08-13 21:00:00+00:00,tt_kebonjeruk,Tol Kebon Jeruk,Jabodetabek,35.0,35.0,1158.0,1158.0,0.0,0.0,1.0,True
+2026-08-13 21:00:00+00:00,tt_kelapagading,Kelapa Gading,Jabodetabek,29.0,29.0,1059.0,1059.0,0.0,0.0,1.0,True
+2026-08-13 21:00:00+00:00,tt_kuningan,Jl. HR Rasuna Said,Jabodetabek,21.0,21.0,208.0,208.0,0.0,0.0,1.0,True
+2026-08-13 21:00:00+00:00,tt_sudirman,Jl. Sudirman (HI),Jabodetabek,38.0,38.0,377.0,377.0,0.0,0.0,1.0,True
+2026-08-13 21:00:00+00:00,tt_tangerang,Tol Jakarta-Merak,Jabodetabek,48.0,48.0,193.0,193.0,0.0,0.0,1.0,True
+2026-08-13 21:00:00+00:00,tt_tbsimatupang,TB Simatupang,Jabodetabek,72.0,72.0,343.0,343.0,0.0,0.0,1.0,True
+2026-08-13 21:00:00+00:00,tt_thamrin,Jl. MH Thamrin,Jabodetabek,22.0,22.0,261.0,261.0,0.0,0.0,1.0,True
+2026-08-13 22:00:00+00:00,tt_bekasi,Tol Jakarta-Cikampek,Jabodetabek,18.0,18.0,1072.0,1072.0,0.0,1.0,0.639298,True
+2026-08-13 22:00:00+00:00,tt_bogor,Tol Jagorawi (Bogor),Jabodetabek,45.0,45.0,658.0,658.0,0.0,0.0,1.0,True
+2026-08-13 22:00:00+00:00,tt_bsd,BSD/Serpong,Jabodetabek,34.0,34.0,165.0,165.0,0.0,0.0,1.0,True
+2026-08-13 22:00:00+00:00,tt_cawang,Cawang interchange,Jabodetabek,43.0,43.0,62.0,62.0,0.0,0.0,1.0,True
+2026-08-13 22:00:00+00:00,tt_depok,Jl. Margonda (Depok),Jabodetabek,31.0,31.0,1778.0,1778.0,0.0,0.0,1.0,True
+2026-08-13 22:00:00+00:00,tt_gatsu,Jl. Gatot Subroto,Jabodetabek,45.0,45.0,52.0,52.0,0.0,0.0,1.0,True
+2026-08-13 22:00:00+00:00,tt_grogol,Grogol,Jabodetabek,40.0,40.0,304.0,304.0,0.0,0.0,1.0,True
+2026-08-13 22:00:00+00:00,tt_kebonjeruk,Tol Kebon Jeruk,Jabodetabek,35.0,35.0,1158.0,1158.0,0.0,0.0,1.0,True
+2026-08-13 22:00:00+00:00,tt_kelapagading,Kelapa Gading,Jabodetabek,29.0,29.0,1059.0,1059.0,0.0,0.0,1.0,True
+2026-08-13 22:00:00+00:00,tt_kuningan,Jl. HR Rasuna Said,Jabodetabek,21.0,21.0,208.0,208.0,0.0,0.0,1.0,True
+2026-08-13 22:00:00+00:00,tt_sudirman,Jl. Sudirman (HI),Jabodetabek,38.0,38.0,377.0,377.0,0.0,0.0,1.0,True
+2026-08-13 22:00:00+00:00,tt_tangerang,Tol Jakarta-Merak,Jabodetabek,48.0,48.0,193.0,193.0,0.0,0.0,1.0,True
+2026-08-13 22:00:00+00:00,tt_tbsimatupang,TB Simatupang,Jabodetabek,72.0,72.0,343.0,343.0,0.0,0.0,1.0,True
+2026-08-13 22:00:00+00:00,tt_thamrin,Jl. MH Thamrin,Jabodetabek,22.0,22.0,261.0,261.0,0.0,0.0,1.0,True
+2026-08-13 23:00:00+00:00,tt_bekasi,,,,,,,,,,False
+2026-08-13 23:00:00+00:00,tt_bogor,,,,,,,,,,False
+2026-08-13 23:00:00+00:00,tt_bsd,,,,,,,,,,False
+2026-08-13 23:00:00+00:00,tt_cawang,,,,,,,,,,False
+2026-08-13 23:00:00+00:00,tt_depok,,,,,,,,,,False
+2026-08-13 23:00:00+00:00,tt_gatsu,,,,,,,,,,False
+2026-08-13 23:00:00+00:00,tt_grogol,,,,,,,,,,False
+2026-08-13 23:00:00+00:00,tt_kebonjeruk,,,,,,,,,,False
+2026-08-13 23:00:00+00:00,tt_kelapagading,,,,,,,,,,False
+2026-08-13 23:00:00+00:00,tt_kuningan,,,,,,,,,,False
+2026-08-13 23:00:00+00:00,tt_sudirman,,,,,,,,,,False
+2026-08-13 23:00:00+00:00,tt_tangerang,,,,,,,,,,False
+2026-08-13 23:00:00+00:00,tt_tbsimatupang,,,,,,,,,,False
+2026-08-13 23:00:00+00:00,tt_thamrin,,,,,,,,,,False
+2026-08-14 00:00:00+00:00,tt_bekasi,Tol Jakarta-Cikampek,Jabodetabek,16.0,17.0,1206.0,1135.0,0.0588235294117647,1.0,0.947135,True
+2026-08-14 00:00:00+00:00,tt_bogor,Tol Jagorawi (Bogor),Jabodetabek,35.0,44.0,846.0,673.0,0.2045454545454545,0.0,1.0,True
+2026-08-14 00:00:00+00:00,tt_bsd,BSD/Serpong,Jabodetabek,30.0,34.0,187.0,165.0,0.1176470588235294,0.0,1.0,True
+2026-08-14 00:00:00+00:00,tt_cawang,Cawang interchange,Jabodetabek,17.0,42.0,158.0,64.0,0.5952380952380952,0.0,1.0,True
+2026-08-14 00:00:00+00:00,tt_depok,Jl. Margonda (Depok),Jabodetabek,27.0,32.0,2042.0,1722.0,0.15625,0.0,0.956269,True
+2026-08-14 00:00:00+00:00,tt_gatsu,Jl. Gatot Subroto,Jabodetabek,45.0,45.0,52.0,52.0,0.0,0.0,1.0,True
+2026-08-14 00:00:00+00:00,tt_grogol,Grogol,Jabodetabek,32.0,40.0,381.0,304.0,0.1999999999999999,0.0,1.0,True
+2026-08-14 00:00:00+00:00,tt_kebonjeruk,Tol Kebon Jeruk,Jabodetabek,27.0,36.0,1501.0,1126.0,0.25,0.0,1.0,True
+2026-08-14 00:00:00+00:00,tt_kelapagading,Kelapa Gading,Jabodetabek,29.0,29.0,1059.0,1059.0,0.0,0.0,1.0,True
+2026-08-14 00:00:00+00:00,tt_kuningan,Jl. HR Rasuna Said,Jabodetabek,21.0,21.0,208.0,208.0,0.0,0.0,1.0,True
+2026-08-14 00:00:00+00:00,tt_sudirman,Jl. Sudirman (HI),Jabodetabek,33.0,38.0,434.0,377.0,0.131578947368421,0.0,1.0,True
+2026-08-14 00:00:00+00:00,tt_tangerang,Tol Jakarta-Merak,Jabodetabek,48.0,48.0,193.0,193.0,0.0,0.0,1.0,True
+2026-08-14 00:00:00+00:00,tt_tbsimatupang,TB Simatupang,Jabodetabek,31.0,72.0,797.0,343.0,0.5694444444444444,0.0,1.0,True
+2026-08-14 00:00:00+00:00,tt_thamrin,Jl. MH Thamrin,Jabodetabek,22.0,22.0,261.0,261.0,0.0,0.0,1.0,True
+2026-08-14 01:00:00+00:00,tt_bekasi,,,,,,,,,,False
+2026-08-14 01:00:00+00:00,tt_bogor,,,,,,,,,,False
+2026-08-14 01:00:00+00:00,tt_bsd,,,,,,,,,,False
+2026-08-14 01:00:00+00:00,tt_cawang,,,,,,,,,,False
+2026-08-14 01:00:00+00:00,tt_depok,,,,,,,,,,False
+2026-08-14 01:00:00+00:00,tt_gatsu,,,,,,,,,,False
+2026-08-14 01:00:00+00:00,tt_grogol,,,,,,,,,,False
+2026-08-14 01:00:00+00:00,tt_kebonjeruk,,,,,,,,,,False
+2026-08-14 01:00:00+00:00,tt_kelapagading,,,,,,,,,,False
+2026-08-14 01:00:00+00:00,tt_kuningan,,,,,,,,,,False
+2026-08-14 01:00:00+00:00,tt_sudirman,,,,,,,,,,False
+2026-08-14 01:00:00+00:00,tt_tangerang,,,,,,,,,,False
+2026-08-14 01:00:00+00:00,tt_tbsimatupang,,,,,,,,,,False
+2026-08-14 01:00:00+00:00,tt_thamrin,,,,,,,,,,False
+2026-08-14 02:00:00+00:00,tt_bekasi,Tol Jakarta-Cikampek,Jabodetabek,17.0,18.0,1135.0,1072.0,0.0555555555555555,1.0,0.895473,True
+2026-08-14 02:00:00+00:00,tt_bogor,Tol Jagorawi (Bogor),Jabodetabek,45.0,45.0,658.0,658.0,0.0,0.0,1.0,True
+2026-08-14 02:00:00+00:00,tt_bsd,BSD/Serpong,Jabodetabek,34.0,34.0,165.0,165.0,0.0,0.0,1.0,True
+2026-08-14 02:00:00+00:00,tt_cawang,Cawang interchange,Jabodetabek,26.0,43.0,103.0,62.0,0.3953488372093023,0.0,1.0,True
+2026-08-14 02:00:00+00:00,tt_depok,Jl. Margonda (Depok),Jabodetabek,27.0,31.0,2042.0,1778.0,0.1290322580645161,0.0,0.945707,True
+2026-08-14 02:00:00+00:00,tt_gatsu,Jl. Gatot Subroto,Jabodetabek,45.0,45.0,52.0,52.0,0.0,0.0,1.0,True
+2026-08-14 02:00:00+00:00,tt_grogol,Grogol,Jabodetabek,34.0,40.0,358.0,304.0,0.15,0.0,1.0,True
+2026-08-14 02:00:00+00:00,tt_kebonjeruk,Tol Kebon Jeruk,Jabodetabek,25.0,36.0,1622.0,1126.0,0.3055555555555556,0.0,1.0,True
+2026-08-14 02:00:00+00:00,tt_kelapagading,Kelapa Gading,Jabodetabek,29.0,29.0,1059.0,1059.0,0.0,0.0,1.0,True
+2026-08-14 02:00:00+00:00,tt_kuningan,Jl. HR Rasuna Said,Jabodetabek,17.0,20.0,256.0,218.0,0.15,0.0,0.996865,True
+2026-08-14 02:00:00+00:00,tt_sudirman,Jl. Sudirman (HI),Jabodetabek,32.0,38.0,448.0,377.0,0.1578947368421053,0.0,1.0,True
+2026-08-14 02:00:00+00:00,tt_tangerang,Tol Jakarta-Merak,Jabodetabek,48.0,48.0,193.0,193.0,0.0,0.0,1.0,True
+2026-08-14 02:00:00+00:00,tt_tbsimatupang,TB Simatupang,Jabodetabek,28.0,71.0,883.0,348.0,0.6056338028169015,0.0,1.0,True
+2026-08-14 02:00:00+00:00,tt_thamrin,Jl. MH Thamrin,Jabodetabek,18.0,23.0,319.0,249.0,0.217391304347826,0.0,1.0,True
+2026-08-14 03:00:00+00:00,tt_bekasi,Tol Jakarta-Cikampek,Jabodetabek,14.0,17.0,1378.0,1135.0,0.1764705882352941,1.0,0.914445,True
+2026-08-14 03:00:00+00:00,tt_bogor,Tol Jagorawi (Bogor),Jabodetabek,37.0,44.0,800.0,673.0,0.159090909090909,0.0,1.0,True
+2026-08-14 03:00:00+00:00,tt_bsd,BSD/Serpong,Jabodetabek,34.0,34.0,165.0,165.0,0.0,0.0,1.0,True
+2026-08-14 03:00:00+00:00,tt_cawang,Cawang interchange,Jabodetabek,25.0,42.0,108.0,64.0,0.4047619047619047,0.0,1.0,True
+2026-08-14 03:00:00+00:00,tt_depok,Jl. Margonda (Depok),Jabodetabek,27.0,32.0,2042.0,1722.0,0.15625,0.0,0.971565,True
+2026-08-14 03:00:00+00:00,tt_gatsu,Jl. Gatot Subroto,Jabodetabek,45.0,45.0,52.0,52.0,0.0,0.0,1.0,True
+2026-08-14 03:00:00+00:00,tt_grogol,Grogol,Jabodetabek,25.0,40.0,487.0,304.0,0.375,0.0,0.999362,True
+2026-08-14 03:00:00+00:00,tt_kebonjeruk,Tol Kebon Jeruk,Jabodetabek,25.0,36.0,1622.0,1126.0,0.3055555555555556,0.0,1.0,True
+2026-08-14 03:00:00+00:00,tt_kelapagading,Kelapa Gading,Jabodetabek,24.0,29.0,1280.0,1059.0,0.1724137931034483,0.0,0.997345,True
+2026-08-14 03:00:00+00:00,tt_kuningan,Jl. HR Rasuna Said,Jabodetabek,16.0,20.0,273.0,218.0,0.1999999999999999,0.0,0.996865,True
+2026-08-14 03:00:00+00:00,tt_sudirman,Jl. Sudirman (HI),Jabodetabek,38.0,38.0,377.0,377.0,0.0,0.0,1.0,True
+2026-08-14 03:00:00+00:00,tt_tangerang,Tol Jakarta-Merak,Jabodetabek,35.0,47.0,264.0,197.0,0.2553191489361702,0.0,1.0,True
+2026-08-14 03:00:00+00:00,tt_tbsimatupang,TB Simatupang,Jabodetabek,32.0,71.0,773.0,348.0,0.5492957746478873,0.0,1.0,True
+2026-08-14 03:00:00+00:00,tt_thamrin,Jl. MH Thamrin,Jabodetabek,17.0,24.0,338.0,239.0,0.2916666666666666,0.0,1.0,True
+2026-08-14 04:00:00+00:00,tt_bekasi,,,,,,,,,,False
+2026-08-14 04:00:00+00:00,tt_bogor,,,,,,,,,,False
+2026-08-14 04:00:00+00:00,tt_bsd,,,,,,,,,,False
+2026-08-14 04:00:00+00:00,tt_cawang,,,,,,,,,,False
+2026-08-14 04:00:00+00:00,tt_depok,,,,,,,,,,False
+2026-08-14 04:00:00+00:00,tt_gatsu,,,,,,,,,,False
+2026-08-14 04:00:00+00:00,tt_grogol,,,,,,,,,,False
+2026-08-14 04:00:00+00:00,tt_kebonjeruk,,,,,,,,,,False
+2026-08-14 04:00:00+00:00,tt_kelapagading,,,,,,,,,,False
+2026-08-14 04:00:00+00:00,tt_kuningan,,,,,,,,,,False
+2026-08-14 04:00:00+00:00,tt_sudirman,,,,,,,,,,False
+2026-08-14 04:00:00+00:00,tt_tangerang,,,,,,,,,,False
+2026-08-14 04:00:00+00:00,tt_tbsimatupang,,,,,,,,,,False
+2026-08-14 04:00:00+00:00,tt_thamrin,,,,,,,,,,False
+2026-08-14 05:00:00+00:00,tt_bekasi,Tol Jakarta-Cikampek,Jabodetabek,14.0,17.0,1378.0,1135.0,0.1764705882352941,1.0,0.939993,True
+2026-08-14 05:00:00+00:00,tt_bogor,Tol Jagorawi (Bogor),Jabodetabek,45.0,45.0,658.0,658.0,0.0,0.0,1.0,True
+2026-08-14 05:00:00+00:00,tt_bsd,BSD/Serpong,Jabodetabek,34.0,34.0,165.0,165.0,0.0,0.0,1.0,True
+2026-08-14 05:00:00+00:00,tt_cawang,Cawang interchange,Jabodetabek,43.0,43.0,62.0,62.0,0.0,0.0,1.0,True
+2026-08-14 05:00:00+00:00,tt_depok,Jl. Margonda (Depok),Jabodetabek,31.0,31.0,1778.0,1778.0,0.0,0.0,1.0,True
+2026-08-14 05:00:00+00:00,tt_gatsu,Jl. Gatot Subroto,Jabodetabek,45.0,45.0,52.0,52.0,0.0,0.0,1.0,True
+2026-08-14 05:00:00+00:00,tt_grogol,Grogol,Jabodetabek,30.0,40.0,406.0,304.0,0.25,0.0,1.0,True
+2026-08-14 05:00:00+00:00,tt_kebonjeruk,Tol Kebon Jeruk,Jabodetabek,27.0,36.0,1501.0,1126.0,0.25,0.0,1.0,True
+2026-08-14 05:00:00+00:00,tt_kelapagading,Kelapa Gading,Jabodetabek,23.0,29.0,1335.0,1059.0,0.2068965517241379,0.0,1.0,True
+2026-08-14 05:00:00+00:00,tt_kuningan,Jl. HR Rasuna Said,Jabodetabek,21.0,21.0,208.0,208.0,0.0,0.0,1.0,True
+2026-08-14 05:00:00+00:00,tt_sudirman,Jl. Sudirman (HI),Jabodetabek,28.0,39.0,512.0,368.0,0.282051282051282,0.0,1.0,True
+2026-08-14 05:00:00+00:00,tt_tangerang,Tol Jakarta-Merak,Jabodetabek,38.0,48.0,244.0,193.0,0.2083333333333333,0.0,1.0,True
+2026-08-14 05:00:00+00:00,tt_tbsimatupang,TB Simatupang,Jabodetabek,22.0,71.0,1124.0,348.0,0.6901408450704225,0.0,1.0,True
+2026-08-14 05:00:00+00:00,tt_thamrin,Jl. MH Thamrin,Jabodetabek,18.0,22.0,319.0,261.0,0.1818181818181817,0.0,1.0,True
+2026-08-14 06:00:00+00:00,tt_bekasi,Tol Jakarta-Cikampek,Jabodetabek,14.0,17.0,1378.0,1135.0,0.1764705882352941,1.0,0.911013,True
+2026-08-14 06:00:00+00:00,tt_bogor,Tol Jagorawi (Bogor),Jabodetabek,34.0,44.0,871.0,673.0,0.2272727272727273,0.0,1.0,True
+2026-08-14 06:00:00+00:00,tt_bsd,BSD/Serpong,Jabodetabek,34.0,34.0,165.0,165.0,0.0,0.0,1.0,True
+2026-08-14 06:00:00+00:00,tt_cawang,Cawang interchange,Jabodetabek,19.0,42.0,142.0,64.0,0.5476190476190477,0.0,1.0,True
+2026-08-14 06:00:00+00:00,tt_depok,Jl. Margonda (Depok),Jabodetabek,24.0,31.0,2297.0,1778.0,0.2258064516129032,0.0,0.917044,True
+2026-08-14 06:00:00+00:00,tt_gatsu,Jl. Gatot Subroto,Jabodetabek,35.0,45.0,67.0,52.0,0.2222222222222222,0.0,1.0,True
+2026-08-14 06:00:00+00:00,tt_grogol,Grogol,Jabodetabek,30.0,39.0,406.0,312.0,0.2307692307692307,0.0,1.0,True
+2026-08-14 06:00:00+00:00,tt_kebonjeruk,Tol Kebon Jeruk,Jabodetabek,21.0,36.0,1931.0,1126.0,0.4166666666666666,0.0,1.0,True
+2026-08-14 06:00:00+00:00,tt_kelapagading,Kelapa Gading,Jabodetabek,19.0,29.0,1617.0,1059.0,0.3448275862068966,0.0,1.0,True
+2026-08-14 06:00:00+00:00,tt_kuningan,Jl. HR Rasuna Said,Jabodetabek,21.0,21.0,208.0,208.0,0.0,0.0,1.0,True
+2026-08-14 06:00:00+00:00,tt_sudirman,Jl. Sudirman (HI),Jabodetabek,20.0,39.0,717.0,368.0,0.4871794871794872,0.0,1.0,True
+2026-08-14 06:00:00+00:00,tt_tangerang,Tol Jakarta-Merak,Jabodetabek,40.0,47.0,231.0,197.0,0.1489361702127659,0.0,1.0,True
+2026-08-14 06:00:00+00:00,tt_tbsimatupang,TB Simatupang,Jabodetabek,41.0,72.0,603.0,343.0,0.4305555555555556,0.0,1.0,True
+2026-08-14 06:00:00+00:00,tt_thamrin,Jl. MH Thamrin,Jabodetabek,14.0,23.0,410.0,249.0,0.3913043478260869,0.0,1.0,True
+2026-08-14 07:00:00+00:00,tt_bekasi,,,,,,,,,,False
+2026-08-14 07:00:00+00:00,tt_bogor,,,,,,,,,,False
+2026-08-14 07:00:00+00:00,tt_bsd,,,,,,,,,,False
+2026-08-14 07:00:00+00:00,tt_cawang,,,,,,,,,,False
+2026-08-14 07:00:00+00:00,tt_depok,,,,,,,,,,False
+2026-08-14 07:00:00+00:00,tt_gatsu,,,,,,,,,,False
+2026-08-14 07:00:00+00:00,tt_grogol,,,,,,,,,,False
+2026-08-14 07:00:00+00:00,tt_kebonjeruk,,,,,,,,,,False
+2026-08-14 07:00:00+00:00,tt_kelapagading,,,,,,,,,,False
+2026-08-14 07:00:00+00:00,tt_kuningan,,,,,,,,,,False
+2026-08-14 07:00:00+00:00,tt_sudirman,,,,,,,,,,False
+2026-08-14 07:00:00+00:00,tt_tangerang,,,,,,,,,,False
+2026-08-14 07:00:00+00:00,tt_tbsimatupang,,,,,,,,,,False
+2026-08-14 07:00:00+00:00,tt_thamrin,,,,,,,,,,False
+2026-08-14 08:00:00+00:00,tt_bekasi,Tol Jakarta-Cikampek,Jabodetabek,15.0,17.0,1286.0,1135.0,0.1176470588235294,1.0,0.948284,True
+2026-08-14 08:00:00+00:00,tt_bogor,Tol Jagorawi (Bogor),Jabodetabek,35.0,45.0,846.0,658.0,0.2222222222222222,0.0,1.0,True
+2026-08-14 08:00:00+00:00,tt_bsd,BSD/Serpong,Jabodetabek,34.0,34.0,165.0,165.0,0.0,0.0,1.0,True
+2026-08-14 08:00:00+00:00,tt_cawang,Cawang interchange,Jabodetabek,21.0,41.0,128.0,65.0,0.4878048780487805,0.0,1.0,True
+2026-08-14 08:00:00+00:00,tt_depok,Jl. Margonda (Depok),Jabodetabek,26.0,31.0,2120.0,1778.0,0.1612903225806451,0.0,0.981501,True
+2026-08-14 08:00:00+00:00,tt_gatsu,Jl. Gatot Subroto,Jabodetabek,32.0,44.0,73.0,53.0,0.2727272727272727,0.0,1.0,True
+2026-08-14 08:00:00+00:00,tt_grogol,Grogol,Jabodetabek,31.0,40.0,393.0,304.0,0.2249999999999999,0.0,0.999085,True
+2026-08-14 08:00:00+00:00,tt_kebonjeruk,Tol Kebon Jeruk,Jabodetabek,24.0,36.0,1689.0,1126.0,0.3333333333333333,0.0,1.0,True
+2026-08-14 08:00:00+00:00,tt_kelapagading,Kelapa Gading,Jabodetabek,21.0,29.0,1463.0,1059.0,0.2758620689655172,0.0,1.0,True
+2026-08-14 08:00:00+00:00,tt_kuningan,Jl. HR Rasuna Said,Jabodetabek,14.0,19.0,312.0,229.0,0.2631578947368421,0.0,0.997783,True
+2026-08-14 08:00:00+00:00,tt_sudirman,Jl. Sudirman (HI),Jabodetabek,20.0,39.0,717.0,368.0,0.4871794871794872,0.0,1.0,True
+2026-08-14 08:00:00+00:00,tt_tangerang,Tol Jakarta-Merak,Jabodetabek,39.0,48.0,237.0,193.0,0.1875,0.0,1.0,True
+2026-08-14 08:00:00+00:00,tt_tbsimatupang,TB Simatupang,Jabodetabek,19.0,70.0,1301.0,353.0,0.7285714285714286,0.0,1.0,True
+2026-08-14 08:00:00+00:00,tt_thamrin,Jl. MH Thamrin,Jabodetabek,12.0,22.0,479.0,261.0,0.4545454545454546,0.0,1.0,True
+2026-08-14 09:00:00+00:00,tt_bekasi,,,,,,,,,,False
+2026-08-14 09:00:00+00:00,tt_bogor,,,,,,,,,,False
+2026-08-14 09:00:00+00:00,tt_bsd,,,,,,,,,,False
+2026-08-14 09:00:00+00:00,tt_cawang,,,,,,,,,,False
+2026-08-14 09:00:00+00:00,tt_depok,,,,,,,,,,False
+2026-08-14 09:00:00+00:00,tt_gatsu,,,,,,,,,,False
+2026-08-14 09:00:00+00:00,tt_grogol,,,,,,,,,,False
+2026-08-14 09:00:00+00:00,tt_kebonjeruk,,,,,,,,,,False
+2026-08-14 09:00:00+00:00,tt_kelapagading,,,,,,,,,,False
+2026-08-14 09:00:00+00:00,tt_kuningan,,,,,,,,,,False
+2026-08-14 09:00:00+00:00,tt_sudirman,,,,,,,,,,False
+2026-08-14 09:00:00+00:00,tt_tangerang,,,,,,,,,,False
+2026-08-14 09:00:00+00:00,tt_tbsimatupang,,,,,,,,,,False
+2026-08-14 09:00:00+00:00,tt_thamrin,,,,,,,,,,False
+2026-08-14 10:00:00+00:00,tt_bekasi,Tol Jakarta-Cikampek,Jabodetabek,15.0,17.0,1286.0,1135.0,0.1176470588235294,1.0,0.94776,True
+2026-08-14 10:00:00+00:00,tt_bogor,Tol Jagorawi (Bogor),Jabodetabek,34.0,45.0,871.0,658.0,0.2444444444444444,0.0,1.0,True
+2026-08-14 10:00:00+00:00,tt_bsd,BSD/Serpong,Jabodetabek,34.0,34.0,165.0,165.0,0.0,0.0,1.0,True
+2026-08-14 10:00:00+00:00,tt_cawang,Cawang interchange,Jabodetabek,31.0,42.0,87.0,64.0,0.2619047619047618,0.0,1.0,True
+2026-08-14 10:00:00+00:00,tt_depok,Jl. Margonda (Depok),Jabodetabek,25.0,31.0,2205.0,1778.0,0.1935483870967742,0.0,0.984889,True
+2026-08-14 10:00:00+00:00,tt_gatsu,Jl. Gatot Subroto,Jabodetabek,20.0,44.0,117.0,53.0,0.5454545454545454,0.0,1.0,True
+2026-08-14 10:00:00+00:00,tt_grogol,Grogol,Jabodetabek,31.0,40.0,393.0,304.0,0.2249999999999999,0.0,1.0,True
+2026-08-14 10:00:00+00:00,tt_kebonjeruk,Tol Kebon Jeruk,Jabodetabek,23.0,36.0,1763.0,1126.0,0.3611111111111111,0.0,1.0,True
+2026-08-14 10:00:00+00:00,tt_kelapagading,Kelapa Gading,Jabodetabek,19.0,29.0,1617.0,1059.0,0.3448275862068966,0.0,1.0,True
+2026-08-14 10:00:00+00:00,tt_kuningan,Jl. HR Rasuna Said,Jabodetabek,21.0,21.0,208.0,208.0,0.0,0.0,1.0,True
+2026-08-14 10:00:00+00:00,tt_sudirman,Jl. Sudirman (HI),Jabodetabek,23.0,39.0,624.0,368.0,0.4102564102564102,0.0,1.0,True
+2026-08-14 10:00:00+00:00,tt_tangerang,Tol Jakarta-Merak,Jabodetabek,32.0,48.0,289.0,193.0,0.3333333333333333,0.0,1.0,True
+2026-08-14 10:00:00+00:00,tt_tbsimatupang,TB Simatupang,Jabodetabek,8.0,74.0,3092.0,334.0,0.8918918918918919,0.0,1.0,True
+2026-08-14 10:00:00+00:00,tt_thamrin,Jl. MH Thamrin,Jabodetabek,16.0,23.0,359.0,249.0,0.3043478260869565,0.0,1.0,True
+2026-08-14 11:00:00+00:00,tt_bekasi,Tol Jakarta-Cikampek,Jabodetabek,14.0,17.0,1378.0,1135.0,0.1764705882352941,1.0,0.957586,True
+2026-08-14 11:00:00+00:00,tt_bogor,Tol Jagorawi (Bogor),Jabodetabek,30.0,44.0,987.0,673.0,0.3181818181818182,0.0,1.0,True
+2026-08-14 11:00:00+00:00,tt_bsd,BSD/Serpong,Jabodetabek,34.0,34.0,165.0,165.0,0.0,0.0,1.0,True
+2026-08-14 11:00:00+00:00,tt_cawang,Cawang interchange,Jabodetabek,33.0,42.0,81.0,64.0,0.2142857142857143,0.0,1.0,True
+2026-08-14 11:00:00+00:00,tt_depok,Jl. Margonda (Depok),Jabodetabek,24.0,32.0,2297.0,1722.0,0.25,0.0,0.989269,True
+2026-08-14 11:00:00+00:00,tt_gatsu,Jl. Gatot Subroto,Jabodetabek,17.0,44.0,138.0,53.0,0.6136363636363636,0.0,1.0,True
+2026-08-14 11:00:00+00:00,tt_grogol,Grogol,Jabodetabek,30.0,40.0,406.0,304.0,0.25,0.0,1.0,True
+2026-08-14 11:00:00+00:00,tt_kebonjeruk,Tol Kebon Jeruk,Jabodetabek,20.0,35.0,2027.0,1158.0,0.4285714285714286,0.0,1.0,True
+2026-08-14 11:00:00+00:00,tt_kelapagading,Kelapa Gading,Jabodetabek,18.0,29.0,1706.0,1059.0,0.3793103448275862,0.0,1.0,True
+2026-08-14 11:00:00+00:00,tt_kuningan,Jl. HR Rasuna Said,Jabodetabek,12.0,20.0,364.0,218.0,0.4,0.0,1.0,True
+2026-08-14 11:00:00+00:00,tt_sudirman,Jl. Sudirman (HI),Jabodetabek,18.0,39.0,797.0,368.0,0.5384615384615384,0.0,1.0,True
+2026-08-14 11:00:00+00:00,tt_tangerang,Tol Jakarta-Merak,Jabodetabek,32.0,48.0,289.0,193.0,0.3333333333333333,0.0,1.0,True
+2026-08-14 11:00:00+00:00,tt_tbsimatupang,TB Simatupang,Jabodetabek,7.0,74.0,3533.0,334.0,0.9054054054054054,0.0,0.9,True
+2026-08-14 11:00:00+00:00,tt_thamrin,Jl. MH Thamrin,Jabodetabek,11.0,23.0,522.0,249.0,0.5217391304347826,0.0,1.0,True
+2026-08-14 12:00:00+00:00,tt_bekasi,,,,,,,,,,False
+2026-08-14 12:00:00+00:00,tt_bogor,,,,,,,,,,False
+2026-08-14 12:00:00+00:00,tt_bsd,,,,,,,,,,False
+2026-08-14 12:00:00+00:00,tt_cawang,,,,,,,,,,False
+2026-08-14 12:00:00+00:00,tt_depok,,,,,,,,,,False
+2026-08-14 12:00:00+00:00,tt_gatsu,,,,,,,,,,False
+2026-08-14 12:00:00+00:00,tt_grogol,,,,,,,,,,False
+2026-08-14 12:00:00+00:00,tt_kebonjeruk,,,,,,,,,,False
+2026-08-14 12:00:00+00:00,tt_kelapagading,,,,,,,,,,False
+2026-08-14 12:00:00+00:00,tt_kuningan,,,,,,,,,,False
+2026-08-14 12:00:00+00:00,tt_sudirman,,,,,,,,,,False
+2026-08-14 12:00:00+00:00,tt_tangerang,,,,,,,,,,False
+2026-08-14 12:00:00+00:00,tt_tbsimatupang,,,,,,,,,,False
+2026-08-14 12:00:00+00:00,tt_thamrin,,,,,,,,,,False
+2026-08-14 13:00:00+00:00,tt_bekasi,Tol Jakarta-Cikampek,Jabodetabek,12.0,17.0,1608.0,1135.0,0.2941176470588235,1.0,0.923357,True
+2026-08-14 13:00:00+00:00,tt_bogor,Tol Jagorawi (Bogor),Jabodetabek,36.0,45.0,823.0,658.0,0.1999999999999999,0.0,1.0,True
+2026-08-14 13:00:00+00:00,tt_bsd,BSD/Serpong,Jabodetabek,34.0,34.0,165.0,165.0,0.0,0.0,1.0,True
+2026-08-14 13:00:00+00:00,tt_cawang,Cawang interchange,Jabodetabek,43.0,43.0,62.0,62.0,0.0,0.0,1.0,True
+2026-08-14 13:00:00+00:00,tt_depok,Jl. Margonda (Depok),Jabodetabek,25.0,31.0,2205.0,1778.0,0.1935483870967742,0.0,0.993544,True
+2026-08-14 13:00:00+00:00,tt_gatsu,Jl. Gatot Subroto,Jabodetabek,45.0,45.0,52.0,52.0,0.0,0.0,1.0,True
+2026-08-14 13:00:00+00:00,tt_grogol,Grogol,Jabodetabek,28.0,40.0,435.0,304.0,0.3,0.0,0.998512,True
+2026-08-14 13:00:00+00:00,tt_kebonjeruk,Tol Kebon Jeruk,Jabodetabek,23.0,35.0,1763.0,1158.0,0.3428571428571428,0.0,1.0,True
+2026-08-14 13:00:00+00:00,tt_kelapagading,Kelapa Gading,Jabodetabek,20.0,29.0,1536.0,1059.0,0.3103448275862068,0.0,0.997488,True
+2026-08-14 13:00:00+00:00,tt_kuningan,Jl. HR Rasuna Said,Jabodetabek,13.0,21.0,336.0,208.0,0.3809523809523809,0.0,1.0,True
+2026-08-14 13:00:00+00:00,tt_sudirman,Jl. Sudirman (HI),Jabodetabek,27.0,38.0,531.0,377.0,0.2894736842105263,0.0,1.0,True
+2026-08-14 13:00:00+00:00,tt_tangerang,Tol Jakarta-Merak,Jabodetabek,32.0,47.0,289.0,197.0,0.3191489361702128,0.0,1.0,True
+2026-08-14 13:00:00+00:00,tt_tbsimatupang,TB Simatupang,Jabodetabek,21.0,72.0,1177.0,343.0,0.7083333333333333,0.0,1.0,True
+2026-08-14 13:00:00+00:00,tt_thamrin,Jl. MH Thamrin,Jabodetabek,16.0,24.0,359.0,239.0,0.3333333333333333,0.0,1.0,True
+2026-08-14 14:00:00+00:00,tt_bekasi,Tol Jakarta-Cikampek,Jabodetabek,16.0,17.0,1206.0,1135.0,0.0588235294117647,1.0,0.84515,True
+2026-08-14 14:00:00+00:00,tt_bogor,Tol Jagorawi (Bogor),Jabodetabek,45.0,45.0,658.0,658.0,0.0,0.0,1.0,True
+2026-08-14 14:00:00+00:00,tt_bsd,BSD/Serpong,Jabodetabek,34.0,34.0,165.0,165.0,0.0,0.0,1.0,True
+2026-08-14 14:00:00+00:00,tt_cawang,Cawang interchange,Jabodetabek,28.0,42.0,96.0,64.0,0.3333333333333333,0.0,1.0,True
+2026-08-14 14:00:00+00:00,tt_depok,Jl. Margonda (Depok),Jabodetabek,26.0,31.0,2120.0,1778.0,0.1612903225806451,0.0,0.992392,True
+2026-08-14 14:00:00+00:00,tt_gatsu,Jl. Gatot Subroto,Jabodetabek,45.0,45.0,52.0,52.0,0.0,0.0,1.0,True
+2026-08-14 14:00:00+00:00,tt_grogol,Grogol,Jabodetabek,40.0,40.0,304.0,304.0,0.0,0.0,1.0,True
+2026-08-14 14:00:00+00:00,tt_kebonjeruk,Tol Kebon Jeruk,Jabodetabek,28.0,35.0,1448.0,1158.0,0.1999999999999999,0.0,1.0,True
+2026-08-14 14:00:00+00:00,tt_kelapagading,Kelapa Gading,Jabodetabek,29.0,29.0,1059.0,1059.0,0.0,0.0,1.0,True
+2026-08-14 14:00:00+00:00,tt_kuningan,Jl. HR Rasuna Said,Jabodetabek,21.0,21.0,208.0,208.0,0.0,0.0,1.0,True
+2026-08-14 14:00:00+00:00,tt_sudirman,Jl. Sudirman (HI),Jabodetabek,30.0,38.0,478.0,377.0,0.2105263157894736,0.0,1.0,True
+2026-08-14 14:00:00+00:00,tt_tangerang,Tol Jakarta-Merak,Jabodetabek,48.0,48.0,193.0,193.0,0.0,0.0,1.0,True
+2026-08-14 14:00:00+00:00,tt_tbsimatupang,TB Simatupang,Jabodetabek,72.0,72.0,343.0,343.0,0.0,0.0,1.0,True
+2026-08-14 14:00:00+00:00,tt_thamrin,Jl. MH Thamrin,Jabodetabek,13.0,23.0,442.0,249.0,0.4347826086956522,0.0,1.0,True
+2026-08-14 15:00:00+00:00,tt_bekasi,,,,,,,,,,False
+2026-08-14 15:00:00+00:00,tt_bogor,,,,,,,,,,False
+2026-08-14 15:00:00+00:00,tt_bsd,,,,,,,,,,False
+2026-08-14 15:00:00+00:00,tt_cawang,,,,,,,,,,False
+2026-08-14 15:00:00+00:00,tt_depok,,,,,,,,,,False
+2026-08-14 15:00:00+00:00,tt_gatsu,,,,,,,,,,False
+2026-08-14 15:00:00+00:00,tt_grogol,,,,,,,,,,False
+2026-08-14 15:00:00+00:00,tt_kebonjeruk,,,,,,,,,,False
+2026-08-14 15:00:00+00:00,tt_kelapagading,,,,,,,,,,False
+2026-08-14 15:00:00+00:00,tt_kuningan,,,,,,,,,,False
+2026-08-14 15:00:00+00:00,tt_sudirman,,,,,,,,,,False
+2026-08-14 15:00:00+00:00,tt_tangerang,,,,,,,,,,False
+2026-08-14 15:00:00+00:00,tt_tbsimatupang,,,,,,,,,,False
+2026-08-14 15:00:00+00:00,tt_thamrin,,,,,,,,,,False
+2026-08-14 16:00:00+00:00,tt_bekasi,Tol Jakarta-Cikampek,Jabodetabek,17.0,17.0,1135.0,1135.0,0.0,1.0,0.816928,True
+2026-08-14 16:00:00+00:00,tt_bogor,Tol Jagorawi (Bogor),Jabodetabek,45.0,45.0,658.0,658.0,0.0,0.0,1.0,True
+2026-08-14 16:00:00+00:00,tt_bsd,BSD/Serpong,Jabodetabek,34.0,34.0,165.0,165.0,0.0,0.0,1.0,True
+2026-08-14 16:00:00+00:00,tt_cawang,Cawang interchange,Jabodetabek,43.0,43.0,62.0,62.0,0.0,0.0,1.0,True
+2026-08-14 16:00:00+00:00,tt_depok,Jl. Margonda (Depok),Jabodetabek,31.0,31.0,1778.0,1778.0,0.0,0.0,1.0,True
+2026-08-14 16:00:00+00:00,tt_gatsu,Jl. Gatot Subroto,Jabodetabek,45.0,45.0,52.0,52.0,0.0,0.0,1.0,True
+2026-08-14 16:00:00+00:00,tt_grogol,Grogol,Jabodetabek,40.0,40.0,304.0,304.0,0.0,0.0,1.0,True
+2026-08-14 16:00:00+00:00,tt_kebonjeruk,Tol Kebon Jeruk,Jabodetabek,35.0,35.0,1158.0,1158.0,0.0,0.0,1.0,True
+2026-08-14 16:00:00+00:00,tt_kelapagading,Kelapa Gading,Jabodetabek,29.0,29.0,1059.0,1059.0,0.0,0.0,1.0,True
+2026-08-14 16:00:00+00:00,tt_kuningan,Jl. HR Rasuna Said,Jabodetabek,21.0,21.0,208.0,208.0,0.0,0.0,1.0,True
+2026-08-14 16:00:00+00:00,tt_sudirman,Jl. Sudirman (HI),Jabodetabek,38.0,38.0,377.0,377.0,0.0,0.0,1.0,True
+2026-08-14 16:00:00+00:00,tt_tangerang,Tol Jakarta-Merak,Jabodetabek,39.0,48.0,237.0,193.0,0.1875,0.0,1.0,True
+2026-08-14 16:00:00+00:00,tt_tbsimatupang,TB Simatupang,Jabodetabek,72.0,72.0,343.0,343.0,0.0,0.0,1.0,True
+2026-08-14 16:00:00+00:00,tt_thamrin,Jl. MH Thamrin,Jabodetabek,22.0,22.0,261.0,261.0,0.0,0.0,1.0,True
+2026-08-14 17:00:00+00:00,tt_bekasi,,,,,,,,,,False
+2026-08-14 17:00:00+00:00,tt_bogor,,,,,,,,,,False
+2026-08-14 17:00:00+00:00,tt_bsd,,,,,,,,,,False
+2026-08-14 17:00:00+00:00,tt_cawang,,,,,,,,,,False
+2026-08-14 17:00:00+00:00,tt_depok,,,,,,,,,,False
+2026-08-14 17:00:00+00:00,tt_gatsu,,,,,,,,,,False
+2026-08-14 17:00:00+00:00,tt_grogol,,,,,,,,,,False
+2026-08-14 17:00:00+00:00,tt_kebonjeruk,,,,,,,,,,False
+2026-08-14 17:00:00+00:00,tt_kelapagading,,,,,,,,,,False
+2026-08-14 17:00:00+00:00,tt_kuningan,,,,,,,,,,False
+2026-08-14 17:00:00+00:00,tt_sudirman,,,,,,,,,,False
+2026-08-14 17:00:00+00:00,tt_tangerang,,,,,,,,,,False
+2026-08-14 17:00:00+00:00,tt_tbsimatupang,,,,,,,,,,False
+2026-08-14 17:00:00+00:00,tt_thamrin,,,,,,,,,,False
+2026-08-14 18:00:00+00:00,tt_bekasi,Tol Jakarta-Cikampek,Jabodetabek,17.0,17.0,1135.0,1135.0,0.0,1.0,0.687589,True
+2026-08-14 18:00:00+00:00,tt_bogor,Tol Jagorawi (Bogor),Jabodetabek,45.0,45.0,658.0,658.0,0.0,0.0,1.0,True
+2026-08-14 18:00:00+00:00,tt_bsd,BSD/Serpong,Jabodetabek,34.0,34.0,165.0,165.0,0.0,0.0,1.0,True
+2026-08-14 18:00:00+00:00,tt_cawang,Cawang interchange,Jabodetabek,43.0,43.0,62.0,62.0,0.0,0.0,1.0,True
+2026-08-14 18:00:00+00:00,tt_depok,Jl. Margonda (Depok),Jabodetabek,31.0,31.0,1778.0,1778.0,0.0,0.0,1.0,True
+2026-08-14 18:00:00+00:00,tt_gatsu,Jl. Gatot Subroto,Jabodetabek,45.0,45.0,52.0,52.0,0.0,0.0,1.0,True
+2026-08-14 18:00:00+00:00,tt_grogol,Grogol,Jabodetabek,40.0,40.0,304.0,304.0,0.0,0.0,1.0,True
+2026-08-14 18:00:00+00:00,tt_kebonjeruk,Tol Kebon Jeruk,Jabodetabek,35.0,35.0,1158.0,1158.0,0.0,0.0,1.0,True
+2026-08-14 18:00:00+00:00,tt_kelapagading,Kelapa Gading,Jabodetabek,29.0,29.0,1059.0,1059.0,0.0,0.0,1.0,True
+2026-08-14 18:00:00+00:00,tt_kuningan,Jl. HR Rasuna Said,Jabodetabek,21.0,21.0,208.0,208.0,0.0,0.0,1.0,True
+2026-08-14 18:00:00+00:00,tt_sudirman,Jl. Sudirman (HI),Jabodetabek,38.0,38.0,377.0,377.0,0.0,0.0,1.0,True
+2026-08-14 18:00:00+00:00,tt_tangerang,Tol Jakarta-Merak,Jabodetabek,48.0,48.0,193.0,193.0,0.0,0.0,1.0,True
+2026-08-14 18:00:00+00:00,tt_tbsimatupang,TB Simatupang,Jabodetabek,72.0,72.0,343.0,343.0,0.0,0.0,1.0,True
+2026-08-14 18:00:00+00:00,tt_thamrin,Jl. MH Thamrin,Jabodetabek,22.0,22.0,261.0,261.0,0.0,0.0,1.0,True
+2026-08-14 19:00:00+00:00,tt_bekasi,Tol Jakarta-Cikampek,Jabodetabek,17.0,17.0,1135.0,1135.0,0.0,1.0,0.673602,True
+2026-08-14 19:00:00+00:00,tt_bogor,Tol Jagorawi (Bogor),Jabodetabek,45.0,45.0,658.0,658.0,0.0,0.0,1.0,True
+2026-08-14 19:00:00+00:00,tt_bsd,BSD/Serpong,Jabodetabek,34.0,34.0,165.0,165.0,0.0,0.0,1.0,True
+2026-08-14 19:00:00+00:00,tt_cawang,Cawang interchange,Jabodetabek,43.0,43.0,62.0,62.0,0.0,0.0,1.0,True
+2026-08-14 19:00:00+00:00,tt_depok,Jl. Margonda (Depok),Jabodetabek,31.0,31.0,1778.0,1778.0,0.0,0.0,1.0,True
+2026-08-14 19:00:00+00:00,tt_gatsu,Jl. Gatot Subroto,Jabodetabek,45.0,45.0,52.0,52.0,0.0,0.0,1.0,True
+2026-08-14 19:00:00+00:00,tt_grogol,Grogol,Jabodetabek,40.0,40.0,304.0,304.0,0.0,0.0,1.0,True
+2026-08-14 19:00:00+00:00,tt_kebonjeruk,Tol Kebon Jeruk,Jabodetabek,35.0,35.0,1158.0,1158.0,0.0,0.0,1.0,True
+2026-08-14 19:00:00+00:00,tt_kelapagading,Kelapa Gading,Jabodetabek,29.0,29.0,1059.0,1059.0,0.0,0.0,1.0,True
+2026-08-14 19:00:00+00:00,tt_kuningan,Jl. HR Rasuna Said,Jabodetabek,21.0,21.0,208.0,208.0,0.0,0.0,1.0,True
+2026-08-14 19:00:00+00:00,tt_sudirman,Jl. Sudirman (HI),Jabodetabek,38.0,38.0,377.0,377.0,0.0,0.0,1.0,True
+2026-08-14 19:00:00+00:00,tt_tangerang,Tol Jakarta-Merak,Jabodetabek,48.0,48.0,193.0,193.0,0.0,0.0,1.0,True
+2026-08-14 19:00:00+00:00,tt_tbsimatupang,TB Simatupang,Jabodetabek,72.0,72.0,343.0,343.0,0.0,0.0,1.0,True
+2026-08-14 19:00:00+00:00,tt_thamrin,Jl. MH Thamrin,Jabodetabek,22.0,22.0,261.0,261.0,0.0,0.0,1.0,True
+2026-08-14 20:00:00+00:00,tt_bekasi,,,,,,,,,,False
+2026-08-14 20:00:00+00:00,tt_bogor,,,,,,,,,,False
+2026-08-14 20:00:00+00:00,tt_bsd,,,,,,,,,,False
+2026-08-14 20:00:00+00:00,tt_cawang,,,,,,,,,,False
+2026-08-14 20:00:00+00:00,tt_depok,,,,,,,,,,False
+2026-08-14 20:00:00+00:00,tt_gatsu,,,,,,,,,,False
+2026-08-14 20:00:00+00:00,tt_grogol,,,,,,,,,,False
+2026-08-14 20:00:00+00:00,tt_kebonjeruk,,,,,,,,,,False
+2026-08-14 20:00:00+00:00,tt_kelapagading,,,,,,,,,,False
+2026-08-14 20:00:00+00:00,tt_kuningan,,,,,,,,,,False
+2026-08-14 20:00:00+00:00,tt_sudirman,,,,,,,,,,False
+2026-08-14 20:00:00+00:00,tt_tangerang,,,,,,,,,,False
+2026-08-14 20:00:00+00:00,tt_tbsimatupang,,,,,,,,,,False
+2026-08-14 20:00:00+00:00,tt_thamrin,,,,,,,,,,False
+2026-08-14 21:00:00+00:00,tt_bekasi,Tol Jakarta-Cikampek,Jabodetabek,18.0,18.0,1072.0,1072.0,0.0,1.0,0.662814,True
+2026-08-14 21:00:00+00:00,tt_bogor,Tol Jagorawi (Bogor),Jabodetabek,45.0,45.0,658.0,658.0,0.0,0.0,1.0,True
+2026-08-14 21:00:00+00:00,tt_bsd,BSD/Serpong,Jabodetabek,34.0,34.0,165.0,165.0,0.0,0.0,1.0,True
+2026-08-14 21:00:00+00:00,tt_cawang,Cawang interchange,Jabodetabek,43.0,43.0,62.0,62.0,0.0,0.0,1.0,True
+2026-08-14 21:00:00+00:00,tt_depok,Jl. Margonda (Depok),Jabodetabek,31.0,31.0,1778.0,1778.0,0.0,0.0,1.0,True
+2026-08-14 21:00:00+00:00,tt_gatsu,Jl. Gatot Subroto,Jabodetabek,45.0,45.0,52.0,52.0,0.0,0.0,1.0,True
+2026-08-14 21:00:00+00:00,tt_grogol,Grogol,Jabodetabek,40.0,40.0,304.0,304.0,0.0,0.0,1.0,True
+2026-08-14 21:00:00+00:00,tt_kebonjeruk,Tol Kebon Jeruk,Jabodetabek,35.0,35.0,1158.0,1158.0,0.0,0.0,1.0,True
+2026-08-14 21:00:00+00:00,tt_kelapagading,Kelapa Gading,Jabodetabek,29.0,29.0,1059.0,1059.0,0.0,0.0,1.0,True
+2026-08-14 21:00:00+00:00,tt_kuningan,Jl. HR Rasuna Said,Jabodetabek,21.0,21.0,208.0,208.0,0.0,0.0,1.0,True
+2026-08-14 21:00:00+00:00,tt_sudirman,Jl. Sudirman (HI),Jabodetabek,38.0,38.0,377.0,377.0,0.0,0.0,1.0,True
+2026-08-14 21:00:00+00:00,tt_tangerang,Tol Jakarta-Merak,Jabodetabek,48.0,48.0,193.0,193.0,0.0,0.0,1.0,True
+2026-08-14 21:00:00+00:00,tt_tbsimatupang,TB Simatupang,Jabodetabek,72.0,72.0,343.0,343.0,0.0,0.0,1.0,True
+2026-08-14 21:00:00+00:00,tt_thamrin,Jl. MH Thamrin,Jabodetabek,22.0,22.0,261.0,261.0,0.0,0.0,1.0,True
+2026-08-14 22:00:00+00:00,tt_bekasi,,,,,,,,,,False
+2026-08-14 22:00:00+00:00,tt_bogor,,,,,,,,,,False
+2026-08-14 22:00:00+00:00,tt_bsd,,,,,,,,,,False
+2026-08-14 22:00:00+00:00,tt_cawang,,,,,,,,,,False
+2026-08-14 22:00:00+00:00,tt_depok,,,,,,,,,,False
+2026-08-14 22:00:00+00:00,tt_gatsu,,,,,,,,,,False
+2026-08-14 22:00:00+00:00,tt_grogol,,,,,,,,,,False
+2026-08-14 22:00:00+00:00,tt_kebonjeruk,,,,,,,,,,False
+2026-08-14 22:00:00+00:00,tt_kelapagading,,,,,,,,,,False
+2026-08-14 22:00:00+00:00,tt_kuningan,,,,,,,,,,False
+2026-08-14 22:00:00+00:00,tt_sudirman,,,,,,,,,,False
+2026-08-14 22:00:00+00:00,tt_tangerang,,,,,,,,,,False
+2026-08-14 22:00:00+00:00,tt_tbsimatupang,,,,,,,,,,False
+2026-08-14 22:00:00+00:00,tt_thamrin,,,,,,,,,,False
+2026-08-14 23:00:00+00:00,tt_bekasi,Tol Jakarta-Cikampek,Jabodetabek,17.0,17.0,1135.0,1135.0,0.0,1.0,0.818411,True
+2026-08-14 23:00:00+00:00,tt_bogor,Tol Jagorawi (Bogor),Jabodetabek,45.0,45.0,658.0,658.0,0.0,0.0,1.0,True
+2026-08-14 23:00:00+00:00,tt_bsd,BSD/Serpong,Jabodetabek,34.0,34.0,165.0,165.0,0.0,0.0,1.0,True
+2026-08-14 23:00:00+00:00,tt_cawang,Cawang interchange,Jabodetabek,43.0,43.0,62.0,62.0,0.0,0.0,1.0,True
+2026-08-14 23:00:00+00:00,tt_depok,Jl. Margonda (Depok),Jabodetabek,31.0,31.0,1778.0,1778.0,0.0,0.0,1.0,True
+2026-08-14 23:00:00+00:00,tt_gatsu,Jl. Gatot Subroto,Jabodetabek,45.0,45.0,52.0,52.0,0.0,0.0,1.0,True
+2026-08-14 23:00:00+00:00,tt_grogol,Grogol,Jabodetabek,40.0,40.0,304.0,304.0,0.0,0.0,1.0,True
+2026-08-14 23:00:00+00:00,tt_kebonjeruk,Tol Kebon Jeruk,Jabodetabek,35.0,35.0,1158.0,1158.0,0.0,0.0,1.0,True
+2026-08-14 23:00:00+00:00,tt_kelapagading,Kelapa Gading,Jabodetabek,29.0,29.0,1059.0,1059.0,0.0,0.0,1.0,True
+2026-08-14 23:00:00+00:00,tt_kuningan,Jl. HR Rasuna Said,Jabodetabek,21.0,21.0,208.0,208.0,0.0,0.0,1.0,True
+2026-08-14 23:00:00+00:00,tt_sudirman,Jl. Sudirman (HI),Jabodetabek,38.0,38.0,377.0,377.0,0.0,0.0,1.0,True
+2026-08-14 23:00:00+00:00,tt_tangerang,Tol Jakarta-Merak,Jabodetabek,48.0,48.0,193.0,193.0,0.0,0.0,1.0,True
+2026-08-14 23:00:00+00:00,tt_tbsimatupang,TB Simatupang,Jabodetabek,72.0,72.0,343.0,343.0,0.0,0.0,1.0,True
+2026-08-14 23:00:00+00:00,tt_thamrin,Jl. MH Thamrin,Jabodetabek,22.0,22.0,261.0,261.0,0.0,0.0,1.0,True
+2026-08-15 00:00:00+00:00,tt_bekasi,Tol Jakarta-Cikampek,Jabodetabek,17.0,17.0,1135.0,1135.0,0.0,1.0,0.871553,True
+2026-08-15 00:00:00+00:00,tt_bogor,Tol Jagorawi (Bogor),Jabodetabek,45.0,45.0,658.0,658.0,0.0,0.0,1.0,True
+2026-08-15 00:00:00+00:00,tt_bsd,BSD/Serpong,Jabodetabek,34.0,34.0,165.0,165.0,0.0,0.0,1.0,True
+2026-08-15 00:00:00+00:00,tt_cawang,Cawang interchange,Jabodetabek,43.0,43.0,62.0,62.0,0.0,0.0,1.0,True
+2026-08-15 00:00:00+00:00,tt_depok,Jl. Margonda (Depok),Jabodetabek,31.0,31.0,1778.0,1778.0,0.0,0.0,1.0,True
+2026-08-15 00:00:00+00:00,tt_gatsu,Jl. Gatot Subroto,Jabodetabek,45.0,45.0,52.0,52.0,0.0,0.0,1.0,True
+2026-08-15 00:00:00+00:00,tt_grogol,Grogol,Jabodetabek,40.0,40.0,304.0,304.0,0.0,0.0,1.0,True
+2026-08-15 00:00:00+00:00,tt_kebonjeruk,Tol Kebon Jeruk,Jabodetabek,35.0,35.0,1158.0,1158.0,0.0,0.0,1.0,True
+2026-08-15 00:00:00+00:00,tt_kelapagading,Kelapa Gading,Jabodetabek,29.0,29.0,1059.0,1059.0,0.0,0.0,1.0,True
+2026-08-15 00:00:00+00:00,tt_kuningan,Jl. HR Rasuna Said,Jabodetabek,21.0,21.0,208.0,208.0,0.0,0.0,1.0,True
+2026-08-15 00:00:00+00:00,tt_sudirman,Jl. Sudirman (HI),Jabodetabek,38.0,38.0,377.0,377.0,0.0,0.0,1.0,True
+2026-08-15 00:00:00+00:00,tt_tangerang,Tol Jakarta-Merak,Jabodetabek,48.0,48.0,193.0,193.0,0.0,0.0,1.0,True
+2026-08-15 00:00:00+00:00,tt_tbsimatupang,TB Simatupang,Jabodetabek,56.0,72.0,441.0,343.0,0.2222222222222222,0.0,1.0,True
+2026-08-15 00:00:00+00:00,tt_thamrin,Jl. MH Thamrin,Jabodetabek,22.0,22.0,261.0,261.0,0.0,0.0,1.0,True
+2026-08-15 01:00:00+00:00,tt_bekasi,,,,,,,,,,False
+2026-08-15 01:00:00+00:00,tt_bogor,,,,,,,,,,False
+2026-08-15 01:00:00+00:00,tt_bsd,,,,,,,,,,False
+2026-08-15 01:00:00+00:00,tt_cawang,,,,,,,,,,False
+2026-08-15 01:00:00+00:00,tt_depok,,,,,,,,,,False
+2026-08-15 01:00:00+00:00,tt_gatsu,,,,,,,,,,False
+2026-08-15 01:00:00+00:00,tt_grogol,,,,,,,,,,False
+2026-08-15 01:00:00+00:00,tt_kebonjeruk,,,,,,,,,,False
+2026-08-15 01:00:00+00:00,tt_kelapagading,,,,,,,,,,False
+2026-08-15 01:00:00+00:00,tt_kuningan,,,,,,,,,,False
+2026-08-15 01:00:00+00:00,tt_sudirman,,,,,,,,,,False
+2026-08-15 01:00:00+00:00,tt_tangerang,,,,,,,,,,False
+2026-08-15 01:00:00+00:00,tt_tbsimatupang,,,,,,,,,,False
+2026-08-15 01:00:00+00:00,tt_thamrin,,,,,,,,,,False
+2026-08-15 02:00:00+00:00,tt_bekasi,Tol Jakarta-Cikampek,Jabodetabek,15.0,17.0,1286.0,1135.0,0.1176470588235294,1.0,0.856413,True
+2026-08-15 02:00:00+00:00,tt_bogor,Tol Jagorawi (Bogor),Jabodetabek,37.0,45.0,800.0,658.0,0.1777777777777778,0.0,1.0,True
+2026-08-15 02:00:00+00:00,tt_bsd,BSD/Serpong,Jabodetabek,34.0,34.0,165.0,165.0,0.0,0.0,1.0,True
+2026-08-15 02:00:00+00:00,tt_cawang,Cawang interchange,Jabodetabek,19.0,42.0,142.0,64.0,0.5476190476190477,0.0,1.0,True
+2026-08-15 02:00:00+00:00,tt_depok,Jl. Margonda (Depok),Jabodetabek,26.0,31.0,2120.0,1778.0,0.1612903225806451,0.0,0.973788,True
+2026-08-15 02:00:00+00:00,tt_gatsu,Jl. Gatot Subroto,Jabodetabek,45.0,45.0,52.0,52.0,0.0,0.0,1.0,True
+2026-08-15 02:00:00+00:00,tt_grogol,Grogol,Jabodetabek,40.0,40.0,304.0,304.0,0.0,0.0,1.0,True
+2026-08-15 02:00:00+00:00,tt_kebonjeruk,Tol Kebon Jeruk,Jabodetabek,29.0,35.0,1398.0,1158.0,0.1714285714285713,0.0,1.0,True
+2026-08-15 02:00:00+00:00,tt_kelapagading,Kelapa Gading,Jabodetabek,29.0,29.0,1059.0,1059.0,0.0,0.0,1.0,True
+2026-08-15 02:00:00+00:00,tt_kuningan,Jl. HR Rasuna Said,Jabodetabek,21.0,21.0,208.0,208.0,0.0,0.0,1.0,True
+2026-08-15 02:00:00+00:00,tt_sudirman,Jl. Sudirman (HI),Jabodetabek,38.0,38.0,377.0,377.0,0.0,0.0,1.0,True
+2026-08-15 02:00:00+00:00,tt_tangerang,Tol Jakarta-Merak,Jabodetabek,48.0,48.0,193.0,193.0,0.0,0.0,1.0,True
+2026-08-15 02:00:00+00:00,tt_tbsimatupang,TB Simatupang,Jabodetabek,57.0,71.0,433.0,348.0,0.1971830985915492,0.0,1.0,True
+2026-08-15 02:00:00+00:00,tt_thamrin,Jl. MH Thamrin,Jabodetabek,22.0,22.0,261.0,261.0,0.0,0.0,1.0,True
+2026-08-15 03:00:00+00:00,tt_bekasi,Tol Jakarta-Cikampek,Jabodetabek,12.0,17.0,1608.0,1135.0,0.2941176470588235,1.0,0.937195,True
+2026-08-15 03:00:00+00:00,tt_bogor,Tol Jagorawi (Bogor),Jabodetabek,37.0,45.0,800.0,658.0,0.1777777777777778,0.0,1.0,True
+2026-08-15 03:00:00+00:00,tt_bsd,BSD/Serpong,Jabodetabek,29.0,33.0,193.0,170.0,0.1212121212121212,0.0,1.0,True
+2026-08-15 03:00:00+00:00,tt_cawang,Cawang interchange,Jabodetabek,20.0,42.0,135.0,64.0,0.5238095238095238,0.0,1.0,True
+2026-08-15 03:00:00+00:00,tt_depok,Jl. Margonda (Depok),Jabodetabek,26.0,31.0,2120.0,1778.0,0.1612903225806451,0.0,0.974349,True
+2026-08-15 03:00:00+00:00,tt_gatsu,Jl. Gatot Subroto,Jabodetabek,45.0,45.0,52.0,52.0,0.0,0.0,1.0,True
+2026-08-15 03:00:00+00:00,tt_grogol,Grogol,Jabodetabek,32.0,39.0,381.0,312.0,0.1794871794871795,0.0,1.0,True
+2026-08-15 03:00:00+00:00,tt_kebonjeruk,Tol Kebon Jeruk,Jabodetabek,24.0,35.0,1689.0,1158.0,0.3142857142857143,0.0,1.0,True
+2026-08-15 03:00:00+00:00,tt_kelapagading,Kelapa Gading,Jabodetabek,22.0,29.0,1396.0,1059.0,0.2413793103448276,0.0,1.0,True
+2026-08-15 03:00:00+00:00,tt_kuningan,Jl. HR Rasuna Said,Jabodetabek,21.0,21.0,208.0,208.0,0.0,0.0,1.0,True
+2026-08-15 03:00:00+00:00,tt_sudirman,Jl. Sudirman (HI),Jabodetabek,38.0,38.0,377.0,377.0,0.0,0.0,1.0,True
+2026-08-15 03:00:00+00:00,tt_tangerang,Tol Jakarta-Merak,Jabodetabek,35.0,48.0,264.0,193.0,0.2708333333333333,0.0,1.0,True
+2026-08-15 03:00:00+00:00,tt_tbsimatupang,TB Simatupang,Jabodetabek,48.0,72.0,515.0,343.0,0.3333333333333333,0.0,1.0,True
+2026-08-15 03:00:00+00:00,tt_thamrin,Jl. MH Thamrin,Jabodetabek,19.0,22.0,302.0,261.0,0.1363636363636363,0.0,1.0,True
+2026-08-15 04:00:00+00:00,tt_bekasi,,,,,,,,,,False
+2026-08-15 04:00:00+00:00,tt_bogor,,,,,,,,,,False
+2026-08-15 04:00:00+00:00,tt_bsd,,,,,,,,,,False
+2026-08-15 04:00:00+00:00,tt_cawang,,,,,,,,,,False
+2026-08-15 04:00:00+00:00,tt_depok,,,,,,,,,,False
+2026-08-15 04:00:00+00:00,tt_gatsu,,,,,,,,,,False
+2026-08-15 04:00:00+00:00,tt_grogol,,,,,,,,,,False
+2026-08-15 04:00:00+00:00,tt_kebonjeruk,,,,,,,,,,False
+2026-08-15 04:00:00+00:00,tt_kelapagading,,,,,,,,,,False
+2026-08-15 04:00:00+00:00,tt_kuningan,,,,,,,,,,False
+2026-08-15 04:00:00+00:00,tt_sudirman,,,,,,,,,,False
+2026-08-15 04:00:00+00:00,tt_tangerang,,,,,,,,,,False
+2026-08-15 04:00:00+00:00,tt_tbsimatupang,,,,,,,,,,False
+2026-08-15 04:00:00+00:00,tt_thamrin,,,,,,,,,,False
+2026-08-15 05:00:00+00:00,tt_bekasi,Tol Jakarta-Cikampek,Jabodetabek,14.0,16.0,1378.0,1206.0,0.125,1.0,0.894387,True
+2026-08-15 05:00:00+00:00,tt_bogor,Tol Jagorawi (Bogor),Jabodetabek,45.0,45.0,658.0,658.0,0.0,0.0,1.0,True
+2026-08-15 05:00:00+00:00,tt_bsd,BSD/Serpong,Jabodetabek,34.0,34.0,165.0,165.0,0.0,0.0,1.0,True
+2026-08-15 05:00:00+00:00,tt_cawang,Cawang interchange,Jabodetabek,20.0,42.0,135.0,64.0,0.5238095238095238,0.0,1.0,True
+2026-08-15 05:00:00+00:00,tt_depok,Jl. Margonda (Depok),Jabodetabek,25.0,31.0,2205.0,1778.0,0.1935483870967742,0.0,0.983416,True
+2026-08-15 05:00:00+00:00,tt_gatsu,Jl. Gatot Subroto,Jabodetabek,45.0,45.0,52.0,52.0,0.0,0.0,1.0,True
+2026-08-15 05:00:00+00:00,tt_grogol,Grogol,Jabodetabek,40.0,40.0,304.0,304.0,0.0,0.0,1.0,True
+2026-08-15 05:00:00+00:00,tt_kebonjeruk,Tol Kebon Jeruk,Jabodetabek,23.0,36.0,1763.0,1126.0,0.3611111111111111,0.0,1.0,True
+2026-08-15 05:00:00+00:00,tt_kelapagading,Kelapa Gading,Jabodetabek,19.0,29.0,1617.0,1059.0,0.3448275862068966,0.0,1.0,True
+2026-08-15 05:00:00+00:00,tt_kuningan,Jl. HR Rasuna Said,Jabodetabek,21.0,21.0,208.0,208.0,0.0,0.0,1.0,True
+2026-08-15 05:00:00+00:00,tt_sudirman,Jl. Sudirman (HI),Jabodetabek,31.0,39.0,463.0,368.0,0.2051282051282051,0.0,1.0,True
+2026-08-15 05:00:00+00:00,tt_tangerang,Tol Jakarta-Merak,Jabodetabek,30.0,47.0,309.0,197.0,0.3617021276595744,0.0,1.0,True
+2026-08-15 05:00:00+00:00,tt_tbsimatupang,TB Simatupang,Jabodetabek,43.0,72.0,575.0,343.0,0.4027777777777778,0.0,1.0,True
+2026-08-15 05:00:00+00:00,tt_thamrin,Jl. MH Thamrin,Jabodetabek,14.0,24.0,410.0,239.0,0.4166666666666666,0.0,1.0,True
+2026-08-15 06:00:00+00:00,tt_bekasi,,,,,,,,,,False
+2026-08-15 06:00:00+00:00,tt_bogor,,,,,,,,,,False
+2026-08-15 06:00:00+00:00,tt_bsd,,,,,,,,,,False
+2026-08-15 06:00:00+00:00,tt_cawang,,,,,,,,,,False
+2026-08-15 06:00:00+00:00,tt_depok,,,,,,,,,,False
+2026-08-15 06:00:00+00:00,tt_gatsu,,,,,,,,,,False
+2026-08-15 06:00:00+00:00,tt_grogol,,,,,,,,,,False
+2026-08-15 06:00:00+00:00,tt_kebonjeruk,,,,,,,,,,False
+2026-08-15 06:00:00+00:00,tt_kelapagading,,,,,,,,,,False
+2026-08-15 06:00:00+00:00,tt_kuningan,,,,,,,,,,False
+2026-08-15 06:00:00+00:00,tt_sudirman,,,,,,,,,,False
+2026-08-15 06:00:00+00:00,tt_tangerang,,,,,,,,,,False
+2026-08-15 06:00:00+00:00,tt_tbsimatupang,,,,,,,,,,False
+2026-08-15 06:00:00+00:00,tt_thamrin,,,,,,,,,,False
+2026-08-15 07:00:00+00:00,tt_bekasi,Tol Jakarta-Cikampek,Jabodetabek,15.0,17.0,1286.0,1135.0,0.1176470588235294,1.0,0.937818,True
+2026-08-15 07:00:00+00:00,tt_bogor,Tol Jagorawi (Bogor),Jabodetabek,34.0,45.0,871.0,658.0,0.2444444444444444,0.0,1.0,True
+2026-08-15 07:00:00+00:00,tt_bsd,BSD/Serpong,Jabodetabek,34.0,34.0,165.0,165.0,0.0,0.0,1.0,True
+2026-08-15 07:00:00+00:00,tt_cawang,Cawang interchange,Jabodetabek,21.0,42.0,128.0,64.0,0.5,0.0,1.0,True
+2026-08-15 07:00:00+00:00,tt_depok,Jl. Margonda (Depok),Jabodetabek,24.0,31.0,2297.0,1778.0,0.2258064516129032,0.0,0.984221,True
+2026-08-15 07:00:00+00:00,tt_gatsu,Jl. Gatot Subroto,Jabodetabek,45.0,45.0,52.0,52.0,0.0,0.0,1.0,True
+2026-08-15 07:00:00+00:00,tt_grogol,Grogol,Jabodetabek,40.0,40.0,304.0,304.0,0.0,0.0,1.0,True
+2026-08-15 07:00:00+00:00,tt_kebonjeruk,Tol Kebon Jeruk,Jabodetabek,22.0,35.0,1843.0,1158.0,0.3714285714285714,0.0,1.0,True
+2026-08-15 07:00:00+00:00,tt_kelapagading,Kelapa Gading,Jabodetabek,21.0,29.0,1463.0,1059.0,0.2758620689655172,0.0,1.0,True
+2026-08-15 07:00:00+00:00,tt_kuningan,Jl. HR Rasuna Said,Jabodetabek,21.0,21.0,208.0,208.0,0.0,0.0,1.0,True
+2026-08-15 07:00:00+00:00,tt_sudirman,Jl. Sudirman (HI),Jabodetabek,29.0,39.0,494.0,368.0,0.2564102564102564,0.0,1.0,True
+2026-08-15 07:00:00+00:00,tt_tangerang,Tol Jakarta-Merak,Jabodetabek,36.0,47.0,257.0,197.0,0.2340425531914893,0.0,1.0,True
+2026-08-15 07:00:00+00:00,tt_tbsimatupang,TB Simatupang,Jabodetabek,37.0,71.0,668.0,348.0,0.4788732394366197,0.0,1.0,True
+2026-08-15 07:00:00+00:00,tt_thamrin,Jl. MH Thamrin,Jabodetabek,16.0,22.0,359.0,261.0,0.2727272727272727,0.0,1.0,True
+2026-08-15 08:00:00+00:00,tt_bekasi,Tol Jakarta-Cikampek,Jabodetabek,15.0,16.0,1286.0,1206.0,0.0625,1.0,0.94187,True
+2026-08-15 08:00:00+00:00,tt_bogor,Tol Jagorawi (Bogor),Jabodetabek,35.0,45.0,846.0,658.0,0.2222222222222222,0.0,1.0,True
+2026-08-15 08:00:00+00:00,tt_bsd,BSD/Serpong,Jabodetabek,34.0,34.0,165.0,165.0,0.0,0.0,1.0,True
+2026-08-15 08:00:00+00:00,tt_cawang,Cawang interchange,Jabodetabek,21.0,44.0,128.0,61.0,0.5227272727272727,0.0,1.0,True
+2026-08-15 08:00:00+00:00,tt_depok,Jl. Margonda (Depok),Jabodetabek,24.0,31.0,2297.0,1778.0,0.2258064516129032,0.0,0.989387,True
+2026-08-15 08:00:00+00:00,tt_gatsu,Jl. Gatot Subroto,Jabodetabek,45.0,45.0,52.0,52.0,0.0,0.0,1.0,True
+2026-08-15 08:00:00+00:00,tt_grogol,Grogol,Jabodetabek,34.0,39.0,358.0,312.0,0.1282051282051282,0.0,1.0,True
+2026-08-15 08:00:00+00:00,tt_kebonjeruk,Tol Kebon Jeruk,Jabodetabek,23.0,35.0,1763.0,1158.0,0.3428571428571428,0.0,1.0,True
+2026-08-15 08:00:00+00:00,tt_kelapagading,Kelapa Gading,Jabodetabek,22.0,29.0,1396.0,1059.0,0.2413793103448276,0.0,0.999754,True
+2026-08-15 08:00:00+00:00,tt_kuningan,Jl. HR Rasuna Said,Jabodetabek,21.0,21.0,208.0,208.0,0.0,0.0,1.0,True
+2026-08-15 08:00:00+00:00,tt_sudirman,Jl. Sudirman (HI),Jabodetabek,32.0,38.0,448.0,377.0,0.1578947368421053,0.0,1.0,True
+2026-08-15 08:00:00+00:00,tt_tangerang,Tol Jakarta-Merak,Jabodetabek,40.0,47.0,231.0,197.0,0.1489361702127659,0.0,1.0,True
+2026-08-15 08:00:00+00:00,tt_tbsimatupang,TB Simatupang,Jabodetabek,46.0,72.0,537.0,343.0,0.3611111111111111,0.0,1.0,True
+2026-08-15 08:00:00+00:00,tt_thamrin,Jl. MH Thamrin,Jabodetabek,13.0,23.0,442.0,249.0,0.4347826086956522,0.0,1.0,True
+2026-08-15 09:00:00+00:00,tt_bekasi,,,,,,,,,,False
+2026-08-15 09:00:00+00:00,tt_bogor,,,,,,,,,,False
+2026-08-15 09:00:00+00:00,tt_bsd,,,,,,,,,,False
+2026-08-15 09:00:00+00:00,tt_cawang,,,,,,,,,,False
+2026-08-15 09:00:00+00:00,tt_depok,,,,,,,,,,False
+2026-08-15 09:00:00+00:00,tt_gatsu,,,,,,,,,,False
+2026-08-15 09:00:00+00:00,tt_grogol,,,,,,,,,,False
+2026-08-15 09:00:00+00:00,tt_kebonjeruk,,,,,,,,,,False
+2026-08-15 09:00:00+00:00,tt_kelapagading,,,,,,,,,,False
+2026-08-15 09:00:00+00:00,tt_kuningan,,,,,,,,,,False
+2026-08-15 09:00:00+00:00,tt_sudirman,,,,,,,,,,False
+2026-08-15 09:00:00+00:00,tt_tangerang,,,,,,,,,,False
+2026-08-15 09:00:00+00:00,tt_tbsimatupang,,,,,,,,,,False
+2026-08-15 09:00:00+00:00,tt_thamrin,,,,,,,,,,False
+2026-08-15 10:00:00+00:00,tt_bekasi,Tol Jakarta-Cikampek,Jabodetabek,14.0,16.0,1378.0,1206.0,0.125,1.0,0.95896,True
+2026-08-15 10:00:00+00:00,tt_bogor,Tol Jagorawi (Bogor),Jabodetabek,35.0,45.0,846.0,658.0,0.2222222222222222,0.0,1.0,True
+2026-08-15 10:00:00+00:00,tt_bsd,BSD/Serpong,Jabodetabek,34.0,34.0,165.0,165.0,0.0,0.0,1.0,True
+2026-08-15 10:00:00+00:00,tt_cawang,Cawang interchange,Jabodetabek,24.0,41.0,112.0,65.0,0.4146341463414634,0.0,1.0,True
+2026-08-15 10:00:00+00:00,tt_depok,Jl. Margonda (Depok),Jabodetabek,23.0,31.0,2397.0,1778.0,0.2580645161290322,0.0,0.991926,True
+2026-08-15 10:00:00+00:00,tt_gatsu,Jl. Gatot Subroto,Jabodetabek,45.0,45.0,52.0,52.0,0.0,0.0,1.0,True
+2026-08-15 10:00:00+00:00,tt_grogol,Grogol,Jabodetabek,32.0,40.0,381.0,304.0,0.1999999999999999,0.0,1.0,True
+2026-08-15 10:00:00+00:00,tt_kebonjeruk,Tol Kebon Jeruk,Jabodetabek,24.0,35.0,1689.0,1158.0,0.3142857142857143,0.0,1.0,True
+2026-08-15 10:00:00+00:00,tt_kelapagading,Kelapa Gading,Jabodetabek,21.0,29.0,1463.0,1059.0,0.2758620689655172,0.0,1.0,True
+2026-08-15 10:00:00+00:00,tt_kuningan,Jl. HR Rasuna Said,Jabodetabek,15.0,20.0,291.0,218.0,0.25,0.0,1.0,True
+2026-08-15 10:00:00+00:00,tt_sudirman,Jl. Sudirman (HI),Jabodetabek,34.0,39.0,422.0,368.0,0.1282051282051282,0.0,1.0,True
+2026-08-15 10:00:00+00:00,tt_tangerang,Tol Jakarta-Merak,Jabodetabek,48.0,48.0,193.0,193.0,0.0,0.0,1.0,True
+2026-08-15 10:00:00+00:00,tt_tbsimatupang,TB Simatupang,Jabodetabek,52.0,72.0,475.0,343.0,0.2777777777777778,0.0,1.0,True
+2026-08-15 10:00:00+00:00,tt_thamrin,Jl. MH Thamrin,Jabodetabek,17.0,22.0,338.0,261.0,0.2272727272727273,0.0,1.0,True
+2026-08-15 11:00:00+00:00,tt_bekasi,,,,,,,,,,False
+2026-08-15 11:00:00+00:00,tt_bogor,,,,,,,,,,False
+2026-08-15 11:00:00+00:00,tt_bsd,,,,,,,,,,False
+2026-08-15 11:00:00+00:00,tt_cawang,,,,,,,,,,False
+2026-08-15 11:00:00+00:00,tt_depok,,,,,,,,,,False
+2026-08-15 11:00:00+00:00,tt_gatsu,,,,,,,,,,False
+2026-08-15 11:00:00+00:00,tt_grogol,,,,,,,,,,False
+2026-08-15 11:00:00+00:00,tt_kebonjeruk,,,,,,,,,,False
+2026-08-15 11:00:00+00:00,tt_kelapagading,,,,,,,,,,False
+2026-08-15 11:00:00+00:00,tt_kuningan,,,,,,,,,,False
+2026-08-15 11:00:00+00:00,tt_sudirman,,,,,,,,,,False
+2026-08-15 11:00:00+00:00,tt_tangerang,,,,,,,,,,False
+2026-08-15 11:00:00+00:00,tt_tbsimatupang,,,,,,,,,,False
+2026-08-15 11:00:00+00:00,tt_thamrin,,,,,,,,,,False
+2026-08-15 12:00:00+00:00,tt_bekasi,Tol Jakarta-Cikampek,Jabodetabek,12.0,17.0,1608.0,1135.0,0.2941176470588235,1.0,0.886715,True
+2026-08-15 12:00:00+00:00,tt_bogor,Tol Jagorawi (Bogor),Jabodetabek,34.0,44.0,871.0,673.0,0.2272727272727273,0.0,1.0,True
+2026-08-15 12:00:00+00:00,tt_bsd,BSD/Serpong,Jabodetabek,26.0,34.0,216.0,165.0,0.2352941176470588,0.0,1.0,True
+2026-08-15 12:00:00+00:00,tt_cawang,Cawang interchange,Jabodetabek,25.0,43.0,108.0,62.0,0.4186046511627906,0.0,1.0,True
+2026-08-15 12:00:00+00:00,tt_depok,Jl. Margonda (Depok),Jabodetabek,22.0,31.0,2506.0,1778.0,0.2903225806451612,0.0,0.98877,True
+2026-08-15 12:00:00+00:00,tt_gatsu,Jl. Gatot Subroto,Jabodetabek,45.0,45.0,52.0,52.0,0.0,0.0,1.0,True
+2026-08-15 12:00:00+00:00,tt_grogol,Grogol,Jabodetabek,29.0,40.0,420.0,304.0,0.275,0.0,1.0,True
+2026-08-15 12:00:00+00:00,tt_kebonjeruk,Tol Kebon Jeruk,Jabodetabek,25.0,36.0,1622.0,1126.0,0.3055555555555556,0.0,1.0,True
+2026-08-15 12:00:00+00:00,tt_kelapagading,Kelapa Gading,Jabodetabek,18.0,29.0,1706.0,1059.0,0.3793103448275862,0.0,0.998628,True
+2026-08-15 12:00:00+00:00,tt_kuningan,Jl. HR Rasuna Said,Jabodetabek,15.0,20.0,291.0,218.0,0.25,0.0,0.99,True
+2026-08-15 12:00:00+00:00,tt_sudirman,Jl. Sudirman (HI),Jabodetabek,24.0,38.0,598.0,377.0,0.368421052631579,0.0,1.0,True
+2026-08-15 12:00:00+00:00,tt_tangerang,Tol Jakarta-Merak,Jabodetabek,36.0,47.0,257.0,197.0,0.2340425531914893,0.0,1.0,True
+2026-08-15 12:00:00+00:00,tt_tbsimatupang,TB Simatupang,Jabodetabek,56.0,72.0,441.0,343.0,0.2222222222222222,0.0,1.0,True
+2026-08-15 12:00:00+00:00,tt_thamrin,Jl. MH Thamrin,Jabodetabek,15.0,23.0,383.0,249.0,0.3478260869565217,0.0,1.0,True
+2026-08-15 13:00:00+00:00,tt_bekasi,Tol Jakarta-Cikampek,Jabodetabek,13.0,16.0,1484.0,1206.0,0.1875,1.0,0.908243,True
+2026-08-15 13:00:00+00:00,tt_bogor,Tol Jagorawi (Bogor),Jabodetabek,45.0,45.0,658.0,658.0,0.0,0.0,1.0,True
+2026-08-15 13:00:00+00:00,tt_bsd,BSD/Serpong,Jabodetabek,28.0,33.0,200.0,170.0,0.1515151515151515,0.0,1.0,True
+2026-08-15 13:00:00+00:00,tt_cawang,Cawang interchange,Jabodetabek,28.0,43.0,96.0,62.0,0.3488372093023255,0.0,1.0,True
+2026-08-15 13:00:00+00:00,tt_depok,Jl. Margonda (Depok),Jabodetabek,22.0,31.0,2506.0,1778.0,0.2903225806451612,0.0,0.959469,True
+2026-08-15 13:00:00+00:00,tt_gatsu,Jl. Gatot Subroto,Jabodetabek,45.0,45.0,52.0,52.0,0.0,0.0,1.0,True
+2026-08-15 13:00:00+00:00,tt_grogol,Grogol,Jabodetabek,31.0,39.0,393.0,312.0,0.2051282051282051,0.0,1.0,True
+2026-08-15 13:00:00+00:00,tt_kebonjeruk,Tol Kebon Jeruk,Jabodetabek,28.0,35.0,1448.0,1158.0,0.1999999999999999,0.0,1.0,True
+2026-08-15 13:00:00+00:00,tt_kelapagading,Kelapa Gading,Jabodetabek,22.0,29.0,1396.0,1059.0,0.2413793103448276,0.0,0.997816,True
+2026-08-15 13:00:00+00:00,tt_kuningan,Jl. HR Rasuna Said,Jabodetabek,16.0,20.0,273.0,218.0,0.1999999999999999,0.0,0.99,True
+2026-08-15 13:00:00+00:00,tt_sudirman,Jl. Sudirman (HI),Jabodetabek,33.0,39.0,434.0,368.0,0.1538461538461538,0.0,1.0,True
+2026-08-15 13:00:00+00:00,tt_tangerang,Tol Jakarta-Merak,Jabodetabek,48.0,48.0,193.0,193.0,0.0,0.0,1.0,True
+2026-08-15 13:00:00+00:00,tt_tbsimatupang,TB Simatupang,Jabodetabek,72.0,72.0,343.0,343.0,0.0,0.0,1.0,True
+2026-08-15 13:00:00+00:00,tt_thamrin,Jl. MH Thamrin,Jabodetabek,12.0,24.0,479.0,239.0,0.5,0.0,1.0,True
+2026-08-15 14:00:00+00:00,tt_bekasi,,,,,,,,,,False
+2026-08-15 14:00:00+00:00,tt_bogor,,,,,,,,,,False
+2026-08-15 14:00:00+00:00,tt_bsd,,,,,,,,,,False
+2026-08-15 14:00:00+00:00,tt_cawang,,,,,,,,,,False
+2026-08-15 14:00:00+00:00,tt_depok,,,,,,,,,,False
+2026-08-15 14:00:00+00:00,tt_gatsu,,,,,,,,,,False
+2026-08-15 14:00:00+00:00,tt_grogol,,,,,,,,,,False
+2026-08-15 14:00:00+00:00,tt_kebonjeruk,,,,,,,,,,False
+2026-08-15 14:00:00+00:00,tt_kelapagading,,,,,,,,,,False
+2026-08-15 14:00:00+00:00,tt_kuningan,,,,,,,,,,False
+2026-08-15 14:00:00+00:00,tt_sudirman,,,,,,,,,,False
+2026-08-15 14:00:00+00:00,tt_tangerang,,,,,,,,,,False
+2026-08-15 14:00:00+00:00,tt_tbsimatupang,,,,,,,,,,False
+2026-08-15 14:00:00+00:00,tt_thamrin,,,,,,,,,,False
+2026-08-15 15:00:00+00:00,tt_bekasi,Tol Jakarta-Cikampek,Jabodetabek,14.0,17.0,1378.0,1135.0,0.1764705882352941,1.0,0.89879,True
+2026-08-15 15:00:00+00:00,tt_bogor,Tol Jagorawi (Bogor),Jabodetabek,37.0,44.0,800.0,673.0,0.159090909090909,0.0,1.0,True
+2026-08-15 15:00:00+00:00,tt_bsd,BSD/Serpong,Jabodetabek,34.0,34.0,165.0,165.0,0.0,0.0,1.0,True
+2026-08-15 15:00:00+00:00,tt_cawang,Cawang interchange,Jabodetabek,33.0,43.0,81.0,62.0,0.2325581395348837,0.0,1.0,True
+2026-08-15 15:00:00+00:00,tt_depok,Jl. Margonda (Depok),Jabodetabek,25.0,31.0,2205.0,1778.0,0.1935483870967742,0.0,0.992289,True
+2026-08-15 15:00:00+00:00,tt_gatsu,Jl. Gatot Subroto,Jabodetabek,45.0,45.0,52.0,52.0,0.0,0.0,1.0,True
+2026-08-15 15:00:00+00:00,tt_grogol,Grogol,Jabodetabek,40.0,40.0,304.0,304.0,0.0,0.0,1.0,True
+2026-08-15 15:00:00+00:00,tt_kebonjeruk,Tol Kebon Jeruk,Jabodetabek,30.0,35.0,1351.0,1158.0,0.1428571428571429,0.0,1.0,True
+2026-08-15 15:00:00+00:00,tt_kelapagading,Kelapa Gading,Jabodetabek,26.0,29.0,1181.0,1059.0,0.1034482758620689,0.0,0.998549,True
+2026-08-15 15:00:00+00:00,tt_kuningan,Jl. HR Rasuna Said,Jabodetabek,21.0,21.0,208.0,208.0,0.0,0.0,1.0,True
+2026-08-15 15:00:00+00:00,tt_sudirman,Jl. Sudirman (HI),Jabodetabek,28.0,39.0,512.0,368.0,0.282051282051282,0.0,1.0,True
+2026-08-15 15:00:00+00:00,tt_tangerang,Tol Jakarta-Merak,Jabodetabek,48.0,48.0,193.0,193.0,0.0,0.0,1.0,True
+2026-08-15 15:00:00+00:00,tt_tbsimatupang,TB Simatupang,Jabodetabek,72.0,72.0,343.0,343.0,0.0,0.0,1.0,True
+2026-08-15 15:00:00+00:00,tt_thamrin,Jl. MH Thamrin,Jabodetabek,10.0,22.0,574.0,261.0,0.5454545454545454,0.0,1.0,True
+2026-08-15 16:00:00+00:00,tt_bekasi,Tol Jakarta-Cikampek,Jabodetabek,17.0,18.0,1135.0,1072.0,0.0555555555555555,1.0,0.822468,True
+2026-08-15 16:00:00+00:00,tt_bogor,Tol Jagorawi (Bogor),Jabodetabek,45.0,45.0,658.0,658.0,0.0,0.0,1.0,True
+2026-08-15 16:00:00+00:00,tt_bsd,BSD/Serpong,Jabodetabek,34.0,34.0,165.0,165.0,0.0,0.0,1.0,True
+2026-08-15 16:00:00+00:00,tt_cawang,Cawang interchange,Jabodetabek,43.0,43.0,62.0,62.0,0.0,0.0,1.0,True
+2026-08-15 16:00:00+00:00,tt_depok,Jl. Margonda (Depok),Jabodetabek,31.0,31.0,1778.0,1778.0,0.0,0.0,1.0,True
+2026-08-15 16:00:00+00:00,tt_gatsu,Jl. Gatot Subroto,Jabodetabek,45.0,45.0,52.0,52.0,0.0,0.0,1.0,True
+2026-08-15 16:00:00+00:00,tt_grogol,Grogol,Jabodetabek,40.0,40.0,304.0,304.0,0.0,0.0,1.0,True
+2026-08-15 16:00:00+00:00,tt_kebonjeruk,Tol Kebon Jeruk,Jabodetabek,35.0,35.0,1158.0,1158.0,0.0,0.0,1.0,True
+2026-08-15 16:00:00+00:00,tt_kelapagading,Kelapa Gading,Jabodetabek,29.0,29.0,1059.0,1059.0,0.0,0.0,1.0,True
+2026-08-15 16:00:00+00:00,tt_kuningan,Jl. HR Rasuna Said,Jabodetabek,21.0,21.0,208.0,208.0,0.0,0.0,1.0,True
+2026-08-15 16:00:00+00:00,tt_sudirman,Jl. Sudirman (HI),Jabodetabek,38.0,38.0,377.0,377.0,0.0,0.0,1.0,True
+2026-08-15 16:00:00+00:00,tt_tangerang,Tol Jakarta-Merak,Jabodetabek,48.0,48.0,193.0,193.0,0.0,0.0,1.0,True
+2026-08-15 16:00:00+00:00,tt_tbsimatupang,TB Simatupang,Jabodetabek,72.0,72.0,343.0,343.0,0.0,0.0,1.0,True
+2026-08-15 16:00:00+00:00,tt_thamrin,Jl. MH Thamrin,Jabodetabek,22.0,22.0,261.0,261.0,0.0,0.0,1.0,True
+2026-08-15 17:00:00+00:00,tt_bekasi,,,,,,,,,,False
+2026-08-15 17:00:00+00:00,tt_bogor,,,,,,,,,,False
+2026-08-15 17:00:00+00:00,tt_bsd,,,,,,,,,,False
+2026-08-15 17:00:00+00:00,tt_cawang,,,,,,,,,,False
+2026-08-15 17:00:00+00:00,tt_depok,,,,,,,,,,False
+2026-08-15 17:00:00+00:00,tt_gatsu,,,,,,,,,,False
+2026-08-15 17:00:00+00:00,tt_grogol,,,,,,,,,,False
+2026-08-15 17:00:00+00:00,tt_kebonjeruk,,,,,,,,,,False
+2026-08-15 17:00:00+00:00,tt_kelapagading,,,,,,,,,,False
+2026-08-15 17:00:00+00:00,tt_kuningan,,,,,,,,,,False
+2026-08-15 17:00:00+00:00,tt_sudirman,,,,,,,,,,False
+2026-08-15 17:00:00+00:00,tt_tangerang,,,,,,,,,,False
+2026-08-15 17:00:00+00:00,tt_tbsimatupang,,,,,,,,,,False
+2026-08-15 17:00:00+00:00,tt_thamrin,,,,,,,,,,False
+2026-08-15 18:00:00+00:00,tt_bekasi,Tol Jakarta-Cikampek,Jabodetabek,17.0,17.0,1135.0,1135.0,0.0,1.0,0.722417,True
+2026-08-15 18:00:00+00:00,tt_bogor,Tol Jagorawi (Bogor),Jabodetabek,45.0,45.0,658.0,658.0,0.0,0.0,1.0,True
+2026-08-15 18:00:00+00:00,tt_bsd,BSD/Serpong,Jabodetabek,34.0,34.0,165.0,165.0,0.0,0.0,1.0,True
+2026-08-15 18:00:00+00:00,tt_cawang,Cawang interchange,Jabodetabek,43.0,43.0,62.0,62.0,0.0,0.0,1.0,True
+2026-08-15 18:00:00+00:00,tt_depok,Jl. Margonda (Depok),Jabodetabek,31.0,31.0,1778.0,1778.0,0.0,0.0,1.0,True
+2026-08-15 18:00:00+00:00,tt_gatsu,Jl. Gatot Subroto,Jabodetabek,45.0,45.0,52.0,52.0,0.0,0.0,1.0,True
+2026-08-15 18:00:00+00:00,tt_grogol,Grogol,Jabodetabek,40.0,40.0,304.0,304.0,0.0,0.0,1.0,True
+2026-08-15 18:00:00+00:00,tt_kebonjeruk,Tol Kebon Jeruk,Jabodetabek,35.0,35.0,1158.0,1158.0,0.0,0.0,1.0,True
+2026-08-15 18:00:00+00:00,tt_kelapagading,Kelapa Gading,Jabodetabek,29.0,29.0,1059.0,1059.0,0.0,0.0,1.0,True
+2026-08-15 18:00:00+00:00,tt_kuningan,Jl. HR Rasuna Said,Jabodetabek,21.0,21.0,208.0,208.0,0.0,0.0,1.0,True
+2026-08-15 18:00:00+00:00,tt_sudirman,Jl. Sudirman (HI),Jabodetabek,38.0,38.0,377.0,377.0,0.0,0.0,1.0,True
+2026-08-15 18:00:00+00:00,tt_tangerang,Tol Jakarta-Merak,Jabodetabek,48.0,48.0,193.0,193.0,0.0,0.0,1.0,True
+2026-08-15 18:00:00+00:00,tt_tbsimatupang,TB Simatupang,Jabodetabek,72.0,72.0,343.0,343.0,0.0,0.0,1.0,True
+2026-08-15 18:00:00+00:00,tt_thamrin,Jl. MH Thamrin,Jabodetabek,22.0,22.0,261.0,261.0,0.0,0.0,1.0,True
+2026-08-15 19:00:00+00:00,tt_bekasi,,,,,,,,,,False
+2026-08-15 19:00:00+00:00,tt_bogor,,,,,,,,,,False
+2026-08-15 19:00:00+00:00,tt_bsd,,,,,,,,,,False
+2026-08-15 19:00:00+00:00,tt_cawang,,,,,,,,,,False
+2026-08-15 19:00:00+00:00,tt_depok,,,,,,,,,,False
+2026-08-15 19:00:00+00:00,tt_gatsu,,,,,,,,,,False
+2026-08-15 19:00:00+00:00,tt_grogol,,,,,,,,,,False
+2026-08-15 19:00:00+00:00,tt_kebonjeruk,,,,,,,,,,False
+2026-08-15 19:00:00+00:00,tt_kelapagading,,,,,,,,,,False
+2026-08-15 19:00:00+00:00,tt_kuningan,,,,,,,,,,False
+2026-08-15 19:00:00+00:00,tt_sudirman,,,,,,,,,,False
+2026-08-15 19:00:00+00:00,tt_tangerang,,,,,,,,,,False
+2026-08-15 19:00:00+00:00,tt_tbsimatupang,,,,,,,,,,False
+2026-08-15 19:00:00+00:00,tt_thamrin,,,,,,,,,,False
+2026-08-15 20:00:00+00:00,tt_bekasi,Tol Jakarta-Cikampek,Jabodetabek,17.0,17.0,1135.0,1135.0,0.0,1.0,0.673303,True
+2026-08-15 20:00:00+00:00,tt_bogor,Tol Jagorawi (Bogor),Jabodetabek,45.0,45.0,658.0,658.0,0.0,0.0,1.0,True
+2026-08-15 20:00:00+00:00,tt_bsd,BSD/Serpong,Jabodetabek,34.0,34.0,165.0,165.0,0.0,0.0,1.0,True
+2026-08-15 20:00:00+00:00,tt_cawang,Cawang interchange,Jabodetabek,43.0,43.0,62.0,62.0,0.0,0.0,1.0,True
+2026-08-15 20:00:00+00:00,tt_depok,Jl. Margonda (Depok),Jabodetabek,31.0,31.0,1778.0,1778.0,0.0,0.0,1.0,True
+2026-08-15 20:00:00+00:00,tt_gatsu,Jl. Gatot Subroto,Jabodetabek,45.0,45.0,52.0,52.0,0.0,0.0,1.0,True
+2026-08-15 20:00:00+00:00,tt_grogol,Grogol,Jabodetabek,40.0,40.0,304.0,304.0,0.0,0.0,1.0,True
+2026-08-15 20:00:00+00:00,tt_kebonjeruk,Tol Kebon Jeruk,Jabodetabek,35.0,35.0,1158.0,1158.0,0.0,0.0,1.0,True
+2026-08-15 20:00:00+00:00,tt_kelapagading,Kelapa Gading,Jabodetabek,29.0,29.0,1059.0,1059.0,0.0,0.0,1.0,True
+2026-08-15 20:00:00+00:00,tt_kuningan,Jl. HR Rasuna Said,Jabodetabek,21.0,21.0,208.0,208.0,0.0,0.0,1.0,True
+2026-08-15 20:00:00+00:00,tt_sudirman,Jl. Sudirman (HI),Jabodetabek,38.0,38.0,377.0,377.0,0.0,0.0,1.0,True
+2026-08-15 20:00:00+00:00,tt_tangerang,Tol Jakarta-Merak,Jabodetabek,48.0,48.0,193.0,193.0,0.0,0.0,1.0,True
+2026-08-15 20:00:00+00:00,tt_tbsimatupang,TB Simatupang,Jabodetabek,72.0,72.0,343.0,343.0,0.0,0.0,1.0,True
+2026-08-15 20:00:00+00:00,tt_thamrin,Jl. MH Thamrin,Jabodetabek,22.0,22.0,261.0,261.0,0.0,0.0,1.0,True
+2026-08-15 21:00:00+00:00,tt_bekasi,Tol Jakarta-Cikampek,Jabodetabek,18.0,18.0,1072.0,1072.0,0.0,1.0,0.589824,True
+2026-08-15 21:00:00+00:00,tt_bogor,Tol Jagorawi (Bogor),Jabodetabek,45.0,45.0,658.0,658.0,0.0,0.0,1.0,True
+2026-08-15 21:00:00+00:00,tt_bsd,BSD/Serpong,Jabodetabek,34.0,34.0,165.0,165.0,0.0,0.0,1.0,True
+2026-08-15 21:00:00+00:00,tt_cawang,Cawang interchange,Jabodetabek,43.0,43.0,62.0,62.0,0.0,0.0,1.0,True
+2026-08-15 21:00:00+00:00,tt_depok,Jl. Margonda (Depok),Jabodetabek,31.0,31.0,1778.0,1778.0,0.0,0.0,1.0,True
+2026-08-15 21:00:00+00:00,tt_gatsu,Jl. Gatot Subroto,Jabodetabek,45.0,45.0,52.0,52.0,0.0,0.0,1.0,True
+2026-08-15 21:00:00+00:00,tt_grogol,Grogol,Jabodetabek,40.0,40.0,304.0,304.0,0.0,0.0,1.0,True
+2026-08-15 21:00:00+00:00,tt_kebonjeruk,Tol Kebon Jeruk,Jabodetabek,35.0,35.0,1158.0,1158.0,0.0,0.0,1.0,True
+2026-08-15 21:00:00+00:00,tt_kelapagading,Kelapa Gading,Jabodetabek,29.0,29.0,1059.0,1059.0,0.0,0.0,1.0,True
+2026-08-15 21:00:00+00:00,tt_kuningan,Jl. HR Rasuna Said,Jabodetabek,21.0,21.0,208.0,208.0,0.0,0.0,1.0,True
+2026-08-15 21:00:00+00:00,tt_sudirman,Jl. Sudirman (HI),Jabodetabek,38.0,38.0,377.0,377.0,0.0,0.0,1.0,True
+2026-08-15 21:00:00+00:00,tt_tangerang,Tol Jakarta-Merak,Jabodetabek,48.0,48.0,193.0,193.0,0.0,0.0,1.0,True
+2026-08-15 21:00:00+00:00,tt_tbsimatupang,TB Simatupang,Jabodetabek,72.0,72.0,343.0,343.0,0.0,0.0,1.0,True
+2026-08-15 21:00:00+00:00,tt_thamrin,Jl. MH Thamrin,Jabodetabek,22.0,22.0,261.0,261.0,0.0,0.0,1.0,True
+2026-08-15 22:00:00+00:00,tt_bekasi,,,,,,,,,,False
+2026-08-15 22:00:00+00:00,tt_bogor,,,,,,,,,,False
+2026-08-15 22:00:00+00:00,tt_bsd,,,,,,,,,,False
+2026-08-15 22:00:00+00:00,tt_cawang,,,,,,,,,,False
+2026-08-15 22:00:00+00:00,tt_depok,,,,,,,,,,False
+2026-08-15 22:00:00+00:00,tt_gatsu,,,,,,,,,,False
+2026-08-15 22:00:00+00:00,tt_grogol,,,,,,,,,,False
+2026-08-15 22:00:00+00:00,tt_kebonjeruk,,,,,,,,,,False
+2026-08-15 22:00:00+00:00,tt_kelapagading,,,,,,,,,,False
+2026-08-15 22:00:00+00:00,tt_kuningan,,,,,,,,,,False
+2026-08-15 22:00:00+00:00,tt_sudirman,,,,,,,,,,False
+2026-08-15 22:00:00+00:00,tt_tangerang,,,,,,,,,,False
+2026-08-15 22:00:00+00:00,tt_tbsimatupang,,,,,,,,,,False
+2026-08-15 22:00:00+00:00,tt_thamrin,,,,,,,,,,False
+2026-08-15 23:00:00+00:00,tt_bekasi,Tol Jakarta-Cikampek,Jabodetabek,18.0,18.0,1072.0,1072.0,0.0,1.0,0.767982,True
+2026-08-15 23:00:00+00:00,tt_bogor,Tol Jagorawi (Bogor),Jabodetabek,45.0,45.0,658.0,658.0,0.0,0.0,1.0,True
+2026-08-15 23:00:00+00:00,tt_bsd,BSD/Serpong,Jabodetabek,34.0,34.0,165.0,165.0,0.0,0.0,1.0,True
+2026-08-15 23:00:00+00:00,tt_cawang,Cawang interchange,Jabodetabek,43.0,43.0,62.0,62.0,0.0,0.0,1.0,True
+2026-08-15 23:00:00+00:00,tt_depok,Jl. Margonda (Depok),Jabodetabek,31.0,31.0,1778.0,1778.0,0.0,0.0,1.0,True
+2026-08-15 23:00:00+00:00,tt_gatsu,Jl. Gatot Subroto,Jabodetabek,45.0,45.0,52.0,52.0,0.0,0.0,1.0,True
+2026-08-15 23:00:00+00:00,tt_grogol,Grogol,Jabodetabek,40.0,40.0,304.0,304.0,0.0,0.0,1.0,True
+2026-08-15 23:00:00+00:00,tt_kebonjeruk,Tol Kebon Jeruk,Jabodetabek,35.0,35.0,1158.0,1158.0,0.0,0.0,1.0,True
+2026-08-15 23:00:00+00:00,tt_kelapagading,Kelapa Gading,Jabodetabek,29.0,29.0,1059.0,1059.0,0.0,0.0,1.0,True
+2026-08-15 23:00:00+00:00,tt_kuningan,Jl. HR Rasuna Said,Jabodetabek,21.0,21.0,208.0,208.0,0.0,0.0,1.0,True
+2026-08-15 23:00:00+00:00,tt_sudirman,Jl. Sudirman (HI),Jabodetabek,27.0,38.0,531.0,377.0,0.2894736842105263,0.0,0.723239,True
+2026-08-15 23:00:00+00:00,tt_tangerang,Tol Jakarta-Merak,Jabodetabek,48.0,48.0,193.0,193.0,0.0,0.0,1.0,True
+2026-08-15 23:00:00+00:00,tt_tbsimatupang,TB Simatupang,Jabodetabek,72.0,72.0,343.0,343.0,0.0,0.0,1.0,True
+2026-08-15 23:00:00+00:00,tt_thamrin,Jl. MH Thamrin,Jabodetabek,22.0,22.0,261.0,261.0,0.0,0.0,1.0,True
+2026-08-16 00:00:00+00:00,tt_bekasi,,,,,,,,,,False
+2026-08-16 00:00:00+00:00,tt_bogor,,,,,,,,,,False
+2026-08-16 00:00:00+00:00,tt_bsd,,,,,,,,,,False
+2026-08-16 00:00:00+00:00,tt_cawang,,,,,,,,,,False
+2026-08-16 00:00:00+00:00,tt_depok,,,,,,,,,,False
+2026-08-16 00:00:00+00:00,tt_gatsu,,,,,,,,,,False
+2026-08-16 00:00:00+00:00,tt_grogol,,,,,,,,,,False
+2026-08-16 00:00:00+00:00,tt_kebonjeruk,,,,,,,,,,False
+2026-08-16 00:00:00+00:00,tt_kelapagading,,,,,,,,,,False
+2026-08-16 00:00:00+00:00,tt_kuningan,,,,,,,,,,False
+2026-08-16 00:00:00+00:00,tt_sudirman,,,,,,,,,,False
+2026-08-16 00:00:00+00:00,tt_tangerang,,,,,,,,,,False
+2026-08-16 00:00:00+00:00,tt_tbsimatupang,,,,,,,,,,False
+2026-08-16 00:00:00+00:00,tt_thamrin,,,,,,,,,,False
+2026-08-16 01:00:00+00:00,tt_bekasi,Tol Jakarta-Cikampek,Jabodetabek,17.0,17.0,1135.0,1135.0,0.0,1.0,0.895935,True
+2026-08-16 01:00:00+00:00,tt_bogor,Tol Jagorawi (Bogor),Jabodetabek,45.0,45.0,658.0,658.0,0.0,0.0,1.0,True
+2026-08-16 01:00:00+00:00,tt_bsd,BSD/Serpong,Jabodetabek,34.0,34.0,165.0,165.0,0.0,0.0,1.0,True
+2026-08-16 01:00:00+00:00,tt_cawang,Cawang interchange,Jabodetabek,43.0,43.0,62.0,62.0,0.0,0.0,1.0,True
+2026-08-16 01:00:00+00:00,tt_depok,Jl. Margonda (Depok),Jabodetabek,31.0,31.0,1778.0,1778.0,0.0,0.0,1.0,True
+2026-08-16 01:00:00+00:00,tt_gatsu,Jl. Gatot Subroto,Jabodetabek,45.0,45.0,52.0,52.0,0.0,0.0,1.0,True
+2026-08-16 01:00:00+00:00,tt_grogol,Grogol,Jabodetabek,40.0,40.0,304.0,304.0,0.0,0.0,1.0,True
+2026-08-16 01:00:00+00:00,tt_kebonjeruk,Tol Kebon Jeruk,Jabodetabek,35.0,35.0,1158.0,1158.0,0.0,0.0,1.0,True
+2026-08-16 01:00:00+00:00,tt_kelapagading,Kelapa Gading,Jabodetabek,29.0,29.0,1059.0,1059.0,0.0,0.0,1.0,True
+2026-08-16 01:00:00+00:00,tt_kuningan,Jl. HR Rasuna Said,Jabodetabek,21.0,21.0,208.0,208.0,0.0,0.0,1.0,True
+2026-08-16 01:00:00+00:00,tt_sudirman,Jl. Sudirman (HI),Jabodetabek,19.0,38.0,755.0,377.0,0.5,0.0,0.832664,True
+2026-08-16 01:00:00+00:00,tt_tangerang,Tol Jakarta-Merak,Jabodetabek,48.0,48.0,193.0,193.0,0.0,0.0,1.0,True
+2026-08-16 01:00:00+00:00,tt_tbsimatupang,TB Simatupang,Jabodetabek,72.0,72.0,343.0,343.0,0.0,0.0,1.0,True
+2026-08-16 01:00:00+00:00,tt_thamrin,Jl. MH Thamrin,Jabodetabek,13.0,22.0,442.0,261.0,0.409090909090909,0.0,0.920508,True
+2026-08-16 02:00:00+00:00,tt_bekasi,Tol Jakarta-Cikampek,Jabodetabek,15.0,17.0,1286.0,1135.0,0.1176470588235294,1.0,0.9156,True
+2026-08-16 02:00:00+00:00,tt_bogor,Tol Jagorawi (Bogor),Jabodetabek,45.0,45.0,658.0,658.0,0.0,0.0,1.0,True
+2026-08-16 02:00:00+00:00,tt_bsd,BSD/Serpong,Jabodetabek,30.0,33.0,187.0,170.0,0.0909090909090909,0.0,1.0,True
+2026-08-16 02:00:00+00:00,tt_cawang,Cawang interchange,Jabodetabek,43.0,43.0,62.0,62.0,0.0,0.0,1.0,True
+2026-08-16 02:00:00+00:00,tt_depok,Jl. Margonda (Depok),Jabodetabek,24.0,31.0,2297.0,1778.0,0.2258064516129032,0.0,0.945706,True
+2026-08-16 02:00:00+00:00,tt_gatsu,Jl. Gatot Subroto,Jabodetabek,45.0,45.0,52.0,52.0,0.0,0.0,1.0,True
+2026-08-16 02:00:00+00:00,tt_grogol,Grogol,Jabodetabek,35.0,40.0,348.0,304.0,0.125,0.0,1.0,True
+2026-08-16 02:00:00+00:00,tt_kebonjeruk,Tol Kebon Jeruk,Jabodetabek,35.0,35.0,1158.0,1158.0,0.0,0.0,1.0,True
+2026-08-16 02:00:00+00:00,tt_kelapagading,Kelapa Gading,Jabodetabek,24.0,28.0,1280.0,1097.0,0.1428571428571429,0.0,1.0,True
+2026-08-16 02:00:00+00:00,tt_kuningan,Jl. HR Rasuna Said,Jabodetabek,21.0,21.0,208.0,208.0,0.0,0.0,1.0,True
+2026-08-16 02:00:00+00:00,tt_sudirman,Jl. Sudirman (HI),Jabodetabek,26.0,39.0,552.0,368.0,0.3333333333333333,0.0,0.849806,True
+2026-08-16 02:00:00+00:00,tt_tangerang,Tol Jakarta-Merak,Jabodetabek,48.0,48.0,193.0,193.0,0.0,0.0,1.0,True
+2026-08-16 02:00:00+00:00,tt_tbsimatupang,TB Simatupang,Jabodetabek,72.0,72.0,343.0,343.0,0.0,0.0,1.0,True
+2026-08-16 02:00:00+00:00,tt_thamrin,Jl. MH Thamrin,Jabodetabek,22.0,22.0,261.0,261.0,0.0,0.0,1.0,True
+2026-08-16 03:00:00+00:00,tt_bekasi,,,,,,,,,,False
+2026-08-16 03:00:00+00:00,tt_bogor,,,,,,,,,,False
+2026-08-16 03:00:00+00:00,tt_bsd,,,,,,,,,,False
+2026-08-16 03:00:00+00:00,tt_cawang,,,,,,,,,,False
+2026-08-16 03:00:00+00:00,tt_depok,,,,,,,,,,False
+2026-08-16 03:00:00+00:00,tt_gatsu,,,,,,,,,,False
+2026-08-16 03:00:00+00:00,tt_grogol,,,,,,,,,,False
+2026-08-16 03:00:00+00:00,tt_kebonjeruk,,,,,,,,,,False
+2026-08-16 03:00:00+00:00,tt_kelapagading,,,,,,,,,,False
+2026-08-16 03:00:00+00:00,tt_kuningan,,,,,,,,,,False
+2026-08-16 03:00:00+00:00,tt_sudirman,,,,,,,,,,False
+2026-08-16 03:00:00+00:00,tt_tangerang,,,,,,,,,,False
+2026-08-16 03:00:00+00:00,tt_tbsimatupang,,,,,,,,,,False
+2026-08-16 03:00:00+00:00,tt_thamrin,,,,,,,,,,False
+2026-08-16 04:00:00+00:00,tt_bekasi,Tol Jakarta-Cikampek,Jabodetabek,15.0,17.0,1286.0,1135.0,0.1176470588235294,1.0,0.878573,True
+2026-08-16 04:00:00+00:00,tt_bogor,Tol Jagorawi (Bogor),Jabodetabek,45.0,45.0,658.0,658.0,0.0,0.0,1.0,True
+2026-08-16 04:00:00+00:00,tt_bsd,BSD/Serpong,Jabodetabek,34.0,34.0,165.0,165.0,0.0,0.0,1.0,True
+2026-08-16 04:00:00+00:00,tt_cawang,Cawang interchange,Jabodetabek,21.0,42.0,128.0,64.0,0.5,0.0,1.0,True
+2026-08-16 04:00:00+00:00,tt_depok,Jl. Margonda (Depok),Jabodetabek,26.0,31.0,2120.0,1778.0,0.1612903225806451,0.0,0.986424,True
+2026-08-16 04:00:00+00:00,tt_gatsu,Jl. Gatot Subroto,Jabodetabek,45.0,45.0,52.0,52.0,0.0,0.0,1.0,True
+2026-08-16 04:00:00+00:00,tt_grogol,Grogol,Jabodetabek,40.0,40.0,304.0,304.0,0.0,0.0,1.0,True
+2026-08-16 04:00:00+00:00,tt_kebonjeruk,Tol Kebon Jeruk,Jabodetabek,29.0,35.0,1398.0,1158.0,0.1714285714285713,0.0,1.0,True
+2026-08-16 04:00:00+00:00,tt_kelapagading,Kelapa Gading,Jabodetabek,29.0,29.0,1059.0,1059.0,0.0,0.0,1.0,True
+2026-08-16 04:00:00+00:00,tt_kuningan,Jl. HR Rasuna Said,Jabodetabek,21.0,21.0,208.0,208.0,0.0,0.0,1.0,True
+2026-08-16 04:00:00+00:00,tt_sudirman,Jl. Sudirman (HI),Jabodetabek,38.0,38.0,377.0,377.0,0.0,0.0,1.0,True
+2026-08-16 04:00:00+00:00,tt_tangerang,Tol Jakarta-Merak,Jabodetabek,48.0,48.0,193.0,193.0,0.0,0.0,1.0,True
+2026-08-16 04:00:00+00:00,tt_tbsimatupang,TB Simatupang,Jabodetabek,72.0,72.0,343.0,343.0,0.0,0.0,1.0,True
+2026-08-16 04:00:00+00:00,tt_thamrin,Jl. MH Thamrin,Jabodetabek,17.0,22.0,338.0,261.0,0.2272727272727273,0.0,1.0,True
+2026-08-16 05:00:00+00:00,tt_bekasi,,,,,,,,,,False
+2026-08-16 05:00:00+00:00,tt_bogor,,,,,,,,,,False
+2026-08-16 05:00:00+00:00,tt_bsd,,,,,,,,,,False
+2026-08-16 05:00:00+00:00,tt_cawang,,,,,,,,,,False
+2026-08-16 05:00:00+00:00,tt_depok,,,,,,,,,,False
+2026-08-16 05:00:00+00:00,tt_gatsu,,,,,,,,,,False
+2026-08-16 05:00:00+00:00,tt_grogol,,,,,,,,,,False
+2026-08-16 05:00:00+00:00,tt_kebonjeruk,,,,,,,,,,False
+2026-08-16 05:00:00+00:00,tt_kelapagading,,,,,,,,,,False
+2026-08-16 05:00:00+00:00,tt_kuningan,,,,,,,,,,False
+2026-08-16 05:00:00+00:00,tt_sudirman,,,,,,,,,,False
+2026-08-16 05:00:00+00:00,tt_tangerang,,,,,,,,,,False
+2026-08-16 05:00:00+00:00,tt_tbsimatupang,,,,,,,,,,False
+2026-08-16 05:00:00+00:00,tt_thamrin,,,,,,,,,,False
+2026-08-16 06:00:00+00:00,tt_bekasi,Tol Jakarta-Cikampek,Jabodetabek,16.0,17.0,1206.0,1135.0,0.0588235294117647,1.0,0.843229,True
+2026-08-16 06:00:00+00:00,tt_bogor,Tol Jagorawi (Bogor),Jabodetabek,45.0,45.0,658.0,658.0,0.0,0.0,1.0,True
+2026-08-16 06:00:00+00:00,tt_bsd,BSD/Serpong,Jabodetabek,34.0,34.0,165.0,165.0,0.0,0.0,1.0,True
+2026-08-16 06:00:00+00:00,tt_cawang,Cawang interchange,Jabodetabek,15.0,41.0,180.0,65.0,0.6341463414634146,0.0,1.0,True
+2026-08-16 06:00:00+00:00,tt_depok,Jl. Margonda (Depok),Jabodetabek,26.0,31.0,2120.0,1778.0,0.1612903225806451,0.0,0.973969,True
+2026-08-16 06:00:00+00:00,tt_gatsu,Jl. Gatot Subroto,Jabodetabek,45.0,45.0,52.0,52.0,0.0,0.0,1.0,True
+2026-08-16 06:00:00+00:00,tt_grogol,Grogol,Jabodetabek,40.0,40.0,304.0,304.0,0.0,0.0,1.0,True
+2026-08-16 06:00:00+00:00,tt_kebonjeruk,Tol Kebon Jeruk,Jabodetabek,26.0,35.0,1559.0,1158.0,0.2571428571428571,0.0,1.0,True
+2026-08-16 06:00:00+00:00,tt_kelapagading,Kelapa Gading,Jabodetabek,20.0,29.0,1536.0,1059.0,0.3103448275862068,0.0,1.0,True
+2026-08-16 06:00:00+00:00,tt_kuningan,Jl. HR Rasuna Said,Jabodetabek,21.0,21.0,208.0,208.0,0.0,0.0,1.0,True
+2026-08-16 06:00:00+00:00,tt_sudirman,Jl. Sudirman (HI),Jabodetabek,27.0,38.0,531.0,377.0,0.2894736842105263,0.0,1.0,True
+2026-08-16 06:00:00+00:00,tt_tangerang,Tol Jakarta-Merak,Jabodetabek,48.0,48.0,193.0,193.0,0.0,0.0,1.0,True
+2026-08-16 06:00:00+00:00,tt_tbsimatupang,TB Simatupang,Jabodetabek,72.0,72.0,343.0,343.0,0.0,0.0,1.0,True
+2026-08-16 06:00:00+00:00,tt_thamrin,Jl. MH Thamrin,Jabodetabek,16.0,23.0,359.0,249.0,0.3043478260869565,0.0,1.0,True
+2026-08-16 07:00:00+00:00,tt_bekasi,Tol Jakarta-Cikampek,Jabodetabek,15.0,17.0,1286.0,1135.0,0.1176470588235294,1.0,0.811477,True
+2026-08-16 07:00:00+00:00,tt_bogor,Tol Jagorawi (Bogor),Jabodetabek,45.0,45.0,658.0,658.0,0.0,0.0,1.0,True
+2026-08-16 07:00:00+00:00,tt_bsd,BSD/Serpong,Jabodetabek,34.0,34.0,165.0,165.0,0.0,0.0,1.0,True
+2026-08-16 07:00:00+00:00,tt_cawang,Cawang interchange,Jabodetabek,31.0,42.0,87.0,64.0,0.2619047619047618,0.0,1.0,True
+2026-08-16 07:00:00+00:00,tt_depok,Jl. Margonda (Depok),Jabodetabek,31.0,31.0,1778.0,1778.0,0.0,0.0,1.0,True
+2026-08-16 07:00:00+00:00,tt_gatsu,Jl. Gatot Subroto,Jabodetabek,45.0,45.0,52.0,52.0,0.0,0.0,1.0,True
+2026-08-16 07:00:00+00:00,tt_grogol,Grogol,Jabodetabek,40.0,40.0,304.0,304.0,0.0,0.0,1.0,True
+2026-08-16 07:00:00+00:00,tt_kebonjeruk,Tol Kebon Jeruk,Jabodetabek,27.0,35.0,1501.0,1158.0,0.2285714285714285,0.0,1.0,True
+2026-08-16 07:00:00+00:00,tt_kelapagading,Kelapa Gading,Jabodetabek,21.0,29.0,1463.0,1059.0,0.2758620689655172,0.0,1.0,True
+2026-08-16 07:00:00+00:00,tt_kuningan,Jl. HR Rasuna Said,Jabodetabek,21.0,21.0,208.0,208.0,0.0,0.0,1.0,True
+2026-08-16 07:00:00+00:00,tt_sudirman,Jl. Sudirman (HI),Jabodetabek,25.0,38.0,574.0,377.0,0.3421052631578947,0.0,1.0,True
+2026-08-16 07:00:00+00:00,tt_tangerang,Tol Jakarta-Merak,Jabodetabek,48.0,48.0,193.0,193.0,0.0,0.0,1.0,True
+2026-08-16 07:00:00+00:00,tt_tbsimatupang,TB Simatupang,Jabodetabek,72.0,72.0,343.0,343.0,0.0,0.0,1.0,True
+2026-08-16 07:00:00+00:00,tt_thamrin,Jl. MH Thamrin,Jabodetabek,16.0,22.0,359.0,261.0,0.2727272727272727,0.0,1.0,True
+2026-08-16 08:00:00+00:00,tt_bekasi,,,,,,,,,,False
+2026-08-16 08:00:00+00:00,tt_bogor,,,,,,,,,,False
+2026-08-16 08:00:00+00:00,tt_bsd,,,,,,,,,,False
+2026-08-16 08:00:00+00:00,tt_cawang,,,,,,,,,,False
+2026-08-16 08:00:00+00:00,tt_depok,,,,,,,,,,False
+2026-08-16 08:00:00+00:00,tt_gatsu,,,,,,,,,,False
+2026-08-16 08:00:00+00:00,tt_grogol,,,,,,,,,,False
+2026-08-16 08:00:00+00:00,tt_kebonjeruk,,,,,,,,,,False
+2026-08-16 08:00:00+00:00,tt_kelapagading,,,,,,,,,,False
+2026-08-16 08:00:00+00:00,tt_kuningan,,,,,,,,,,False
+2026-08-16 08:00:00+00:00,tt_sudirman,,,,,,,,,,False
+2026-08-16 08:00:00+00:00,tt_tangerang,,,,,,,,,,False
+2026-08-16 08:00:00+00:00,tt_tbsimatupang,,,,,,,,,,False
+2026-08-16 08:00:00+00:00,tt_thamrin,,,,,,,,,,False
+2026-08-16 09:00:00+00:00,tt_bekasi,Tol Jakarta-Cikampek,Jabodetabek,15.0,17.0,1286.0,1135.0,0.1176470588235294,1.0,0.891078,True
+2026-08-16 09:00:00+00:00,tt_bogor,Tol Jagorawi (Bogor),Jabodetabek,37.0,45.0,800.0,658.0,0.1777777777777778,0.0,1.0,True
+2026-08-16 09:00:00+00:00,tt_bsd,BSD/Serpong,Jabodetabek,34.0,34.0,165.0,165.0,0.0,0.0,1.0,True
+2026-08-16 09:00:00+00:00,tt_cawang,Cawang interchange,Jabodetabek,43.0,43.0,62.0,62.0,0.0,0.0,1.0,True
+2026-08-16 09:00:00+00:00,tt_depok,Jl. Margonda (Depok),Jabodetabek,24.0,31.0,2297.0,1778.0,0.2258064516129032,0.0,0.987222,True
+2026-08-16 09:00:00+00:00,tt_gatsu,Jl. Gatot Subroto,Jabodetabek,45.0,45.0,52.0,52.0,0.0,0.0,1.0,True
+2026-08-16 09:00:00+00:00,tt_grogol,Grogol,Jabodetabek,40.0,40.0,304.0,304.0,0.0,0.0,1.0,True
+2026-08-16 09:00:00+00:00,tt_kebonjeruk,Tol Kebon Jeruk,Jabodetabek,29.0,36.0,1398.0,1126.0,0.1944444444444444,0.0,1.0,True
+2026-08-16 09:00:00+00:00,tt_kelapagading,Kelapa Gading,Jabodetabek,29.0,29.0,1059.0,1059.0,0.0,0.0,1.0,True
+2026-08-16 09:00:00+00:00,tt_kuningan,Jl. HR Rasuna Said,Jabodetabek,21.0,21.0,208.0,208.0,0.0,0.0,1.0,True
+2026-08-16 09:00:00+00:00,tt_sudirman,Jl. Sudirman (HI),Jabodetabek,28.0,39.0,512.0,368.0,0.282051282051282,0.0,1.0,True
+2026-08-16 09:00:00+00:00,tt_tangerang,Tol Jakarta-Merak,Jabodetabek,48.0,48.0,193.0,193.0,0.0,0.0,1.0,True
+2026-08-16 09:00:00+00:00,tt_tbsimatupang,TB Simatupang,Jabodetabek,72.0,72.0,343.0,343.0,0.0,0.0,1.0,True
+2026-08-16 09:00:00+00:00,tt_thamrin,Jl. MH Thamrin,Jabodetabek,18.0,23.0,319.0,249.0,0.217391304347826,0.0,1.0,True
+2026-08-16 10:00:00+00:00,tt_bekasi,Tol Jakarta-Cikampek,Jabodetabek,15.0,17.0,1286.0,1135.0,0.1176470588235294,1.0,0.92604,True
+2026-08-16 10:00:00+00:00,tt_bogor,Tol Jagorawi (Bogor),Jabodetabek,34.0,44.0,871.0,673.0,0.2272727272727273,0.0,1.0,True
+2026-08-16 10:00:00+00:00,tt_bsd,BSD/Serpong,Jabodetabek,34.0,34.0,165.0,165.0,0.0,0.0,1.0,True
+2026-08-16 10:00:00+00:00,tt_cawang,Cawang interchange,Jabodetabek,30.0,42.0,90.0,64.0,0.2857142857142857,0.0,1.0,True
+2026-08-16 10:00:00+00:00,tt_depok,Jl. Margonda (Depok),Jabodetabek,23.0,31.0,2397.0,1778.0,0.2580645161290322,0.0,0.985679,True
+2026-08-16 10:00:00+00:00,tt_gatsu,Jl. Gatot Subroto,Jabodetabek,45.0,45.0,52.0,52.0,0.0,0.0,1.0,True
+2026-08-16 10:00:00+00:00,tt_grogol,Grogol,Jabodetabek,40.0,40.0,304.0,304.0,0.0,0.0,1.0,True
+2026-08-16 10:00:00+00:00,tt_kebonjeruk,Tol Kebon Jeruk,Jabodetabek,29.0,35.0,1398.0,1158.0,0.1714285714285713,0.0,1.0,True
+2026-08-16 10:00:00+00:00,tt_kelapagading,Kelapa Gading,Jabodetabek,23.0,29.0,1335.0,1059.0,0.2068965517241379,0.0,0.996482,True
+2026-08-16 10:00:00+00:00,tt_kuningan,Jl. HR Rasuna Said,Jabodetabek,21.0,21.0,208.0,208.0,0.0,0.0,1.0,True
+2026-08-16 10:00:00+00:00,tt_sudirman,Jl. Sudirman (HI),Jabodetabek,29.0,38.0,494.0,377.0,0.2368421052631578,0.0,1.0,True
+2026-08-16 10:00:00+00:00,tt_tangerang,Tol Jakarta-Merak,Jabodetabek,48.0,48.0,193.0,193.0,0.0,0.0,1.0,True
+2026-08-16 10:00:00+00:00,tt_tbsimatupang,TB Simatupang,Jabodetabek,72.0,72.0,343.0,343.0,0.0,0.0,1.0,True
+2026-08-16 10:00:00+00:00,tt_thamrin,Jl. MH Thamrin,Jabodetabek,18.0,24.0,319.0,239.0,0.25,0.0,1.0,True
+2026-08-16 11:00:00+00:00,tt_bekasi,,,,,,,,,,False
+2026-08-16 11:00:00+00:00,tt_bogor,,,,,,,,,,False
+2026-08-16 11:00:00+00:00,tt_bsd,,,,,,,,,,False
+2026-08-16 11:00:00+00:00,tt_cawang,,,,,,,,,,False
+2026-08-16 11:00:00+00:00,tt_depok,,,,,,,,,,False
+2026-08-16 11:00:00+00:00,tt_gatsu,,,,,,,,,,False
+2026-08-16 11:00:00+00:00,tt_grogol,,,,,,,,,,False
+2026-08-16 11:00:00+00:00,tt_kebonjeruk,,,,,,,,,,False
+2026-08-16 11:00:00+00:00,tt_kelapagading,,,,,,,,,,False
+2026-08-16 11:00:00+00:00,tt_kuningan,,,,,,,,,,False
+2026-08-16 11:00:00+00:00,tt_sudirman,,,,,,,,,,False
+2026-08-16 11:00:00+00:00,tt_tangerang,,,,,,,,,,False
+2026-08-16 11:00:00+00:00,tt_tbsimatupang,,,,,,,,,,False
+2026-08-16 11:00:00+00:00,tt_thamrin,,,,,,,,,,False
+2026-08-16 12:00:00+00:00,tt_bekasi,Tol Jakarta-Cikampek,Jabodetabek,11.0,16.0,1754.0,1206.0,0.3125,1.0,0.913283,True
+2026-08-16 12:00:00+00:00,tt_bogor,Tol Jagorawi (Bogor),Jabodetabek,36.0,45.0,823.0,658.0,0.1999999999999999,0.0,1.0,True
+2026-08-16 12:00:00+00:00,tt_bsd,BSD/Serpong,Jabodetabek,34.0,34.0,165.0,165.0,0.0,0.0,1.0,True
+2026-08-16 12:00:00+00:00,tt_cawang,Cawang interchange,Jabodetabek,24.0,42.0,112.0,64.0,0.4285714285714286,0.0,1.0,True
+2026-08-16 12:00:00+00:00,tt_depok,Jl. Margonda (Depok),Jabodetabek,24.0,31.0,2297.0,1778.0,0.2258064516129032,0.0,0.988276,True
+2026-08-16 12:00:00+00:00,tt_gatsu,Jl. Gatot Subroto,Jabodetabek,45.0,45.0,52.0,52.0,0.0,0.0,1.0,True
+2026-08-16 12:00:00+00:00,tt_grogol,Grogol,Jabodetabek,40.0,40.0,304.0,304.0,0.0,0.0,1.0,True
+2026-08-16 12:00:00+00:00,tt_kebonjeruk,Tol Kebon Jeruk,Jabodetabek,28.0,35.0,1448.0,1158.0,0.1999999999999999,0.0,1.0,True
+2026-08-16 12:00:00+00:00,tt_kelapagading,Kelapa Gading,Jabodetabek,19.0,28.0,1617.0,1097.0,0.3214285714285714,0.0,0.998553,True
+2026-08-16 12:00:00+00:00,tt_kuningan,Jl. HR Rasuna Said,Jabodetabek,21.0,21.0,208.0,208.0,0.0,0.0,1.0,True
+2026-08-16 12:00:00+00:00,tt_sudirman,Jl. Sudirman (HI),Jabodetabek,27.0,38.0,531.0,377.0,0.2894736842105263,0.0,1.0,True
+2026-08-16 12:00:00+00:00,tt_tangerang,Tol Jakarta-Merak,Jabodetabek,48.0,48.0,193.0,193.0,0.0,0.0,1.0,True
+2026-08-16 12:00:00+00:00,tt_tbsimatupang,TB Simatupang,Jabodetabek,72.0,72.0,343.0,343.0,0.0,0.0,1.0,True
+2026-08-16 12:00:00+00:00,tt_thamrin,Jl. MH Thamrin,Jabodetabek,13.0,23.0,442.0,249.0,0.4347826086956522,0.0,1.0,True
+2026-08-16 13:00:00+00:00,tt_bekasi,,,,,,,,,,False
+2026-08-16 13:00:00+00:00,tt_bogor,,,,,,,,,,False
+2026-08-16 13:00:00+00:00,tt_bsd,,,,,,,,,,False
+2026-08-16 13:00:00+00:00,tt_cawang,,,,,,,,,,False
+2026-08-16 13:00:00+00:00,tt_depok,,,,,,,,,,False
+2026-08-16 13:00:00+00:00,tt_gatsu,,,,,,,,,,False
+2026-08-16 13:00:00+00:00,tt_grogol,,,,,,,,,,False
+2026-08-16 13:00:00+00:00,tt_kebonjeruk,,,,,,,,,,False
+2026-08-16 13:00:00+00:00,tt_kelapagading,,,,,,,,,,False
+2026-08-16 13:00:00+00:00,tt_kuningan,,,,,,,,,,False
+2026-08-16 13:00:00+00:00,tt_sudirman,,,,,,,,,,False
+2026-08-16 13:00:00+00:00,tt_tangerang,,,,,,,,,,False
+2026-08-16 13:00:00+00:00,tt_tbsimatupang,,,,,,,,,,False
+2026-08-16 13:00:00+00:00,tt_thamrin,,,,,,,,,,False
+2026-08-16 14:00:00+00:00,tt_bekasi,Tol Jakarta-Cikampek,Jabodetabek,14.0,18.0,1378.0,1072.0,0.2222222222222222,1.0,0.869033,True
+2026-08-16 14:00:00+00:00,tt_bogor,Tol Jagorawi (Bogor),Jabodetabek,38.0,44.0,779.0,673.0,0.1363636363636363,0.0,1.0,True
+2026-08-16 14:00:00+00:00,tt_bsd,BSD/Serpong,Jabodetabek,34.0,34.0,165.0,165.0,0.0,0.0,1.0,True
+2026-08-16 14:00:00+00:00,tt_cawang,Cawang interchange,Jabodetabek,43.0,43.0,62.0,62.0,0.0,0.0,1.0,True
+2026-08-16 14:00:00+00:00,tt_depok,Jl. Margonda (Depok),Jabodetabek,24.0,31.0,2297.0,1778.0,0.2258064516129032,0.0,0.980987,True
+2026-08-16 14:00:00+00:00,tt_gatsu,Jl. Gatot Subroto,Jabodetabek,45.0,45.0,52.0,52.0,0.0,0.0,1.0,True
+2026-08-16 14:00:00+00:00,tt_grogol,Grogol,Jabodetabek,40.0,40.0,304.0,304.0,0.0,0.0,1.0,True
+2026-08-16 14:00:00+00:00,tt_kebonjeruk,Tol Kebon Jeruk,Jabodetabek,35.0,35.0,1158.0,1158.0,0.0,0.0,1.0,True
+2026-08-16 14:00:00+00:00,tt_kelapagading,Kelapa Gading,Jabodetabek,22.0,29.0,1396.0,1059.0,0.2413793103448276,0.0,1.0,True
+2026-08-16 14:00:00+00:00,tt_kuningan,Jl. HR Rasuna Said,Jabodetabek,21.0,21.0,208.0,208.0,0.0,0.0,1.0,True
+2026-08-16 14:00:00+00:00,tt_sudirman,Jl. Sudirman (HI),Jabodetabek,30.0,38.0,478.0,377.0,0.2105263157894736,0.0,1.0,True
+2026-08-16 14:00:00+00:00,tt_tangerang,Tol Jakarta-Merak,Jabodetabek,48.0,48.0,193.0,193.0,0.0,0.0,1.0,True
+2026-08-16 14:00:00+00:00,tt_tbsimatupang,TB Simatupang,Jabodetabek,72.0,72.0,343.0,343.0,0.0,0.0,1.0,True
+2026-08-16 14:00:00+00:00,tt_thamrin,Jl. MH Thamrin,Jabodetabek,15.0,22.0,383.0,261.0,0.3181818181818182,0.0,1.0,True
+2026-08-16 15:00:00+00:00,tt_bekasi,Tol Jakarta-Cikampek,Jabodetabek,16.0,17.0,1206.0,1135.0,0.0588235294117647,1.0,0.834958,True
+2026-08-16 15:00:00+00:00,tt_bogor,Tol Jagorawi (Bogor),Jabodetabek,45.0,45.0,658.0,658.0,0.0,0.0,1.0,True
+2026-08-16 15:00:00+00:00,tt_bsd,BSD/Serpong,Jabodetabek,34.0,34.0,165.0,165.0,0.0,0.0,1.0,True
+2026-08-16 15:00:00+00:00,tt_cawang,Cawang interchange,Jabodetabek,43.0,43.0,62.0,62.0,0.0,0.0,1.0,True
+2026-08-16 15:00:00+00:00,tt_depok,Jl. Margonda (Depok),Jabodetabek,31.0,31.0,1778.0,1778.0,0.0,0.0,1.0,True
+2026-08-16 15:00:00+00:00,tt_gatsu,Jl. Gatot Subroto,Jabodetabek,45.0,45.0,52.0,52.0,0.0,0.0,1.0,True
+2026-08-16 15:00:00+00:00,tt_grogol,Grogol,Jabodetabek,40.0,40.0,304.0,304.0,0.0,0.0,1.0,True
+2026-08-16 15:00:00+00:00,tt_kebonjeruk,Tol Kebon Jeruk,Jabodetabek,35.0,35.0,1158.0,1158.0,0.0,0.0,1.0,True
+2026-08-16 15:00:00+00:00,tt_kelapagading,Kelapa Gading,Jabodetabek,29.0,29.0,1059.0,1059.0,0.0,0.0,1.0,True
+2026-08-16 15:00:00+00:00,tt_kuningan,Jl. HR Rasuna Said,Jabodetabek,21.0,21.0,208.0,208.0,0.0,0.0,1.0,True
+2026-08-16 15:00:00+00:00,tt_sudirman,Jl. Sudirman (HI),Jabodetabek,38.0,38.0,377.0,377.0,0.0,0.0,1.0,True
+2026-08-16 15:00:00+00:00,tt_tangerang,Tol Jakarta-Merak,Jabodetabek,48.0,48.0,193.0,193.0,0.0,0.0,1.0,True
+2026-08-16 15:00:00+00:00,tt_tbsimatupang,TB Simatupang,Jabodetabek,72.0,72.0,343.0,343.0,0.0,0.0,1.0,True
+2026-08-16 15:00:00+00:00,tt_thamrin,Jl. MH Thamrin,Jabodetabek,19.0,22.0,302.0,261.0,0.1363636363636363,0.0,1.0,True
+2026-08-16 16:00:00+00:00,tt_bekasi,,,,,,,,,,False
+2026-08-16 16:00:00+00:00,tt_bogor,,,,,,,,,,False
+2026-08-16 16:00:00+00:00,tt_bsd,,,,,,,,,,False
+2026-08-16 16:00:00+00:00,tt_cawang,,,,,,,,,,False
+2026-08-16 16:00:00+00:00,tt_depok,,,,,,,,,,False
+2026-08-16 16:00:00+00:00,tt_gatsu,,,,,,,,,,False
+2026-08-16 16:00:00+00:00,tt_grogol,,,,,,,,,,False
+2026-08-16 16:00:00+00:00,tt_kebonjeruk,,,,,,,,,,False
+2026-08-16 16:00:00+00:00,tt_kelapagading,,,,,,,,,,False
+2026-08-16 16:00:00+00:00,tt_kuningan,,,,,,,,,,False
+2026-08-16 16:00:00+00:00,tt_sudirman,,,,,,,,,,False
+2026-08-16 16:00:00+00:00,tt_tangerang,,,,,,,,,,False
+2026-08-16 16:00:00+00:00,tt_tbsimatupang,,,,,,,,,,False
+2026-08-16 16:00:00+00:00,tt_thamrin,,,,,,,,,,False
+2026-08-16 17:00:00+00:00,tt_bekasi,Tol Jakarta-Cikampek,Jabodetabek,17.0,17.0,1135.0,1135.0,0.0,1.0,0.729018,True
+2026-08-16 17:00:00+00:00,tt_bogor,Tol Jagorawi (Bogor),Jabodetabek,45.0,45.0,658.0,658.0,0.0,0.0,1.0,True
+2026-08-16 17:00:00+00:00,tt_bsd,BSD/Serpong,Jabodetabek,34.0,34.0,165.0,165.0,0.0,0.0,1.0,True
+2026-08-16 17:00:00+00:00,tt_cawang,Cawang interchange,Jabodetabek,43.0,43.0,62.0,62.0,0.0,0.0,1.0,True
+2026-08-16 17:00:00+00:00,tt_depok,Jl. Margonda (Depok),Jabodetabek,31.0,31.0,1778.0,1778.0,0.0,0.0,1.0,True
+2026-08-16 17:00:00+00:00,tt_gatsu,Jl. Gatot Subroto,Jabodetabek,45.0,45.0,52.0,52.0,0.0,0.0,1.0,True
+2026-08-16 17:00:00+00:00,tt_grogol,Grogol,Jabodetabek,40.0,40.0,304.0,304.0,0.0,0.0,1.0,True
+2026-08-16 17:00:00+00:00,tt_kebonjeruk,Tol Kebon Jeruk,Jabodetabek,35.0,35.0,1158.0,1158.0,0.0,0.0,1.0,True
+2026-08-16 17:00:00+00:00,tt_kelapagading,Kelapa Gading,Jabodetabek,29.0,29.0,1059.0,1059.0,0.0,0.0,1.0,True
+2026-08-16 17:00:00+00:00,tt_kuningan,Jl. HR Rasuna Said,Jabodetabek,21.0,21.0,208.0,208.0,0.0,0.0,1.0,True
+2026-08-16 17:00:00+00:00,tt_sudirman,Jl. Sudirman (HI),Jabodetabek,38.0,38.0,377.0,377.0,0.0,0.0,1.0,True
+2026-08-16 17:00:00+00:00,tt_tangerang,Tol Jakarta-Merak,Jabodetabek,48.0,48.0,193.0,193.0,0.0,0.0,1.0,True
+2026-08-16 17:00:00+00:00,tt_tbsimatupang,TB Simatupang,Jabodetabek,72.0,72.0,343.0,343.0,0.0,0.0,1.0,True
+2026-08-16 17:00:00+00:00,tt_thamrin,Jl. MH Thamrin,Jabodetabek,22.0,22.0,261.0,261.0,0.0,0.0,1.0,True
+2026-08-16 18:00:00+00:00,tt_bekasi,,,,,,,,,,False
+2026-08-16 18:00:00+00:00,tt_bogor,,,,,,,,,,False
+2026-08-16 18:00:00+00:00,tt_bsd,,,,,,,,,,False
+2026-08-16 18:00:00+00:00,tt_cawang,,,,,,,,,,False
+2026-08-16 18:00:00+00:00,tt_depok,,,,,,,,,,False
+2026-08-16 18:00:00+00:00,tt_gatsu,,,,,,,,,,False
+2026-08-16 18:00:00+00:00,tt_grogol,,,,,,,,,,False
+2026-08-16 18:00:00+00:00,tt_kebonjeruk,,,,,,,,,,False
+2026-08-16 18:00:00+00:00,tt_kelapagading,,,,,,,,,,False
+2026-08-16 18:00:00+00:00,tt_kuningan,,,,,,,,,,False
+2026-08-16 18:00:00+00:00,tt_sudirman,,,,,,,,,,False
+2026-08-16 18:00:00+00:00,tt_tangerang,,,,,,,,,,False
+2026-08-16 18:00:00+00:00,tt_tbsimatupang,,,,,,,,,,False
+2026-08-16 18:00:00+00:00,tt_thamrin,,,,,,,,,,False
+2026-08-16 19:00:00+00:00,tt_bekasi,Tol Jakarta-Cikampek,Jabodetabek,17.0,17.0,1135.0,1135.0,0.0,1.0,0.697428,True
+2026-08-16 19:00:00+00:00,tt_bogor,Tol Jagorawi (Bogor),Jabodetabek,45.0,45.0,658.0,658.0,0.0,0.0,1.0,True
+2026-08-16 19:00:00+00:00,tt_bsd,BSD/Serpong,Jabodetabek,34.0,34.0,165.0,165.0,0.0,0.0,1.0,True
+2026-08-16 19:00:00+00:00,tt_cawang,Cawang interchange,Jabodetabek,43.0,43.0,62.0,62.0,0.0,0.0,1.0,True
+2026-08-16 19:00:00+00:00,tt_depok,Jl. Margonda (Depok),Jabodetabek,31.0,31.0,1778.0,1778.0,0.0,0.0,1.0,True
+2026-08-16 19:00:00+00:00,tt_gatsu,Jl. Gatot Subroto,Jabodetabek,45.0,45.0,52.0,52.0,0.0,0.0,1.0,True
+2026-08-16 19:00:00+00:00,tt_grogol,Grogol,Jabodetabek,40.0,40.0,304.0,304.0,0.0,0.0,1.0,True
+2026-08-16 19:00:00+00:00,tt_kebonjeruk,Tol Kebon Jeruk,Jabodetabek,35.0,35.0,1158.0,1158.0,0.0,0.0,1.0,True
+2026-08-16 19:00:00+00:00,tt_kelapagading,Kelapa Gading,Jabodetabek,29.0,29.0,1059.0,1059.0,0.0,0.0,1.0,True
+2026-08-16 19:00:00+00:00,tt_kuningan,Jl. HR Rasuna Said,Jabodetabek,21.0,21.0,208.0,208.0,0.0,0.0,1.0,True
+2026-08-16 19:00:00+00:00,tt_sudirman,Jl. Sudirman (HI),Jabodetabek,38.0,38.0,377.0,377.0,0.0,0.0,1.0,True
+2026-08-16 19:00:00+00:00,tt_tangerang,Tol Jakarta-Merak,Jabodetabek,48.0,48.0,193.0,193.0,0.0,0.0,1.0,True
+2026-08-16 19:00:00+00:00,tt_tbsimatupang,TB Simatupang,Jabodetabek,72.0,72.0,343.0,343.0,0.0,0.0,1.0,True
+2026-08-16 19:00:00+00:00,tt_thamrin,Jl. MH Thamrin,Jabodetabek,22.0,22.0,261.0,261.0,0.0,0.0,1.0,True
+2026-08-16 20:00:00+00:00,tt_bekasi,Tol Jakarta-Cikampek,Jabodetabek,17.0,17.0,1135.0,1135.0,0.0,1.0,0.608914,True
+2026-08-16 20:00:00+00:00,tt_bogor,Tol Jagorawi (Bogor),Jabodetabek,45.0,45.0,658.0,658.0,0.0,0.0,1.0,True
+2026-08-16 20:00:00+00:00,tt_bsd,BSD/Serpong,Jabodetabek,34.0,34.0,165.0,165.0,0.0,0.0,1.0,True
+2026-08-16 20:00:00+00:00,tt_cawang,Cawang interchange,Jabodetabek,43.0,43.0,62.0,62.0,0.0,0.0,1.0,True
+2026-08-16 20:00:00+00:00,tt_depok,Jl. Margonda (Depok),Jabodetabek,31.0,31.0,1778.0,1778.0,0.0,0.0,1.0,True
+2026-08-16 20:00:00+00:00,tt_gatsu,Jl. Gatot Subroto,Jabodetabek,45.0,45.0,52.0,52.0,0.0,0.0,1.0,True
+2026-08-16 20:00:00+00:00,tt_grogol,Grogol,Jabodetabek,40.0,40.0,304.0,304.0,0.0,0.0,1.0,True
+2026-08-16 20:00:00+00:00,tt_kebonjeruk,Tol Kebon Jeruk,Jabodetabek,35.0,35.0,1158.0,1158.0,0.0,0.0,1.0,True
+2026-08-16 20:00:00+00:00,tt_kelapagading,Kelapa Gading,Jabodetabek,29.0,29.0,1059.0,1059.0,0.0,0.0,1.0,True
+2026-08-16 20:00:00+00:00,tt_kuningan,Jl. HR Rasuna Said,Jabodetabek,21.0,21.0,208.0,208.0,0.0,0.0,1.0,True
+2026-08-16 20:00:00+00:00,tt_sudirman,Jl. Sudirman (HI),Jabodetabek,38.0,38.0,377.0,377.0,0.0,0.0,1.0,True
+2026-08-16 20:00:00+00:00,tt_tangerang,Tol Jakarta-Merak,Jabodetabek,48.0,48.0,193.0,193.0,0.0,0.0,1.0,True
+2026-08-16 20:00:00+00:00,tt_tbsimatupang,TB Simatupang,Jabodetabek,72.0,72.0,343.0,343.0,0.0,0.0,1.0,True
+2026-08-16 20:00:00+00:00,tt_thamrin,Jl. MH Thamrin,Jabodetabek,22.0,22.0,261.0,261.0,0.0,0.0,1.0,True
+2026-08-16 21:00:00+00:00,tt_bekasi,,,,,,,,,,False
+2026-08-16 21:00:00+00:00,tt_bogor,,,,,,,,,,False
+2026-08-16 21:00:00+00:00,tt_bsd,,,,,,,,,,False
+2026-08-16 21:00:00+00:00,tt_cawang,,,,,,,,,,False
+2026-08-16 21:00:00+00:00,tt_depok,,,,,,,,,,False
+2026-08-16 21:00:00+00:00,tt_gatsu,,,,,,,,,,False
+2026-08-16 21:00:00+00:00,tt_grogol,,,,,,,,,,False
+2026-08-16 21:00:00+00:00,tt_kebonjeruk,,,,,,,,,,False
+2026-08-16 21:00:00+00:00,tt_kelapagading,,,,,,,,,,False
+2026-08-16 21:00:00+00:00,tt_kuningan,,,,,,,,,,False
+2026-08-16 21:00:00+00:00,tt_sudirman,,,,,,,,,,False
+2026-08-16 21:00:00+00:00,tt_tangerang,,,,,,,,,,False
+2026-08-16 21:00:00+00:00,tt_tbsimatupang,,,,,,,,,,False
+2026-08-16 21:00:00+00:00,tt_thamrin,,,,,,,,,,False
+2026-08-16 22:00:00+00:00,tt_bekasi,Tol Jakarta-Cikampek,Jabodetabek,18.0,18.0,1072.0,1072.0,0.0,1.0,0.635425,True
+2026-08-16 22:00:00+00:00,tt_bogor,Tol Jagorawi (Bogor),Jabodetabek,45.0,45.0,658.0,658.0,0.0,0.0,1.0,True
+2026-08-16 22:00:00+00:00,tt_bsd,BSD/Serpong,Jabodetabek,34.0,34.0,165.0,165.0,0.0,0.0,1.0,True
+2026-08-16 22:00:00+00:00,tt_cawang,Cawang interchange,Jabodetabek,43.0,43.0,62.0,62.0,0.0,0.0,1.0,True
+2026-08-16 22:00:00+00:00,tt_depok,Jl. Margonda (Depok),Jabodetabek,31.0,31.0,1778.0,1778.0,0.0,0.0,1.0,True
+2026-08-16 22:00:00+00:00,tt_gatsu,Jl. Gatot Subroto,Jabodetabek,45.0,45.0,52.0,52.0,0.0,0.0,1.0,True
+2026-08-16 22:00:00+00:00,tt_grogol,Grogol,Jabodetabek,40.0,40.0,304.0,304.0,0.0,0.0,1.0,True
+2026-08-16 22:00:00+00:00,tt_kebonjeruk,Tol Kebon Jeruk,Jabodetabek,35.0,35.0,1158.0,1158.0,0.0,0.0,1.0,True
+2026-08-16 22:00:00+00:00,tt_kelapagading,Kelapa Gading,Jabodetabek,29.0,29.0,1059.0,1059.0,0.0,0.0,1.0,True
+2026-08-16 22:00:00+00:00,tt_kuningan,Jl. HR Rasuna Said,Jabodetabek,21.0,21.0,208.0,208.0,0.0,0.0,1.0,True
+2026-08-16 22:00:00+00:00,tt_sudirman,Jl. Sudirman (HI),Jabodetabek,38.0,38.0,377.0,377.0,0.0,0.0,1.0,True
+2026-08-16 22:00:00+00:00,tt_tangerang,Tol Jakarta-Merak,Jabodetabek,48.0,48.0,193.0,193.0,0.0,0.0,1.0,True
+2026-08-16 22:00:00+00:00,tt_tbsimatupang,TB Simatupang,Jabodetabek,72.0,72.0,343.0,343.0,0.0,0.0,1.0,True
+2026-08-16 22:00:00+00:00,tt_thamrin,Jl. MH Thamrin,Jabodetabek,22.0,22.0,261.0,261.0,0.0,0.0,1.0,True
+2026-08-16 23:00:00+00:00,tt_bekasi,Tol Jakarta-Cikampek,Jabodetabek,17.0,17.0,1135.0,1135.0,0.0,1.0,0.860132,True
+2026-08-16 23:00:00+00:00,tt_bogor,Tol Jagorawi (Bogor),Jabodetabek,45.0,45.0,658.0,658.0,0.0,0.0,1.0,True
+2026-08-16 23:00:00+00:00,tt_bsd,BSD/Serpong,Jabodetabek,34.0,34.0,165.0,165.0,0.0,0.0,1.0,True
+2026-08-16 23:00:00+00:00,tt_cawang,Cawang interchange,Jabodetabek,30.0,43.0,90.0,62.0,0.3023255813953488,0.0,1.0,True
+2026-08-16 23:00:00+00:00,tt_depok,Jl. Margonda (Depok),Jabodetabek,31.0,31.0,1778.0,1778.0,0.0,0.0,1.0,True
+2026-08-16 23:00:00+00:00,tt_gatsu,Jl. Gatot Subroto,Jabodetabek,45.0,45.0,52.0,52.0,0.0,0.0,1.0,True
+2026-08-16 23:00:00+00:00,tt_grogol,Grogol,Jabodetabek,40.0,40.0,304.0,304.0,0.0,0.0,1.0,True
+2026-08-16 23:00:00+00:00,tt_kebonjeruk,Tol Kebon Jeruk,Jabodetabek,35.0,35.0,1158.0,1158.0,0.0,0.0,1.0,True
+2026-08-16 23:00:00+00:00,tt_kelapagading,Kelapa Gading,Jabodetabek,29.0,29.0,1059.0,1059.0,0.0,0.0,1.0,True
+2026-08-16 23:00:00+00:00,tt_kuningan,Jl. HR Rasuna Said,Jabodetabek,21.0,21.0,208.0,208.0,0.0,0.0,1.0,True
+2026-08-16 23:00:00+00:00,tt_sudirman,Jl. Sudirman (HI),Jabodetabek,38.0,38.0,377.0,377.0,0.0,0.0,1.0,True
+2026-08-16 23:00:00+00:00,tt_tangerang,Tol Jakarta-Merak,Jabodetabek,48.0,48.0,193.0,193.0,0.0,0.0,1.0,True
+2026-08-16 23:00:00+00:00,tt_tbsimatupang,TB Simatupang,Jabodetabek,72.0,72.0,343.0,343.0,0.0,0.0,1.0,True
+2026-08-16 23:00:00+00:00,tt_thamrin,Jl. MH Thamrin,Jabodetabek,17.0,22.0,338.0,261.0,0.2272727272727273,0.0,1.0,True
+2026-08-17 00:00:00+00:00,tt_bekasi,,,,,,,,,,False
+2026-08-17 00:00:00+00:00,tt_bogor,,,,,,,,,,False
+2026-08-17 00:00:00+00:00,tt_bsd,,,,,,,,,,False
+2026-08-17 00:00:00+00:00,tt_cawang,,,,,,,,,,False
+2026-08-17 00:00:00+00:00,tt_depok,,,,,,,,,,False
+2026-08-17 00:00:00+00:00,tt_gatsu,,,,,,,,,,False
+2026-08-17 00:00:00+00:00,tt_grogol,,,,,,,,,,False
+2026-08-17 00:00:00+00:00,tt_kebonjeruk,,,,,,,,,,False
+2026-08-17 00:00:00+00:00,tt_kelapagading,,,,,,,,,,False
+2026-08-17 00:00:00+00:00,tt_kuningan,,,,,,,,,,False
+2026-08-17 00:00:00+00:00,tt_sudirman,,,,,,,,,,False
+2026-08-17 00:00:00+00:00,tt_tangerang,,,,,,,,,,False
+2026-08-17 00:00:00+00:00,tt_tbsimatupang,,,,,,,,,,False
+2026-08-17 00:00:00+00:00,tt_thamrin,,,,,,,,,,False
+2026-08-17 01:00:00+00:00,tt_bekasi,Tol Jakarta-Cikampek,Jabodetabek,16.0,17.0,1206.0,1135.0,0.0588235294117647,1.0,0.901694,True
+2026-08-17 01:00:00+00:00,tt_bogor,Tol Jagorawi (Bogor),Jabodetabek,37.0,45.0,800.0,658.0,0.1777777777777778,0.0,0.999616,True
+2026-08-17 01:00:00+00:00,tt_bsd,BSD/Serpong,Jabodetabek,34.0,34.0,165.0,165.0,0.0,0.0,1.0,True
+2026-08-17 01:00:00+00:00,tt_cawang,Cawang interchange,Jabodetabek,43.0,43.0,62.0,62.0,0.0,0.0,1.0,True
+2026-08-17 01:00:00+00:00,tt_depok,Jl. Margonda (Depok),Jabodetabek,31.0,31.0,1778.0,1778.0,0.0,0.0,1.0,True
+2026-08-17 01:00:00+00:00,tt_gatsu,Jl. Gatot Subroto,Jabodetabek,45.0,45.0,52.0,52.0,0.0,0.0,1.0,True
+2026-08-17 01:00:00+00:00,tt_grogol,Grogol,Jabodetabek,40.0,40.0,304.0,304.0,0.0,0.0,1.0,True
+2026-08-17 01:00:00+00:00,tt_kebonjeruk,Tol Kebon Jeruk,Jabodetabek,35.0,35.0,1158.0,1158.0,0.0,0.0,1.0,True
+2026-08-17 01:00:00+00:00,tt_kelapagading,Kelapa Gading,Jabodetabek,29.0,29.0,1059.0,1059.0,0.0,0.0,1.0,True
+2026-08-17 01:00:00+00:00,tt_kuningan,Jl. HR Rasuna Said,Jabodetabek,21.0,21.0,208.0,208.0,0.0,0.0,1.0,True
+2026-08-17 01:00:00+00:00,tt_sudirman,Jl. Sudirman (HI),Jabodetabek,38.0,38.0,377.0,377.0,0.0,0.0,1.0,True
+2026-08-17 01:00:00+00:00,tt_tangerang,Tol Jakarta-Merak,Jabodetabek,48.0,48.0,193.0,193.0,0.0,0.0,1.0,True
+2026-08-17 01:00:00+00:00,tt_tbsimatupang,TB Simatupang,Jabodetabek,72.0,72.0,343.0,343.0,0.0,0.0,1.0,True
+2026-08-17 01:00:00+00:00,tt_thamrin,Jl. MH Thamrin,Jabodetabek,22.0,22.0,261.0,261.0,0.0,0.0,1.0,True
+2026-08-17 02:00:00+00:00,tt_bekasi,,,,,,,,,,False
+2026-08-17 02:00:00+00:00,tt_bogor,,,,,,,,,,False
+2026-08-17 02:00:00+00:00,tt_bsd,,,,,,,,,,False
+2026-08-17 02:00:00+00:00,tt_cawang,,,,,,,,,,False
+2026-08-17 02:00:00+00:00,tt_depok,,,,,,,,,,False
+2026-08-17 02:00:00+00:00,tt_gatsu,,,,,,,,,,False
+2026-08-17 02:00:00+00:00,tt_grogol,,,,,,,,,,False
+2026-08-17 02:00:00+00:00,tt_kebonjeruk,,,,,,,,,,False
+2026-08-17 02:00:00+00:00,tt_kelapagading,,,,,,,,,,False
+2026-08-17 02:00:00+00:00,tt_kuningan,,,,,,,,,,False
+2026-08-17 02:00:00+00:00,tt_sudirman,,,,,,,,,,False
+2026-08-17 02:00:00+00:00,tt_tangerang,,,,,,,,,,False
+2026-08-17 02:00:00+00:00,tt_tbsimatupang,,,,,,,,,,False
+2026-08-17 02:00:00+00:00,tt_thamrin,,,,,,,,,,False
+2026-08-17 03:00:00+00:00,tt_bekasi,Tol Jakarta-Cikampek,Jabodetabek,16.0,17.0,1206.0,1135.0,0.0588235294117647,1.0,0.883197,True
+2026-08-17 03:00:00+00:00,tt_bogor,Tol Jagorawi (Bogor),Jabodetabek,45.0,45.0,658.0,658.0,0.0,0.0,1.0,True
+2026-08-17 03:00:00+00:00,tt_bsd,BSD/Serpong,Jabodetabek,34.0,34.0,165.0,165.0,0.0,0.0,1.0,True
+2026-08-17 03:00:00+00:00,tt_cawang,Cawang interchange,Jabodetabek,43.0,43.0,62.0,62.0,0.0,0.0,1.0,True
+2026-08-17 03:00:00+00:00,tt_depok,Jl. Margonda (Depok),Jabodetabek,31.0,31.0,1778.0,1778.0,0.0,0.0,1.0,True
+2026-08-17 03:00:00+00:00,tt_gatsu,Jl. Gatot Subroto,Jabodetabek,45.0,45.0,52.0,52.0,0.0,0.0,1.0,True
+2026-08-17 03:00:00+00:00,tt_grogol,Grogol,Jabodetabek,40.0,40.0,304.0,304.0,0.0,0.0,1.0,True
+2026-08-17 03:00:00+00:00,tt_kebonjeruk,Tol Kebon Jeruk,Jabodetabek,35.0,35.0,1158.0,1158.0,0.0,0.0,1.0,True
+2026-08-17 03:00:00+00:00,tt_kelapagading,Kelapa Gading,Jabodetabek,29.0,29.0,1059.0,1059.0,0.0,0.0,1.0,True
+2026-08-17 03:00:00+00:00,tt_kuningan,Jl. HR Rasuna Said,Jabodetabek,21.0,21.0,208.0,208.0,0.0,0.0,1.0,True
+2026-08-17 03:00:00+00:00,tt_sudirman,Jl. Sudirman (HI),Jabodetabek,38.0,38.0,377.0,377.0,0.0,0.0,1.0,True
+2026-08-17 03:00:00+00:00,tt_tangerang,Tol Jakarta-Merak,Jabodetabek,48.0,48.0,193.0,193.0,0.0,0.0,1.0,True
+2026-08-17 03:00:00+00:00,tt_tbsimatupang,TB Simatupang,Jabodetabek,72.0,72.0,343.0,343.0,0.0,0.0,1.0,True
+2026-08-17 03:00:00+00:00,tt_thamrin,Jl. MH Thamrin,Jabodetabek,19.0,22.0,302.0,261.0,0.1363636363636363,0.0,1.0,True
+2026-08-17 04:00:00+00:00,tt_bekasi,Tol Jakarta-Cikampek,Jabodetabek,15.0,17.0,1286.0,1135.0,0.1176470588235294,1.0,0.912284,True
+2026-08-17 04:00:00+00:00,tt_bogor,Tol Jagorawi (Bogor),Jabodetabek,45.0,45.0,658.0,658.0,0.0,0.0,1.0,True
+2026-08-17 04:00:00+00:00,tt_bsd,BSD/Serpong,Jabodetabek,34.0,34.0,165.0,165.0,0.0,0.0,1.0,True
+2026-08-17 04:00:00+00:00,tt_cawang,Cawang interchange,Jabodetabek,43.0,43.0,62.0,62.0,0.0,0.0,1.0,True
+2026-08-17 04:00:00+00:00,tt_depok,Jl. Margonda (Depok),Jabodetabek,31.0,31.0,1778.0,1778.0,0.0,0.0,1.0,True
+2026-08-17 04:00:00+00:00,tt_gatsu,Jl. Gatot Subroto,Jabodetabek,45.0,45.0,52.0,52.0,0.0,0.0,1.0,True
+2026-08-17 04:00:00+00:00,tt_grogol,Grogol,Jabodetabek,36.0,40.0,338.0,304.0,0.0999999999999999,0.0,1.0,True
+2026-08-17 04:00:00+00:00,tt_kebonjeruk,Tol Kebon Jeruk,Jabodetabek,35.0,35.0,1158.0,1158.0,0.0,0.0,1.0,True
+2026-08-17 04:00:00+00:00,tt_kelapagading,Kelapa Gading,Jabodetabek,29.0,29.0,1059.0,1059.0,0.0,0.0,1.0,True
+2026-08-17 04:00:00+00:00,tt_kuningan,Jl. HR Rasuna Said,Jabodetabek,21.0,21.0,208.0,208.0,0.0,0.0,1.0,True
+2026-08-17 04:00:00+00:00,tt_sudirman,Jl. Sudirman (HI),Jabodetabek,38.0,38.0,377.0,377.0,0.0,0.0,1.0,True
+2026-08-17 04:00:00+00:00,tt_tangerang,Tol Jakarta-Merak,Jabodetabek,48.0,48.0,193.0,193.0,0.0,0.0,1.0,True
+2026-08-17 04:00:00+00:00,tt_tbsimatupang,TB Simatupang,Jabodetabek,72.0,72.0,343.0,343.0,0.0,0.0,1.0,True
+2026-08-17 04:00:00+00:00,tt_thamrin,Jl. MH Thamrin,Jabodetabek,22.0,22.0,261.0,261.0,0.0,0.0,1.0,True
+2026-08-17 05:00:00+00:00,tt_bekasi,,,,,,,,,,False
+2026-08-17 05:00:00+00:00,tt_bogor,,,,,,,,,,False
+2026-08-17 05:00:00+00:00,tt_bsd,,,,,,,,,,False
+2026-08-17 05:00:00+00:00,tt_cawang,,,,,,,,,,False
+2026-08-17 05:00:00+00:00,tt_depok,,,,,,,,,,False
+2026-08-17 05:00:00+00:00,tt_gatsu,,,,,,,,,,False
+2026-08-17 05:00:00+00:00,tt_grogol,,,,,,,,,,False
+2026-08-17 05:00:00+00:00,tt_kebonjeruk,,,,,,,,,,False
+2026-08-17 05:00:00+00:00,tt_kelapagading,,,,,,,,,,False
+2026-08-17 05:00:00+00:00,tt_kuningan,,,,,,,,,,False
+2026-08-17 05:00:00+00:00,tt_sudirman,,,,,,,,,,False
+2026-08-17 05:00:00+00:00,tt_tangerang,,,,,,,,,,False
+2026-08-17 05:00:00+00:00,tt_tbsimatupang,,,,,,,,,,False
+2026-08-17 05:00:00+00:00,tt_thamrin,,,,,,,,,,False
+2026-08-17 06:00:00+00:00,tt_bekasi,Tol Jakarta-Cikampek,Jabodetabek,16.0,17.0,1206.0,1135.0,0.0588235294117647,1.0,0.878102,True
+2026-08-17 06:00:00+00:00,tt_bogor,Tol Jagorawi (Bogor),Jabodetabek,45.0,45.0,658.0,658.0,0.0,0.0,1.0,True
+2026-08-17 06:00:00+00:00,tt_bsd,BSD/Serpong,Jabodetabek,34.0,34.0,165.0,165.0,0.0,0.0,1.0,True
+2026-08-17 06:00:00+00:00,tt_cawang,Cawang interchange,Jabodetabek,25.0,43.0,108.0,62.0,0.4186046511627906,0.0,1.0,True
+2026-08-17 06:00:00+00:00,tt_depok,Jl. Margonda (Depok),Jabodetabek,31.0,31.0,1778.0,1778.0,0.0,0.0,1.0,True
+2026-08-17 06:00:00+00:00,tt_gatsu,Jl. Gatot Subroto,Jabodetabek,45.0,45.0,52.0,52.0,0.0,0.0,1.0,True
+2026-08-17 06:00:00+00:00,tt_grogol,Grogol,Jabodetabek,34.0,39.0,358.0,312.0,0.1282051282051282,0.0,1.0,True
+2026-08-17 06:00:00+00:00,tt_kebonjeruk,Tol Kebon Jeruk,Jabodetabek,29.0,34.0,1398.0,1192.0,0.1470588235294118,0.0,1.0,True
+2026-08-17 06:00:00+00:00,tt_kelapagading,Kelapa Gading,Jabodetabek,24.0,30.0,1280.0,1024.0,0.1999999999999999,0.0,1.0,True
+2026-08-17 06:00:00+00:00,tt_kuningan,Jl. HR Rasuna Said,Jabodetabek,21.0,21.0,208.0,208.0,0.0,0.0,1.0,True
+2026-08-17 06:00:00+00:00,tt_sudirman,Jl. Sudirman (HI),Jabodetabek,38.0,38.0,377.0,377.0,0.0,0.0,1.0,True
+2026-08-17 06:00:00+00:00,tt_tangerang,Tol Jakarta-Merak,Jabodetabek,48.0,48.0,193.0,193.0,0.0,0.0,1.0,True
+2026-08-17 06:00:00+00:00,tt_tbsimatupang,TB Simatupang,Jabodetabek,72.0,72.0,343.0,343.0,0.0,0.0,1.0,True
+2026-08-17 06:00:00+00:00,tt_thamrin,Jl. MH Thamrin,Jabodetabek,18.0,22.0,319.0,261.0,0.1818181818181817,0.0,1.0,True
+2026-08-17 07:00:00+00:00,tt_bekasi,,,,,,,,,,False
+2026-08-17 07:00:00+00:00,tt_bogor,,,,,,,,,,False
+2026-08-17 07:00:00+00:00,tt_bsd,,,,,,,,,,False
+2026-08-17 07:00:00+00:00,tt_cawang,,,,,,,,,,False
+2026-08-17 07:00:00+00:00,tt_depok,,,,,,,,,,False
+2026-08-17 07:00:00+00:00,tt_gatsu,,,,,,,,,,False
+2026-08-17 07:00:00+00:00,tt_grogol,,,,,,,,,,False
+2026-08-17 07:00:00+00:00,tt_kebonjeruk,,,,,,,,,,False
+2026-08-17 07:00:00+00:00,tt_kelapagading,,,,,,,,,,False
+2026-08-17 07:00:00+00:00,tt_kuningan,,,,,,,,,,False
+2026-08-17 07:00:00+00:00,tt_sudirman,,,,,,,,,,False
+2026-08-17 07:00:00+00:00,tt_tangerang,,,,,,,,,,False
+2026-08-17 07:00:00+00:00,tt_tbsimatupang,,,,,,,,,,False
+2026-08-17 07:00:00+00:00,tt_thamrin,,,,,,,,,,False
+2026-08-17 08:00:00+00:00,tt_bekasi,Tol Jakarta-Cikampek,Jabodetabek,14.0,16.0,1378.0,1206.0,0.125,1.0,0.918803,True
+2026-08-17 08:00:00+00:00,tt_bogor,Tol Jagorawi (Bogor),Jabodetabek,38.0,44.0,779.0,673.0,0.1363636363636363,0.0,1.0,True
+2026-08-17 08:00:00+00:00,tt_bsd,BSD/Serpong,Jabodetabek,34.0,34.0,165.0,165.0,0.0,0.0,1.0,True
+2026-08-17 08:00:00+00:00,tt_cawang,Cawang interchange,Jabodetabek,43.0,43.0,62.0,62.0,0.0,0.0,1.0,True
+2026-08-17 08:00:00+00:00,tt_depok,Jl. Margonda (Depok),Jabodetabek,31.0,31.0,1778.0,1778.0,0.0,0.0,1.0,True
+2026-08-17 08:00:00+00:00,tt_gatsu,Jl. Gatot Subroto,Jabodetabek,45.0,45.0,52.0,52.0,0.0,0.0,1.0,True
+2026-08-17 08:00:00+00:00,tt_grogol,Grogol,Jabodetabek,40.0,40.0,304.0,304.0,0.0,0.0,1.0,True
+2026-08-17 08:00:00+00:00,tt_kebonjeruk,Tol Kebon Jeruk,Jabodetabek,35.0,35.0,1158.0,1158.0,0.0,0.0,1.0,True
+2026-08-17 08:00:00+00:00,tt_kelapagading,Kelapa Gading,Jabodetabek,29.0,29.0,1059.0,1059.0,0.0,0.0,1.0,True
+2026-08-17 08:00:00+00:00,tt_kuningan,Jl. HR Rasuna Said,Jabodetabek,21.0,21.0,208.0,208.0,0.0,0.0,1.0,True
+2026-08-17 08:00:00+00:00,tt_sudirman,Jl. Sudirman (HI),Jabodetabek,38.0,38.0,377.0,377.0,0.0,0.0,1.0,True
+2026-08-17 08:00:00+00:00,tt_tangerang,Tol Jakarta-Merak,Jabodetabek,48.0,48.0,193.0,193.0,0.0,0.0,1.0,True
+2026-08-17 08:00:00+00:00,tt_tbsimatupang,TB Simatupang,Jabodetabek,72.0,72.0,343.0,343.0,0.0,0.0,1.0,True
+2026-08-17 08:00:00+00:00,tt_thamrin,Jl. MH Thamrin,Jabodetabek,13.0,23.0,442.0,249.0,0.4347826086956522,0.0,1.0,True
+2026-08-17 09:00:00+00:00,tt_bekasi,Tol Jakarta-Cikampek,Jabodetabek,15.0,17.0,1286.0,1135.0,0.1176470588235294,1.0,0.947867,True
+2026-08-17 09:00:00+00:00,tt_bogor,Tol Jagorawi (Bogor),Jabodetabek,39.0,45.0,759.0,658.0,0.1333333333333333,0.0,1.0,True
+2026-08-17 09:00:00+00:00,tt_bsd,BSD/Serpong,Jabodetabek,34.0,34.0,165.0,165.0,0.0,0.0,1.0,True
+2026-08-17 09:00:00+00:00,tt_cawang,Cawang interchange,Jabodetabek,23.0,42.0,117.0,64.0,0.4523809523809523,0.0,1.0,True
+2026-08-17 09:00:00+00:00,tt_depok,Jl. Margonda (Depok),Jabodetabek,25.0,31.0,2205.0,1778.0,0.1935483870967742,0.0,0.984821,True
+2026-08-17 09:00:00+00:00,tt_gatsu,Jl. Gatot Subroto,Jabodetabek,45.0,45.0,52.0,52.0,0.0,0.0,1.0,True
+2026-08-17 09:00:00+00:00,tt_grogol,Grogol,Jabodetabek,33.0,40.0,369.0,304.0,0.175,0.0,1.0,True
+2026-08-17 09:00:00+00:00,tt_kebonjeruk,Tol Kebon Jeruk,Jabodetabek,30.0,35.0,1351.0,1158.0,0.1428571428571429,0.0,1.0,True
+2026-08-17 09:00:00+00:00,tt_kelapagading,Kelapa Gading,Jabodetabek,29.0,29.0,1059.0,1059.0,0.0,0.0,1.0,True
+2026-08-17 09:00:00+00:00,tt_kuningan,Jl. HR Rasuna Said,Jabodetabek,21.0,21.0,208.0,208.0,0.0,0.0,1.0,True
+2026-08-17 09:00:00+00:00,tt_sudirman,Jl. Sudirman (HI),Jabodetabek,31.0,39.0,463.0,368.0,0.2051282051282051,0.0,1.0,True
+2026-08-17 09:00:00+00:00,tt_tangerang,Tol Jakarta-Merak,Jabodetabek,48.0,48.0,193.0,193.0,0.0,0.0,1.0,True
+2026-08-17 09:00:00+00:00,tt_tbsimatupang,TB Simatupang,Jabodetabek,72.0,72.0,343.0,343.0,0.0,0.0,1.0,True
+2026-08-17 09:00:00+00:00,tt_thamrin,Jl. MH Thamrin,Jabodetabek,17.0,24.0,338.0,239.0,0.2916666666666666,0.0,1.0,True
+2026-08-17 10:00:00+00:00,tt_bekasi,,,,,,,,,,False
+2026-08-17 10:00:00+00:00,tt_bogor,,,,,,,,,,False
+2026-08-17 10:00:00+00:00,tt_bsd,,,,,,,,,,False
+2026-08-17 10:00:00+00:00,tt_cawang,,,,,,,,,,False
+2026-08-17 10:00:00+00:00,tt_depok,,,,,,,,,,False
+2026-08-17 10:00:00+00:00,tt_gatsu,,,,,,,,,,False
+2026-08-17 10:00:00+00:00,tt_grogol,,,,,,,,,,False
+2026-08-17 10:00:00+00:00,tt_kebonjeruk,,,,,,,,,,False
+2026-08-17 10:00:00+00:00,tt_kelapagading,,,,,,,,,,False
+2026-08-17 10:00:00+00:00,tt_kuningan,,,,,,,,,,False
+2026-08-17 10:00:00+00:00,tt_sudirman,,,,,,,,,,False
+2026-08-17 10:00:00+00:00,tt_tangerang,,,,,,,,,,False
+2026-08-17 10:00:00+00:00,tt_tbsimatupang,,,,,,,,,,False
+2026-08-17 10:00:00+00:00,tt_thamrin,,,,,,,,,,False
+2026-08-17 11:00:00+00:00,tt_bekasi,Tol Jakarta-Cikampek,Jabodetabek,15.0,16.0,1286.0,1206.0,0.0625,1.0,0.890012,True
+2026-08-17 11:00:00+00:00,tt_bogor,Tol Jagorawi (Bogor),Jabodetabek,45.0,45.0,658.0,658.0,0.0,0.0,1.0,True
+2026-08-17 11:00:00+00:00,tt_bsd,BSD/Serpong,Jabodetabek,30.0,34.0,187.0,165.0,0.1176470588235294,0.0,1.0,True
+2026-08-17 11:00:00+00:00,tt_cawang,Cawang interchange,Jabodetabek,43.0,43.0,62.0,62.0,0.0,0.0,1.0,True
+2026-08-17 11:00:00+00:00,tt_depok,Jl. Margonda (Depok),Jabodetabek,24.0,31.0,2297.0,1778.0,0.2258064516129032,0.0,0.972967,True
+2026-08-17 11:00:00+00:00,tt_gatsu,Jl. Gatot Subroto,Jabodetabek,45.0,45.0,52.0,52.0,0.0,0.0,1.0,True
+2026-08-17 11:00:00+00:00,tt_grogol,Grogol,Jabodetabek,33.0,40.0,369.0,304.0,0.175,0.0,1.0,True
+2026-08-17 11:00:00+00:00,tt_kebonjeruk,Tol Kebon Jeruk,Jabodetabek,30.0,35.0,1351.0,1158.0,0.1428571428571429,0.0,1.0,True
+2026-08-17 11:00:00+00:00,tt_kelapagading,Kelapa Gading,Jabodetabek,23.0,29.0,1335.0,1059.0,0.2068965517241379,0.0,1.0,True
+2026-08-17 11:00:00+00:00,tt_kuningan,Jl. HR Rasuna Said,Jabodetabek,16.0,20.0,273.0,218.0,0.1999999999999999,0.0,0.99,True
+2026-08-17 11:00:00+00:00,tt_sudirman,Jl. Sudirman (HI),Jabodetabek,32.0,39.0,448.0,368.0,0.1794871794871795,0.0,1.0,True
+2026-08-17 11:00:00+00:00,tt_tangerang,Tol Jakarta-Merak,Jabodetabek,48.0,48.0,193.0,193.0,0.0,0.0,1.0,True
+2026-08-17 11:00:00+00:00,tt_tbsimatupang,TB Simatupang,Jabodetabek,72.0,72.0,343.0,343.0,0.0,0.0,1.0,True
+2026-08-17 11:00:00+00:00,tt_thamrin,Jl. MH Thamrin,Jabodetabek,13.0,24.0,442.0,239.0,0.4583333333333333,0.0,1.0,True
