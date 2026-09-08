@@ -157,9 +157,6 @@ val_target = combine_y_mask(
 )
 
 
-# =========================================================
-# FIXED GRAPH CONVOLUTION
-# =========================================================
 class FixedGraphConv(tf.keras.layers.Layer):
 
     def __init__(
@@ -173,29 +170,29 @@ class FixedGraphConv(tf.keras.layers.Layer):
         self.units = units
         self.adjacency = adjacency
 
-        self.projection = (
-            tf.keras.layers.Dense(
-                units,
-                activation="relu"
-            )
+        self.projection = tf.keras.layers.Dense(
+            units,
+            activation="relu"
         )
 
     def call(self, inputs):
 
-        # inputs:
-        # batch × time × nodes × features
-
-        # Spatial aggregation
-        x = tf.einsum(
+        # Informasi dari graph / neighbors
+        graph_x = tf.einsum(
             "ij,btjf->btif",
             self.adjacency,
             inputs
         )
 
+        # Pertahankan informasi asli node + informasi graph
+        x = tf.concat(
+            [inputs, graph_x],
+            axis=-1
+        )
+
         x = self.projection(x)
 
         return x
-
 
 # =========================================================
 # MODEL

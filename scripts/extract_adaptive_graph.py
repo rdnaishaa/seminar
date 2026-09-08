@@ -82,17 +82,14 @@ class AdaptiveGraphConv(tf.keras.layers.Layer):
 
         self.node_embeddings = self.add_weight(
             name="node_embeddings",
-            shape=(
-                self.num_nodes,
-                self.embedding_dim
-            ),
+            shape=(self.num_nodes, self.embedding_dim),
             initializer="glorot_uniform",
             trainable=True
         )
 
         super().build(input_shape)
 
-    def call(self, inputs):
+    def compute_adjacency(self):
 
         scores = tf.matmul(
             self.node_embeddings,
@@ -102,33 +99,53 @@ class AdaptiveGraphConv(tf.keras.layers.Layer):
 
         scores = tf.nn.relu(scores)
 
-        adjacency = tf.nn.softmax(
-            scores,
-            axis=-1
+        adjacency = (
+            scores
+            + tf.eye(
+                self.num_nodes,
+                dtype=scores.dtype
+            )
         )
 
-        x = tf.einsum(
+        degree = tf.reduce_sum(
+            adjacency,
+            axis=1
+        )
+
+        d_inv_sqrt = tf.math.rsqrt(
+            degree + 1e-8
+        )
+
+        adjacency_norm = (
+            adjacency
+            * d_inv_sqrt[:, None]
+            * d_inv_sqrt[None, :]
+        )
+
+        return adjacency_norm
+
+    def call(self, inputs):
+
+        adjacency = self.compute_adjacency()
+
+        graph_x = tf.einsum(
             "ij,btjf->btif",
             adjacency,
             inputs
         )
 
-        return self.projection(x)
+        x = tf.concat(
+            [inputs, graph_x],
+            axis=-1
+        )
+
+        x = self.projection(x)
+
+        return x
 
     def get_adjacency(self):
 
-        scores = tf.matmul(
-            self.node_embeddings,
-            self.node_embeddings,
-            transpose_b=True
-        )
-
-        scores = tf.nn.relu(scores)
-
-        return tf.nn.softmax(
-            scores,
-            axis=-1
-        )
+        return self.compute_adjacency()
 
 
 # =========================================================

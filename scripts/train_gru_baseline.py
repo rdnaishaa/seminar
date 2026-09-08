@@ -347,11 +347,69 @@ model = tf.keras.Sequential([
     )
 ])
 
+# =========================================================
+# MASKED LOSS
+# =========================================================
+
+def masked_mse(y_true_with_mask, y_pred):
+
+    num_outputs = len(HORIZONS) * NUM_NODES
+
+    y_true = y_true_with_mask[
+        :, :num_outputs
+    ]
+
+    mask = y_true_with_mask[
+        :, num_outputs:
+    ]
+
+    squared_error = tf.square(
+        y_true - y_pred
+    )
+
+    masked_error = (
+        squared_error * mask
+    )
+
+    return (
+        tf.reduce_sum(masked_error)
+        /
+        (tf.reduce_sum(mask) + 1e-8)
+    )
+
+
+mask_train_flat = mask_train.reshape(
+    -1,
+    len(HORIZONS) * NUM_NODES
+).astype(np.float32)
+
+mask_val_flat = mask_val.reshape(
+    -1,
+    len(HORIZONS) * NUM_NODES
+).astype(np.float32)
+
+
+train_target_masked = np.concatenate(
+    [
+        y_train_flat.astype(np.float32),
+        mask_train_flat
+    ],
+    axis=1
+)
+
+val_target_masked = np.concatenate(
+    [
+        y_val_flat.astype(np.float32),
+        mask_val_flat
+    ],
+    axis=1
+)
+
 model.compile(
     optimizer=tf.keras.optimizers.Adam(
         learning_rate=0.001
     ),
-    loss="mse"
+    loss=masked_mse
 )
 
 model.summary()
@@ -370,10 +428,10 @@ callbacks = [
 
 history = model.fit(
     X_train,
-    y_train_flat,
+    train_target_masked,
     validation_data=(
         X_val,
-        y_val_flat
+        val_target_masked
     ),
     epochs=EPOCHS,
     batch_size=BATCH_SIZE,

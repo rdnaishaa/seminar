@@ -159,6 +159,8 @@ val_target = combine_y_mask(
 
 # =========================================================
 # ADAPTIVE GRAPH CONVOLUTION
+# Same symmetric normalization as Fixed Graph:
+# A_norm = D^(-1/2) A D^(-1/2)
 # =========================================================
 class AdaptiveGraphConv(tf.keras.layers.Layer):
 
@@ -182,7 +184,6 @@ class AdaptiveGraphConv(tf.keras.layers.Layer):
 
     def build(self, input_shape):
 
-        # Learnable embedding untuk setiap corridor
         self.node_embeddings = self.add_weight(
             name="node_embeddings",
             shape=(self.num_nodes, self.embedding_dim),
@@ -192,9 +193,9 @@ class AdaptiveGraphConv(tf.keras.layers.Layer):
 
         super().build(input_shape)
 
-    def call(self, inputs):
+    def compute_adjacency(self):
 
-        # Similarity antar-node dipelajari dari embedding
+        # Learned symmetric similarity
         scores = tf.matmul(
             self.node_embeddings,
             self.node_embeddings,
@@ -203,17 +204,47 @@ class AdaptiveGraphConv(tf.keras.layers.Layer):
 
         scores = tf.nn.relu(scores)
 
-        # Adaptive adjacency
-        adjacency = tf.nn.softmax(
-            scores,
-            axis=-1
+        # Explicit self-loop
+        adjacency = (
+            scores
+            + tf.eye(
+                self.num_nodes,
+                dtype=scores.dtype
+            )
         )
 
-        # Spatial aggregation
-        x = tf.einsum(
+        # Same symmetric normalization as training
+        degree = tf.reduce_sum(
+            adjacency,
+            axis=1
+        )
+
+        d_inv_sqrt = tf.math.rsqrt(
+            degree + 1e-8
+        )
+
+        adjacency_norm = (
+            adjacency
+            * d_inv_sqrt[:, None]
+            * d_inv_sqrt[None, :]
+        )
+
+        return adjacency_norm
+
+    def call(self, inputs):
+
+        adjacency = self.compute_adjacency()
+
+        graph_x = tf.einsum(
             "ij,btjf->btif",
             adjacency,
             inputs
+        )
+
+        # Same raw + graph path as training
+        x = tf.concat(
+            [inputs, graph_x],
+            axis=-1
         )
 
         x = self.projection(x)
@@ -222,20 +253,8 @@ class AdaptiveGraphConv(tf.keras.layers.Layer):
 
     def get_adjacency(self):
 
-        scores = tf.matmul(
-            self.node_embeddings,
-            self.node_embeddings,
-            transpose_b=True
-        )
-
-        scores = tf.nn.relu(scores)
-
-        return tf.nn.softmax(
-            scores,
-            axis=-1
-        )
-
-
+        return self.compute_adjacency()
+        
 # =========================================================
 # MODEL
 # =========================================================
