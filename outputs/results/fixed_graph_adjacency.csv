@@ -1,0 +1,15 @@
+,tt_bekasi,tt_bogor,tt_bsd,tt_cawang,tt_depok,tt_gatsu,tt_grogol,tt_kebonjeruk,tt_kelapagading,tt_kuningan,tt_sudirman,tt_tangerang,tt_tbsimatupang,tt_thamrin
+tt_bekasi,1,0,0,1,0,1,0,0,1,0,0,0,0,0
+tt_bogor,0,1,0,1,1,0,0,0,0,0,0,0,1,0
+tt_bsd,0,0,1,0,0,0,0,1,0,0,0,1,1,0
+tt_cawang,1,1,0,1,1,1,0,0,1,1,1,0,1,0
+tt_depok,0,1,0,1,1,0,0,0,0,0,0,0,1,0
+tt_gatsu,1,0,0,1,0,1,0,0,0,1,1,0,1,0
+tt_grogol,0,0,0,0,0,0,1,1,0,0,1,1,0,1
+tt_kebonjeruk,0,0,1,0,0,0,1,1,0,0,1,1,0,1
+tt_kelapagading,1,0,0,1,0,0,0,0,1,0,1,0,0,1
+tt_kuningan,0,0,0,1,0,1,0,0,0,1,1,0,1,1
+tt_sudirman,0,0,0,1,0,1,1,1,1,1,1,0,0,1
+tt_tangerang,0,0,1,0,0,0,1,1,0,0,0,1,0,0
+tt_tbsimatupang,0,1,1,1,1,1,0,0,0,1,0,0,1,0
+tt_thamrin,0,0,0,0,0,0,1,1,1,1,1,0,0,1
