@@ -287,3 +287,99 @@ tt_cikarang,Cikarang (Jababeka),2026-09-09T03:16:33+00:00,-6.282,107.152,15,27,9
 tt_harapanindah,Boulevard Harapan Indah,2026-09-09T03:16:33+00:00,-6.183,106.983,29,29,436,436,0.0,False,1.0,FRC4
 tt_becakayu_toll,Tol Becakayu,2026-09-09T03:16:33+00:00,-6.243,106.92,23,32,563,404,0.2812,False,1.0,FRC2
 tt_jorr_e,Tol JORR Timur (Jatiwarna),2026-09-09T03:16:33+00:00,-6.296,106.913,22,29,539,409,0.2414,False,0.952752,FRC3
+tt_sudirman,Jl. Sudirman (HI),2026-09-09T06:43:01+00:00,-6.2088,106.8228,23,39,624,368,0.4103,False,1.0,FRC1
+tt_thamrin,Jl. MH Thamrin,2026-09-09T06:43:01+00:00,-6.188,106.823,15,25,383,229,0.4,False,1.0,FRC1
+tt_gatsu,Jl. Gatot Subroto,2026-09-09T06:43:01+00:00,-6.2349,106.83,45,45,52,52,0.0,False,1.0,FRC3
+tt_kuningan,Jl. HR Rasuna Said,2026-09-09T06:43:01+00:00,-6.221,106.83,21,21,208,208,0.0,False,1.0,FRC4
+tt_cawang,Cawang interchange,2026-09-09T06:43:01+00:00,-6.245,106.865,19,43,142,62,0.5581,False,1.0,FRC1
+tt_grogol,Grogol,2026-09-09T06:43:01+00:00,-6.166,106.79,27,40,451,304,0.325,False,1.0,FRC2
+tt_kelapagading,Kelapa Gading,2026-09-09T06:43:01+00:00,-6.158,106.906,21,29,1463,1059,0.2759,False,0.99691,FRC3
+tt_tbsimatupang,TB Simatupang,2026-09-09T06:43:01+00:00,-6.293,106.82,42,72,588,343,0.4167,False,1.0,FRC0
+tt_kebonjeruk,Tol Kebon Jeruk,2026-09-09T06:43:01+00:00,-6.195,106.77,24,36,1689,1126,0.3333,False,1.0,FRC2
+tt_bekasi,Tol Jakarta-Cikampek,2026-09-09T06:43:01+00:00,-6.24,106.975,18,18,1072,1072,0.0,False,1.0,FRC4
+tt_depok,Jl. Margonda (Depok),2026-09-09T06:43:01+00:00,-6.4,106.82,25,31,2205,1778,0.1935,False,0.970217,FRC2
+tt_tangerang,Tol Jakarta-Merak,2026-09-09T06:43:01+00:00,-6.2,106.63,48,48,193,193,0.0,False,1.0,FRC1
+tt_bsd,BSD/Serpong,2026-09-09T06:43:01+00:00,-6.3,106.67,34,34,165,165,0.0,False,1.0,FRC3
+tt_bogor,Tol Jagorawi (Bogor),2026-09-09T06:43:01+00:00,-6.5,106.84,37,44,800,673,0.1591,False,1.0,FRC1
+tt_sudirman_s,Jl. Sudirman Selatan (Senayan),2026-09-09T06:43:01+00:00,-6.229,106.802,15,20,491,368,0.25,False,1.0,FRC2
+tt_mtharyono,Jl. MT Haryono (Cawang),2026-09-09T06:43:01+00:00,-6.245,106.882,47,47,37,37,0.0,False,1.0,FRC1
+tt_merdekabar,Jl. Medan Merdeka Barat,2026-09-09T06:43:01+00:00,-6.1755,106.82,22,27,84,68,0.1852,False,0.98,FRC4
+tt_majapahit,Jl. Majapahit,2026-09-09T06:43:01+00:00,-6.165,106.8175,28,40,435,304,0.3,False,1.0,FRC2
+tt_daanmogot,Jl. Daan Mogot (Grogol),2026-09-09T06:43:01+00:00,-6.158,106.755,28,39,463,332,0.2821,False,1.0,FRC1
+tt_rayabogor,Jl. Raya Bogor (Pasar Rebo),2026-09-09T06:43:01+00:00,-6.33,106.86,17,22,818,632,0.2273,False,0.951012,FRC4
+tt_kalimalang,Jl. Kalimalang (Bekasi),2026-09-09T06:43:01+00:00,-6.256,106.965,31,31,169,169,0.0,False,1.0,FRC4
+tt_sultanagung,Jl. Sultan Agung (Bekasi),2026-09-09T06:43:01+00:00,-6.255,107.005,25,25,183,183,0.0,False,1.0,FRC3
+tt_sparman,Jl. Letjen S. Parman (Slipi),2026-09-09T06:43:01+00:00,-6.185,106.795,24,24,156,156,0.0,False,1.0,FRC4
+tt_lingkardalam,Tol Lingkar Dalam (Semanggi),2026-09-09T06:43:01+00:00,-6.225,106.81,10,23,158,69,0.5652,False,0.99,FRC4
+tt_hayamwuruk,Jl. Hayam Wuruk,2026-09-09T06:43:01+00:00,-6.145,106.815,16,24,818,545,0.3333,False,0.986853,FRC3
+tt_gajahmada,Jl. Gajah Mada,2026-09-09T06:43:01+00:00,-6.152,106.81,14,20,715,500,0.3,False,0.91055,FRC3
+tt_kramatraya,Jl. Kramat Raya (Senen),2026-09-09T06:43:01+00:00,-6.182,106.845,23,28,147,121,0.1786,False,1.0,FRC3
+tt_salemba,Jl. Salemba Raya,2026-09-09T06:43:01+00:00,-6.185,106.85,28,35,1215,972,0.2,False,0.992522,FRC2
+tt_otista,Jl. Otista Raya,2026-09-09T06:43:01+00:00,-6.235,106.86,19,24,568,449,0.2083,False,0.99,FRC4
+tt_matraman,Jl. Matraman Raya,2026-09-09T06:43:01+00:00,-6.225,106.85,29,42,2449,1691,0.3095,False,1.0,FRC3
+tt_pramuka,Jl. Pramuka,2026-09-09T06:43:01+00:00,-6.19,106.865,30,43,529,369,0.3023,False,1.0,FRC2
+tt_pemuda,Jl. Pemuda,2026-09-09T06:43:01+00:00,-6.18,106.88,39,39,118,118,0.0,False,1.0,FRC4
+tt_pluit,Jl. Pluit Raya,2026-09-09T06:43:01+00:00,-6.122,106.778,51,51,90,90,0.0,False,1.0,FRC2
+tt_kapukmuara,Jl. Kapuk Muara,2026-09-09T06:43:01+00:00,-6.115,106.745,25,32,265,207,0.2188,False,1.0,FRC4
+tt_martadinata,Jl. RE Martadinata,2026-09-09T06:43:01+00:00,-6.108,106.88,35,35,397,397,0.0,False,1.0,FRC1
+tt_gunungsahari,Jl. Gunung Sahari,2026-09-09T06:43:01+00:00,-6.148,106.83,19,25,388,295,0.24,False,1.0,FRC4
+tt_manggadua,Jl. Mangga Dua Raya,2026-09-09T06:43:01+00:00,-6.142,106.822,28,34,302,248,0.1765,False,0.987767,FRC4
+tt_cakungcilincing,Jl. Raya Cakung-Cilincing,2026-09-09T06:43:01+00:00,-6.148,106.93,20,28,1180,843,0.2857,False,0.959233,FRC3
+tt_rayabekasi_cakung,Jl. Raya Bekasi (Cakung),2026-09-09T06:43:01+00:00,-6.172,106.945,36,36,388,388,0.0,False,1.0,FRC3
+tt_perintis,Jl. Perintis Kemerdekaan,2026-09-09T06:43:01+00:00,-6.187,106.905,21,27,284,221,0.2222,False,0.874793,FRC4
+tt_jatinegara,Jl. Jatinegara Timur,2026-09-09T06:43:01+00:00,-6.215,106.87,28,35,1215,972,0.2,False,0.992517,FRC2
+tt_supomo,Jl. Prof. Supomo (Sahardjo),2026-09-09T06:43:01+00:00,-6.245,106.848,10,49,102,20,0.7959,False,1.0,FRC1
+tt_cijantung,Jl. Raya Cijantung,2026-09-09T06:43:01+00:00,-6.31,106.855,21,21,202,202,0.0,False,1.0,FRC4
+tt_tambun,Jl. Raya Tambun (Bekasi),2026-09-09T06:43:01+00:00,-6.268,107.05,33,38,1028,892,0.1316,False,0.987306,FRC4
+tt_cibitung,Jl. Raya Cibitung,2026-09-09T06:43:01+00:00,-6.245,107.095,23,23,1201,1201,0.0,False,1.0,FRC4
+tt_fatmawati,Jl. RS Fatmawati,2026-09-09T06:43:01+00:00,-6.292,106.797,20,35,29,17,0.4286,False,1.0,FRC1
+tt_lebakbulus,Jl. Lebak Bulus,2026-09-09T06:43:01+00:00,-6.305,106.785,17,30,1082,613,0.4333,False,0.999538,FRC3
+tt_kemang,Jl. Kemang Raya,2026-09-09T06:43:01+00:00,-6.26,106.815,20,28,1183,845,0.2857,False,1.0,FRC3
+tt_tendean,Jl. Kapt. Tendean,2026-09-09T06:43:01+00:00,-6.242,106.832,11,40,287,79,0.725,False,1.0,FRC1
+tt_mampang,Jl. Mampang Prapatan,2026-09-09T06:43:01+00:00,-6.248,106.828,27,34,1456,1156,0.2059,False,1.0,FRC3
+tt_ragunan,Jl. Ragunan (TMII),2026-09-09T06:43:01+00:00,-6.295,106.815,20,28,1183,845,0.2857,False,1.0,FRC3
+tt_lentengagung,Jl. Lenteng Agung,2026-09-09T06:43:01+00:00,-6.31,106.835,48,48,107,107,0.0,False,1.0,FRC2
+tt_pondokindah,Jl. Pondok Indah,2026-09-09T06:43:01+00:00,-6.28,106.78,11,18,199,122,0.3889,False,1.0,FRC3
+tt_purikembangan,Jl. Puri Kembangan,2026-09-09T06:43:01+00:00,-6.205,106.73,77,77,307,307,0.0,False,1.0,FRC0
+tt_kedoya,Jl. Kedoya Raya,2026-09-09T06:43:01+00:00,-6.195,106.755,19,28,1154,783,0.3214,False,0.991059,FRC2
+tt_pospengumben,Jl. Raya Pos Pengumben,2026-09-09T06:43:01+00:00,-6.225,106.73,24,28,1098,941,0.1429,False,0.985989,FRC3
+tt_karawaci,Jl. Karawaci (Tangerang),2026-09-09T06:43:01+00:00,-6.22,106.61,31,31,297,297,0.0,False,1.0,FRC2
+tt_cipondoh,Jl. Cipondoh (Tangerang),2026-09-09T06:43:01+00:00,-6.195,106.68,28,34,858,706,0.1765,False,0.998596,FRC2
+tt_jorr_west,Tol JORR Barat,2026-09-09T06:43:01+00:00,-6.235,106.695,20,29,2363,1630,0.3103,False,0.993449,FRC2
+tt_cibinong,Jl. Raya Cibinong,2026-09-09T06:43:01+00:00,-6.48,106.85,35,44,2032,1617,0.2045,False,1.0,FRC1
+tt_cimanggis,Jl. Raya Cimanggis,2026-09-09T06:43:01+00:00,-6.37,106.885,20,24,556,463,0.1667,False,0.949247,FRC2
+tt_cilodong,Jl. Raya Cilodong,2026-09-09T06:43:01+00:00,-6.43,106.84,23,29,2668,2116,0.2069,False,0.966353,FRC4
+tt_gadingserpong,Jl. Gading Serpong,2026-09-09T06:43:01+00:00,-6.245,106.64,29,35,119,99,0.1714,False,0.987744,FRC4
+tt_merak_toll_e,Tol Jkt-Merak (Timur),2026-09-09T06:43:01+00:00,-6.24,106.59,25,25,435,435,0.0,False,1.0,FRC4
+tt_sedyatmo_toll,Tol Sedyatmo (Bandara),2026-09-09T06:43:01+00:00,-6.103,106.722,76,76,303,303,0.0,False,1.0,FRC0
+tt_yossudarso,Jl. Yos Sudarso (Sunter-Priok),2026-09-09T06:43:01+00:00,-6.135,106.888,35,42,340,283,0.1667,False,1.0,FRC3
+tt_cibitung_cilincing,Tol Cibitung-Cilincing (Tarumajaya),2026-09-09T06:43:01+00:00,-6.18,107.045,34,34,651,651,0.0,False,1.0,FRC4
+tt_ciledug,Jl. HOS Cokroaminoto (Ciledug),2026-09-09T06:43:01+00:00,-6.236,106.708,21,28,3040,2280,0.25,False,0.986269,FRC4
+tt_ciputat,Jl. Ir H Juanda (Ciputat),2026-09-09T06:43:01+00:00,-6.308,106.748,28,28,463,463,0.0,False,1.0,FRC4
+tt_bintaro,Jl. Bintaro Utama,2026-09-09T06:43:01+00:00,-6.273,106.728,28,28,490,490,0.0,False,1.0,FRC3
+tt_serpong_raya,Jl. Raya Serpong,2026-09-09T06:43:01+00:00,-6.283,106.668,36,41,668,586,0.122,False,1.0,FRC3
+tt_pamulang,Jl. Siliwangi (Pamulang),2026-09-09T06:43:01+00:00,-6.343,106.738,32,32,1100,1100,0.0,False,1.0,FRC2
+tt_cikupa,Jl. Raya Serang (Cikupa),2026-09-09T06:43:01+00:00,-6.223,106.525,25,38,1609,1058,0.3421,False,0.998943,FRC1
+tt_daanmogot_km19,Jl. Daan Mogot KM19 (Batuceper),2026-09-09T06:43:01+00:00,-6.162,106.695,31,41,1030,779,0.2439,False,1.0,FRC1
+tt_serpong_toll,Tol Jakarta-Serpong (Pondok Ranji),2026-09-09T06:43:01+00:00,-6.276,106.715,16,24,252,168,0.3333,False,0.925335,FRC4
+tt_cinere,Jl. Cinere Raya,2026-09-09T06:43:01+00:00,-6.335,106.784,17,26,404,264,0.3462,False,1.0,FRC3
+tt_sawangan,Jl. Raya Sawangan,2026-09-09T06:43:01+00:00,-6.403,106.776,26,26,985,985,0.0,False,1.0,FRC3
+tt_juanda_depok,Jl. Ir H Juanda (Depok),2026-09-09T06:43:01+00:00,-6.381,106.833,19,33,543,312,0.4242,False,1.0,FRC2
+tt_aksesui,Jl. Akses UI (Kelapa Dua),2026-09-09T06:43:01+00:00,-6.348,106.823,26,26,523,523,0.0,False,1.0,FRC5
+tt_citayam,Jl. Raya Citayam,2026-09-09T06:43:01+00:00,-6.435,106.802,24,24,1067,1067,0.0,False,1.0,FRC3
+tt_parung,Jl. Raya Parung,2026-09-09T06:43:01+00:00,-6.47,106.733,37,44,1690,1421,0.1591,False,1.0,FRC1
+tt_pajajaran_bgr,Jl. Pajajaran (Bogor),2026-09-09T06:43:01+00:00,-6.601,106.806,25,39,122,78,0.359,False,1.0,FRC1
+tt_sholehiskandar,Jl. Sholeh Iskandar (Bogor),2026-09-09T06:43:01+00:00,-6.561,106.783,21,21,103,103,0.0,False,1.0,FRC4
+tt_ciawi,Jl. Raya Puncak (Ciawi),2026-09-09T06:43:01+00:00,-6.648,106.848,83,83,29,29,0.0,False,1.0,FRC0
+tt_dramaga,Jl. Raya Dramaga (Bogor),2026-09-09T06:43:01+00:00,-6.557,106.745,28,28,370,370,0.0,False,1.0,FRC4
+tt_antasari_toll,Tol Depok-Antasari (Krukut),2026-09-09T06:43:01+00:00,-6.335,106.796,20,27,322,238,0.2593,False,0.98,FRC4
+tt_cijago_toll,Tol Cijago (Depok),2026-09-09T06:43:01+00:00,-6.376,106.865,27,38,380,270,0.2895,False,1.0,FRC1
+tt_transyogi,Jl. Transyogi (Cibubur),2026-09-09T06:43:01+00:00,-6.364,106.91,26,26,240,240,0.0,False,1.0,FRC4
+tt_cileungsi,Jl. Raya Cileungsi,2026-09-09T06:43:01+00:00,-6.405,106.96,17,28,77,47,0.3929,False,0.97,FRC2
+tt_narogong,Jl. Raya Narogong (Rawalumbu),2026-09-09T06:43:01+00:00,-6.29,106.97,22,27,1658,1351,0.1852,False,0.996852,FRC2
+tt_jatiasih,Jl. Jatiasih Raya,2026-09-09T06:43:01+00:00,-6.305,106.952,26,26,246,246,0.0,False,1.0,FRC3
+tt_pondokgede,Jl. Raya Pondok Gede,2026-09-09T06:43:01+00:00,-6.283,106.91,26,32,1296,1053,0.1875,False,1.0,FRC2
+tt_cikarang,Cikarang (Jababeka),2026-09-09T06:43:01+00:00,-6.282,107.152,21,27,661,514,0.2222,False,0.971279,FRC2
+tt_harapanindah,Boulevard Harapan Indah,2026-09-09T06:43:01+00:00,-6.183,106.983,26,29,486,436,0.1034,False,0.994615,FRC4
+tt_becakayu_toll,Tol Becakayu,2026-09-09T06:43:01+00:00,-6.243,106.92,23,33,563,392,0.303,False,0.998575,FRC2
+tt_jorr_e,Tol JORR Timur (Jatiwarna),2026-09-09T06:43:01+00:00,-6.296,106.913,23,30,516,395,0.2333,False,0.93,FRC3
