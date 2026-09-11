@@ -7,7 +7,8 @@ def get_route_geometry(
     start_lat,
     start_lon,
     end_lat,
-    end_lon
+    end_lon,
+    depart_at=None,
 ):
 
     if not TOMTOM_API_KEY:
@@ -22,14 +23,19 @@ def get_route_geometry(
         f"{end_lat},{end_lon}/json"
     )
 
+    params = {
+        "key": TOMTOM_API_KEY,
+        "traffic": "true",
+        "routeType": "fastest",
+        "travelMode": "car",
+    }
+
+    if depart_at is not None:
+        params["departAt"] = depart_at
+
     response = requests.get(
         url,
-        params={
-            "key": TOMTOM_API_KEY,
-            "traffic": "false",
-            "routeType": "fastest",
-            "travelMode": "car",
-        },
+        params=params,
         timeout=30,
     )
 
