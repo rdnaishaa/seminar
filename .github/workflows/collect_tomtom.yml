@@ -2,7 +2,7 @@ name: Collect TomTom Traffic
 
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "50 * * * *"
   workflow_dispatch:
 
 permissions:
