@@ -2,9 +2,9 @@ name: Collect TomTom Traffic
 
 on:
   schedule:
-    # Jalan tiap jam pada menit ke-45
+    # Jalan tiap jam pada menit ke-10
     # Cron GitHub Actions memakai UTC
-  - cron: "45 * * * *"
+    - cron: "10 * * * *"
 
   # Bisa dijalankan manual dari tab Actions
   workflow_dispatch:
