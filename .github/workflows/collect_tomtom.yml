@@ -52,5 +52,7 @@ jobs:
             echo "Tidak ada data baru untuk di-commit."
           else
             git commit -m "data: collect TomTom hourly traffic"
-            git push
+
+            git pull --rebase origin main
+            git push origin main
           fi
