@@ -97,3 +97,17 @@ tt_sudirman,Jl. Sudirman (HI),2026-09-11T23:00:00+00:00,-6.2088,106.8228,39,39,3
 tt_tangerang,Tol Jakarta-Merak,2026-09-11T23:00:00+00:00,-6.2,106.63,48,48,193,193,0.0,1,False,FRC1
 tt_tbsimatupang,TB Simatupang,2026-09-11T23:00:00+00:00,-6.293,106.82,72,72,343,343,0.0,1,False,FRC0
 tt_thamrin,Jl. MH Thamrin,2026-09-11T23:00:00+00:00,-6.188,106.823,22,22,261,261,0.0,1,False,FRC1
+tt_bekasi,Tol Jakarta-Cikampek,2026-09-12T01:00:00+00:00,-6.24,106.975,18,18,1072,1072,0.0,1.0,False,FRC4
+tt_bogor,Tol Jagorawi (Bogor),2026-09-12T01:00:00+00:00,-6.5,106.84,39,45,759,658,0.1333,1.0,False,FRC1
+tt_bsd,BSD/Serpong,2026-09-12T01:00:00+00:00,-6.3,106.67,34,34,165,165,0.0,1.0,False,FRC3
+tt_cawang,Cawang interchange,2026-09-12T01:00:00+00:00,-6.245,106.865,43,43,62,62,0.0,1.0,False,FRC1
+tt_depok,Jl. Margonda (Depok),2026-09-12T01:00:00+00:00,-6.4,106.82,25,32,2205,1722,0.2188,0.976412,False,FRC2
+tt_gatsu,Jl. Gatot Subroto,2026-09-12T01:00:00+00:00,-6.2349,106.83,45,45,52,52,0.0,1.0,False,FRC3
+tt_grogol,Grogol,2026-09-12T01:00:00+00:00,-6.166,106.79,40,40,304,304,0.0,1.0,False,FRC2
+tt_kebonjeruk,Tol Kebon Jeruk,2026-09-12T01:00:00+00:00,-6.195,106.77,29,35,1398,1158,0.1714,1.0,False,FRC2
+tt_kelapagading,Kelapa Gading,2026-09-12T01:00:00+00:00,-6.158,106.906,27,29,1137,1059,0.069,1.0,False,FRC3
+tt_kuningan,Jl. HR Rasuna Said,2026-09-12T01:00:00+00:00,-6.221,106.83,17,20,256,218,0.15,0.984981,False,FRC4
+tt_sudirman,Jl. Sudirman (HI),2026-09-12T01:00:00+00:00,-6.2088,106.8228,39,39,368,368,0.0,1.0,False,FRC1
+tt_tangerang,Tol Jakarta-Merak,2026-09-12T01:00:00+00:00,-6.2,106.63,48,48,193,193,0.0,1.0,False,FRC1
+tt_tbsimatupang,TB Simatupang,2026-09-12T01:00:00+00:00,-6.293,106.82,72,72,343,343,0.0,1.0,False,FRC0
+tt_thamrin,Jl. MH Thamrin,2026-09-12T01:00:00+00:00,-6.188,106.823,22,22,261,261,0.0,1.0,False,FRC1
